@@ -8,12 +8,12 @@
 <body>
 <div style="text-align:center;margin-top:50px;">
         You must enter the password to view this content.
-        <form method="POST" action="{{ route('validar') }}">
+        <form method="POST" action="/formact1">
         {{-- {{csrf_field()}} --}}
     @csrf
-            <input type="text" name="username">
+            <input type="text" name="name">
             <BR>
-            <input type="password" name="password">
+            <input type="password" name="pass">
             <br>
             <button type="submit">Ingresar</button>
         </form>

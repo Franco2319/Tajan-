@@ -17,13 +17,29 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/actividad', ['middleware' => 'littlegatekeeper', function () {
-    return view('actividad');
-}]);
-
-Route::get('/login', function (){
-    return view('login');
+Route::get('/actividad1',function (){
+    return view('login1');
+});
+Route::get('/actividad2',function (){
+    return view('login2');
+});
+Route::get('/actividad3',function (){
+    return view('login3');
+});
+Route::get('/actividad4',function (){
+    return view('login4');
 });
 
-Route::post('/validar', 'PreguntasController@validar')->name('validar');
 
+Route::post('/formact1','PreguntasController@login1');
+Route::post('/formact2','PreguntasController@login2');
+Route::post('/formact3','PreguntasController@login3');
+Route::post('/formact4','PreguntasController@login4');
+
+
+
+
+
+Route::get('/prueba',function (){
+    return view('prueba');
+});
