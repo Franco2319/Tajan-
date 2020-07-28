@@ -14,5 +14,16 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
+
+Route::get('/actividad', ['middleware' => 'littlegatekeeper', function () {
+    return view('actividad');
+}]);
+
+Route::get('/login', function (){
+    return view('login');
+});
+
+Route::post('/validar', 'PreguntasController@validar')->name('validar');
+
