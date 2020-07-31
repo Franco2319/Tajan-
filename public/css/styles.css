@@ -1,0 +1,120 @@
+
+.colorbutton .navbar-toggler-icon {
+    background-image: url( 
+        "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(139, 55, 107, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
+}
+
+.contenedor {
+    padding: 0;
+}
+
+
+.bannerhome {
+    background-image: url("/storage/Banner-Home.jpg");
+    background-size: 100%;
+}
+
+
+.clasediv {
+    padding-top: 13%;
+    margin: 0;
+}
+
+.titulo1{
+    font-family:'Montserrat', sans-serif; 
+    font-weight:900;
+    color: rgba(139, 55, 107, 1);
+    font-size: 290%;
+}
+
+.titulo2{
+    font-family:'Montserrat', sans-serif; 
+    font-weight:800;
+    color: rgba(29, 114, 159, 1);
+    font-size: 290%;
+    margin-top: -4%;
+
+}
+
+
+.p1 {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:500;
+    background-color: rgba(139, 55, 107, 1);
+    color:white;
+    font-size: 80%;
+    width: 61%;
+    margin: 0 auto;
+    padding: 2%;
+    margin-top: 5%;
+    font-size: 72%;
+
+}
+
+.p2 {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:400;
+    color: rgba(16, 79, 137, 1);
+    margin: 0 auto;
+    font-size: 84%;
+}
+
+.p3 {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:400;
+    color: rgba(16, 79, 137, 1);
+    margin: 0 auto;
+    font-size: 90%;
+}
+
+.p4 {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:400;
+    color: rgba(16, 79, 137, 1);
+    font-size: 91%;
+}
+
+.clasep {
+    margin-top: 10%;
+    padding-bottom: 10%;
+}
+
+.articuloimg2 {
+    margin-left: 9%;
+}
+
+.articuloh2 {
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    color: rgba(29, 114, 159, 1);
+    width: 85%;
+    font-size: 215%;
+    margin: 0 auto;
+    margin-bottom: 6%;
+}
+
+.articulop1 {
+    color: rgba(139, 55, 107, 1);
+    font-family:'Montserrat', sans-serif;
+    font-weight:600;
+    padding-top: 5%;
+}
+
+.articulop2 {
+    color: rgba(139, 55, 107, 1);
+    font-family:'Montserrat', sans-serif;
+    font-weight:600;
+    padding-top: 5%;
+}
+
+
+.articulop3 {
+    color: rgba(139, 55, 107, 1);
+    font-family:'Montserrat', sans-serif;
+    font-weight:600;
+    padding-top: 5%;
+}
+
+.divart {
+    padding-top: 6%;
+}
