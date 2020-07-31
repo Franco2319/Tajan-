@@ -31,14 +31,43 @@
   </div>
     </div> 
     
+    <div class="column text-center divact">
+        <h2 class="acth2">Tajaná</h2>
+        <h2 class="acth2-2">escuelas</h2>
+        <p class="actp">Un espacio de reflexión acerca de la identidad sionista y judía, con relación a las nuevas experiencias que los y las jóvenes vivirán en la próxima etapa educativa como estudiantes universitarios.</p>
+       <div>
+           <article>
+               <h3 class="acth3">Actividad 1</h3>
+               <a href="/actividad1"> <img src="/storage/imgact1.jpg" alt="" width="90%"> </a>
+           </article>
+
+           <article>
+               <h3 class="acth3">Actividad 2</h3>
+               <a href="/actividad2"> <img src="/storage/imgact2.jpg" alt="" width="90%"> </a>
+           </article>
+
+           <article>
+               <h3 class="acth3">Actividad 3</h3>
+               <a href="/actividad3"> <img src="/storage/imgact3.jpg" alt="" width="90%"> </a>
+           </article>
+
+           <article>
+               <h3 class="acth3">Actividad 4</h3>
+               <a href="/actividad4"> <img src="/storage/imgact4.jpg" alt="" width="90%"> </a>
+           </article>
+       </div>
+    </div>
+
+    <div class="column text-center agencia"> 
+        <h1 class="agenciah1">¿Qué es la agencia judía para Israel?</h1>
+        <p class= "agenciap">La agencia Judía para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
+        <a href=""> <img src="/storage/vermas.png" alt="">  </a>
+        <img src="/storage/agencia.jpg" alt="" width="100%">
+    </div>
+    
+
+
 
 </section>
 
-
-
-
-<a href="/actividad1">Act1</a>
-<a href="/actividad2">Act2</a>
-<a href="/actividad3">Act3</a>
-<a href="/actividad4">Act4</a>
 @endsection('content')

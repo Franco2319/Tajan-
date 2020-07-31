@@ -118,3 +118,60 @@
 .divart {
     padding-top: 6%;
 }
+
+.acth3 {
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    color: rgba(29, 114, 159, 1);
+    padding-bottom: 5%;
+    padding-top: 5%;
+    font-size: 150%;
+    
+}
+
+.acth2 {
+    color: rgba(139, 55, 107, 1);
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    padding-top: 6%;
+}
+
+.acth2-2 {
+    color: white;
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    margin-top: -5%;
+
+}
+
+
+.divact {
+    background-image: url("/storage/fondoact.jpg");
+    background-size: 100%;
+    padding-bottom: 5%;
+}
+
+.actp {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:400;
+    color: rgba(16, 79, 137, 1);
+}
+
+.agencia {
+    background-image: url("/storage/fondoagencia.jpg");
+}
+
+.agenciah1 {
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    color: rgba(145, 195, 242, 1);
+    font-size: 175%;
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
+
+.agenciap {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:400;
+    color:white;
+}
