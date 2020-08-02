@@ -49,7 +49,7 @@
     @yield('content')
    
     <footer class="row">
-       <div class="col-12 text-center">
+       <div class="col-12 text-center footer">
          <img src="/storage/footer.png" alt="" width="40%">
        </div>
     </footer>
