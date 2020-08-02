@@ -11,7 +11,7 @@
 
 .bannerhome {
     background-image: url("/storage/Banner-Home.jpg");
-    background-size: 100%;
+    background-size: 100% 100%;
 }
 
 
@@ -147,31 +147,126 @@
 
 .divact {
     background-image: url("/storage/fondoact.jpg");
-    background-size: 100%;
     padding-bottom: 5%;
+    background-size: 100% 100%;
 }
 
 .actp {
     font-family:'Montserrat', sans-serif; 
     font-weight:400;
     color: rgba(16, 79, 137, 1);
+    font-size: 85%;
+    padding-top: 5%;
+
 }
 
 .agencia {
     background-image: url("/storage/fondoagencia.jpg");
+    background-size: 100% 100%;
 }
 
 .agenciah1 {
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
     color: rgba(145, 195, 242, 1);
-    font-size: 175%;
+    font-size: 153%;
     padding-top: 15%;
-    padding-bottom: 10%;
+    padding-bottom: 7%;
 }
 
 .agenciap {
     font-family:'Montserrat', sans-serif; 
     font-weight:400;
     color:white;
+    width: 84%;
+    font-size: 75%;
+    margin: 0 auto;
+    padding-bottom: 5%;
+    line-height: 1.9;
+}
+
+.imgagencia {
+    padding-top: 7%;
+}
+
+.staffh2 {
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    color: rgba(29, 114, 159, 1);
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+.staffh4 {
+    font-size: 115%;
+    color: rgba(139, 55, 107, 1);
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    padding-top: 6%;
+    padding-bottom: 3%;
+}
+
+.staffp {
+    font-size: 66%;
+    font-family:'Montserrat', sans-serif; 
+    font-weight:400;
+    color: rgba(29, 114, 159, 1);
+    padding-bottom: 6%;
+}
+    
+
+.staffdivpadre {
+    background-image:  url("/storage/fondostaff.jpg");
+    background-size: 100% 100%;
+}
+
+.formcontacto {
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    color: rgba(29, 114, 159, 1);
+    font-size: 150%;
+    padding-bottom: 7%;
+}
+
+.divstaffart {
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+input::placeholder {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:700;
+    color: rgba(16, 79, 137, 1);
+    text-indent: 3%;
+}
+
+
+.inputcontacto {
+    width: 90%;
+    border: none;
+    margin-bottom: 5%;
+}
+
+.textcontacto {
+    width: 90%;
+    border: none;
+}
+
+.textcontacto::placeholder {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:700;
+    color: rgba(16, 79, 137, 1);
+    text-indent: 3%; 
+}
+
+.divcontacto {
+    background-image:  url("/storage/fondoact.jpg");
+    background-size: 100% 100%;
+}
+
+.enviarcontacto {
+    width: 31%;
+    padding-top: 8%;
+    padding-bottom: 10%;
 }

@@ -37,7 +37,9 @@ Route::post('/formact3','PreguntasController@login3');
 Route::post('/formact4','PreguntasController@login4');
 
 
-
+Route::get('/agencia',function (){
+    return view('agencia');
+});
 
 
 Route::get('/prueba',function (){
