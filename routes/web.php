@@ -45,3 +45,16 @@ Route::get('/agencia',function (){
 Route::get('/prueba',function (){
     return view('prueba');
 });
+
+Route::get('formact1', function () {
+    return redirect()->to('/actividad1');
+});
+Route::get('formact2', function () {
+    return redirect()->to('/actividad2');
+});
+Route::get('formact3', function () {
+    return redirect()->to('/actividad3');
+});
+Route::get('formact4', function () {
+    return redirect()->to('/actividad4');
+});
