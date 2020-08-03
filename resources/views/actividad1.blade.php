@@ -30,17 +30,16 @@
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
   <div class="divact1">
-                     <H2>¿De dónde proviene el término "judío"?</H2>
-                        <input id="p1r1" type="radio" name="p1" value="1">
-                        <label for="">De Yehuda, el cuarto hijo del patriarca Iaakov </label>
-                        <br>
-                        <input id="p1r2" type="radio" name="p1" value="0">
-                        <label> De Judas, uno de los ápostoles de Jesús. </label>
-                        <br>
-                        <input id="p1r3" type="radio" name="p1" value="0">
-                        <label> De los habitantes de los territorios de Judea y Samaria. </label>
-                        <div id="result1"></div> 
-      
+                        <H2>¿De dónde proviene el término "judío"?</H2>
+                          <input id="p1r1" type="radio" name="p1" value="1">
+                          <label for="">De Yehuda, el cuarto hijo del patriarca Iaakov </label>
+                          <br>
+                          <input id="p1r2" type="radio" name="p1" value="0">
+                          <label> De Judas, uno de los ápostoles de Jesús. </label>
+                          <br>
+                          <input id="p1r3" type="radio" name="p1" value="0">
+                          <label> De los habitantes de los territorios de Judea y Samaria. </label>
+                          <div id="result1"></div>
       
                         <br> 
       
@@ -59,52 +58,52 @@
                        <div id="result2"></div> 
 
                        <H2>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
-                       <input id="p3r1" type="radio" name="p2" value="1">
+                       <input id="p3r1" type="radio" name="p3" value="1">
                        <label> Queremos ser parte de la sociedad y ser europeos como todos. </label>
                        <br>
-                       <input id="p3r2" type="radio" name="p2" value="0">
-                       <label> No queremos ser como otros pueblos, nos seguiremos guiando bajos nuestras leyes tradicionales. </label>
+                       <input id="p3r2" type="radio" name="p3" value="0">
+                       <label> No queremos ser como otros pueblos, nos seguiremos guiando <br> bajo nuestras leyes tradicionales. </label>
                        <br>
-                       <input id="p3r3" type="radio" name="p2" value="0">
-                       <label> El judaísmo puede modificarse de acuerdo a los cambios de paradigma. </label>
+                       <input id="p3r3" type="radio" name="p3" value="0">
+                       <label> El judaísmo puede modificarse de acuerdo a los <br> cambios de paradigma. </label>
                        <br>
-                       <div id="result2"></div> 
+                       <div id="result3"></div> 
 
                        <H2>¿Qué ocurrió con la corriente asimilacionista?</H2>
-                       <input id="p4r1" type="radio" name="p2" value="1">
+                       <input id="p4r1" type="radio" name="p4" value="1">
                        <label> Emigraron a Israel. </label>
                        <br>
-                       <input id="p4r2" type="radio" name="p2" value="0">
+                       <input id="p4r2" type="radio" name="p4" value="0">
                        <label> Lucharon para seguir siendo Judíos en la modernidad. </label>
                        <br>
-                       <input id="p4r3" type="radio" name="p2" value="0">
-                       <label> Abandonaron sus tradiciones y tras algunas generaciones dejaron de ser parte de las comunidades judías. </label>
+                       <input id="p4r3" type="radio" name="p4" value="0">
+                       <label> Abandonaron sus tradiciones y tras algunas generaciones dejaron <br> de ser parte de las comunidades judías. </label>
                        <br>
-                       <div id="result2"></div> 
+                       <div id="result4"></div> 
 
                        <H2>¿Cuál fue la respuesta de Hertzl ante el antisemitismo?</H2>
-                       <input id="p5r1" type="radio" name="p2" value="1">
+                       <input id="p5r1" type="radio" name="p5" value="1">
                        <label> Planteó como solución la creación de un Estado judío. </label>
                        <br>
-                       <input id="p5r2" type="radio" name="p2" value="0">
+                       <input id="p5r2" type="radio" name="p5" value="0">
                        <label> Propuso abandonar las prácticas religiosas. </label>
                        <br>
-                       <input id="p5r3" type="radio" name="p2" value="0">
+                       <input id="p5r3" type="radio" name="p5" value="0">
                        <label> Declaró la independencia de los judíos del mundo. </label>
                        <br>
-                       <div id="result2"></div> 
+                       <div id="result5"></div> 
 
                        <H2>¿Qué es el sionismo?</H2>
-                       <input id="p6r1" type="radio" name="p2" value="1">
+                       <input id="p6r1" type="radio" name="p6" value="1">
                        <label> Sentir amor por Sion-Jerusalén. </label>
                        <br>
-                       <input id="p6r2" type="radio" name="p2" value="0">
-                       <label> Sostener que los judíos como pueblo tienen derecho a un Estado propio. </label>
+                       <input id="p6r2" type="radio" name="p6" value="0">
+                       <label> Sostener que los judíos como pueblo tienen derecho a un <br> Estado propio. </label>
                        <br>
-                       <input id="p6r3" type="radio" name="p2" value="0">
+                       <input id="p6r3" type="radio" name="p6" value="0">
                        <label> Es un movimiento estudiantil judío. </label>
                        <br>
-                       <div id="result2"></div> 
+                       <div id="result6"></div> 
       
       
                        <br> 
@@ -141,35 +140,6 @@
 
                 
                      
- 
-    <script> 
-        function resultado() { 
-            if(document.getElementById('p1r1').checked){
-                console.log("Correcta");
-                document.getElementById("result1").innerHTML = "Correcta!";  
-            } else if (document.getElementById('p1r2').checked){
-                console.log("incorrecta");
-                document.getElementById("result1").innerHTML = "Incorrecta!";
-            }
-            else if (document.getElementById('p1r3').checked){
-                console.log("incorrecta");
-                document.getElementById("result1").innerHTML = "Incorrecta!";
-            }
-            if(document.getElementById('p2r1').checked){
-                console.log("Correcta");
-                document.getElementById("result2").innerHTML = "Correcta!";  
-            } 
-            else if (document.getElementById('p2r2').checked){
-                console.log("incorrecta");
-                document.getElementById("result2").innerHTML = "Incorrecta!";
-            } 
-            else if (document.getElementById('p2r3').checked){
-                console.log("incorrecta");
-                document.getElementById("result2").innerHTML = "Incorrecta!";
-            }
-                 
-        }
-    </script> 
-
+<script src="{{ asset('js/act1.js') }}" defer></script>
 
 @endsection('content')
