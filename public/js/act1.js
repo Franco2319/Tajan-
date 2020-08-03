@@ -75,6 +75,35 @@
                 console.log("incorrecta");
                 document.getElementById("result6").innerHTML = "Incorrecta!";
             }
-            
+            $("#botonrespuesta").toggle();
                  
+        }
+
+        function reiniciar(){
+            document.getElementById("result1").innerHTML = "";
+            document.getElementById("result2").innerHTML = "";
+            document.getElementById("result3").innerHTML = "";
+            document.getElementById("result4").innerHTML = "";
+            document.getElementById("result5").innerHTML = "";
+            document.getElementById("result6").innerHTML = "";
+            $("#botonrespuesta").toggle();
+            $("#p1r1").prop("checked", false);
+            $("#p1r2").prop("checked", false);
+            $("#p1r3").prop("checked", false);
+            $("#p2r1").prop("checked", false);
+            $("#p2r2").prop("checked", false);
+            $("#p2r3").prop("checked", false);
+            $("#p2r4").prop("checked", false);
+            $("#p3r1").prop("checked", false);
+            $("#p3r2").prop("checked", false);
+            $("#p3r3").prop("checked", false);
+            $("#p4r1").prop("checked", false);
+            $("#p4r2").prop("checked", false);
+            $("#p4r3").prop("checked", false);
+            $("#p5r1").prop("checked", false);
+            $("#p5r2").prop("checked", false);
+            $("#p5r3").prop("checked", false);
+            $("#p6r1").prop("checked", false);
+            $("#p6r2").prop("checked", false);
+            $("#p6r3").prop("checked", false);
         }
