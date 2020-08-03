@@ -29,84 +29,79 @@
 </ul>
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-  <div class="divact1">
-                     <H2><span class="fa-stack circulo1">
-                     <span class="fa fa-circle-o fa-stack-2x "></span>
-                     <strong class="fa-stack-1x">
-                      1    
-                     </strong>
-                     </span>¿De dónde proviene el término "judío"?</H2>
-                        <input id="p1r1" type="radio" name="p1" value="1">
-                        <label>De Yehuda, el cuarto hijo del patriarca Iaakov </label>
-                        <br>
-                        <input id="p1r2" type="radio" name="p1" value="0">
-                        <label> De Judas, uno de los ápostoles de Jesús. </label>
-                        <br>
-                        <input id="p1r3" type="radio" name="p1" value="0">
-                        <label> De los habitantes de los territorios <br /> de Judea y Samaria. </label>
-                        <div id="result1"></div> 
+    <div class="divact1">
+      <H2><span class="fa-stack circulo1">
+           <span class="fa fa-circle-o fa-stack-2x "></span>
+              <strong class="fa-stack-1x">
+                1    
+              </strong>
+            </span>¿De dónde proviene el término "judío"?</H2>
+      <input id="p1r1" type="radio" name="p1" value="1">
+      <label>De Yehuda, el cuarto hijo del patriarca Iaakov </label>
+      <br>
+      <input id="p1r2" type="radio" name="p1" value="0">
+      <label> De Judas, uno de los ápostoles de Jesús. </label>
+      <br>
+      <input id="p1r3" type="radio" name="p1" value="0">
+      <label> De los habitantes de los territorios <br /> de Judea y Samaria. </label>
+      <div id="result1"></div> 
+      <div class="lineadiv1"></div>
       
-                         
-                        <div class="lineadiv1"></div>
-      
-                     <H2><span class="fa-stack circulo1">
-                     <span class="fa fa-circle-o fa-stack-2x "></span>
-                     <strong class="fa-stack-1x">
-                      2    
-                     </strong>
-                     </span>¿Qué otros términos se conocen para definir a los judíos?</H2>
-                       <input id="p2r1" type="radio" name="p2" value="1">
-                       <label> Israelitas. </label>
-                       <br>
-                       <input id="p2r2" type="radio" name="p2" value="0">
-                       <label> Hebreos. </label>
-                       <br>
-                       <input id="p2r3" type="radio" name="p2" value="0">
-                       <label> Los que profesan con la "Fe Mosaica". </label>
-                       <br>
-                       <input id="p2r4" type="radio" name="p2" value="0">
-                       <label> Todas son correctas. </label>
-                       <div id="result2"></div> 
-                       
-                       <div class="lineadiv1"></div>
+       <H2><span class="fa-stack circulo1">
+           <span class="fa fa-circle-o fa-stack-2x "></span>
+              <strong class="fa-stack-1x">
+                  2    
+              </strong>
+           </span>¿Qué otros términos se conocen para definir a los judíos?</H2>
+        <input id="p2r1" type="radio" name="p2" value="1">
+        <label> Israelitas. </label>
+        <br>
+        <input id="p2r2" type="radio" name="p2" value="0">
+        <label> Hebreos. </label>
+        <br>
+        <input id="p2r3" type="radio" name="p2" value="0">
+        <label> Los que profesan con la "Fe Mosaica". </label>
+        <br>
+        <input id="p2r4" type="radio" name="p2" value="0">
+        <label> Todas son correctas. </label>
+        <div id="result2"></div> 
+        <div class="lineadiv1"></div>
 
-                      <H2><span class="fa-stack circulo1">
-                      <span class="fa fa-circle-o fa-stack-2x "></span>
-                      <strong class="fa-stack-1x">
-                      3    
-                      </strong>
-                      </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
-                       <input id="p3r1" type="radio" name="p3" value="1">
-                       <label> Queremos ser parte de la sociedad <br /> y ser europeos como todos. </label>
-                       <br>
-                       <input id="p3r2" type="radio" name="p3" value="0">
-                       <label> No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br />  nuestras leyes tradicionales. </label>
-                       <br>
-                       <input id="p3r3" type="radio" name="p3" value="0">
-                       <label> El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. </label>
-                       <br>
-                       <div id="result3"></div> 
-                       
-                       <div class="lineadiv1"></div>
+        <H2><span class="fa-stack circulo1">
+            <span class="fa fa-circle-o fa-stack-2x "></span>
+               <strong class="fa-stack-1x">
+                  3    
+              </strong>
+            </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
+        <input id="p3r1" type="radio" name="p3" value="1">
+        <label> Queremos ser parte de la sociedad <br /> y ser europeos como todos. </label>
+        <br>
+        <input id="p3r2" type="radio" name="p3" value="0">
+        <label> No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br />  nuestras leyes tradicionales. </label>
+        <br>
+        <input id="p3r3" type="radio" name="p3" value="0">
+       <label> El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. </label>
+        <br>
+       <div id="result3"></div> 
+       <div class="lineadiv1"></div>
 
-                       <H2><span class="fa-stack circulo1">
-                       <span class="fa fa-circle-o fa-stack-2x"></span>
-                       <strong class="fa-stack-1x">
-                        4    
-                       </strong>
-                       </span>¿Qué ocurrió con la corriente asimilacionista?</H2>
-                       <input id="p4r1" type="radio" name="p4" value="1">
-                       <label> Emigraron a Israel. </label>
-                       <br>
-                       <input id="p4r2" type="radio" name="p4" value="0">
-                       <label> Lucharon para seguir siendo Judíos <br /> en la modernidad. </label>
-                       <br>
-                       <input id="p4r3" type="radio" name="p4" value="0">
-                       <label> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías. </label>
-                       <br>
-                       <div id="result4"></div> 
-                        
-                       <div class="lineadiv1"></div>
+       <H2><span class="fa-stack circulo1">
+           <span class="fa fa-circle-o fa-stack-2x"></span>
+             <strong class="fa-stack-1x">
+                 4    
+             </strong>
+           </span>¿Qué ocurrió con la corriente asimilacionista?</H2>
+       <input id="p4r1" type="radio" name="p4" value="1">
+       <label> Emigraron a Israel. </label>
+       <br>
+       <input id="p4r2" type="radio" name="p4" value="0">
+       <label> Lucharon para seguir siendo Judíos <br /> en la modernidad. </label>
+       <br>
+       <input id="p4r3" type="radio" name="p4" value="0">
+       <label> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías. </label>
+       <br>
+       <div id="result4"></div> 
+       <div class="lineadiv1"></div>
 
                        <H2> <span class="fa-stack circulo1">
                        <span class="fa fa-circle-o fa-stack-2x "></span>
@@ -124,7 +119,6 @@
                        <label> Declaró la independencia de los judíos <br /> del mundo. </label>
                        <br>
                        <div id="result5"></div> 
-
                        <div class="lineadiv1"></div>
 
                        <H2> <span class="fa-stack circulo1"> 
@@ -143,20 +137,22 @@
                        <label> Es un movimiento estudiantil judío. </label>
                        <br>
                        <div id="result6"></div> 
-      
-      
                        <br> 
-                    <div class="divrespuestas">
-                    <button type="button" onclick="resultado()"> 
-                        Ver Respuestas
-                    </button>
-                    <button id="botonrespuesta" style="display: none;" type="button" onclick="reiniciar()">
-                        Reiniciar
-                    </button>
-                 </div>
-  </div>
+                       <div class="divrespuestas">
+                         <button type="button" onclick="resultado()"> 
+                            Ver Respuestas
+                         </button>
+                         <button id="botonrespuesta" style="display: none;" type="button" onclick="reiniciar()">
+                            Reiniciar
+                         </button>
+                      </div>
+     </div>
+    </div>
+
+
   <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
     <div class="text-center reflexion">
+      
       <h2 class="reflexionh2">  <span class="fa-stack circulo1">
       <span class="fa fa-circle-o fa-stack-2x "></span>
       <strong class="fa-stack-1x">
@@ -174,12 +170,11 @@
         <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoom. <span style="color: rgba(139, 55, 107, 1)"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
       </ul>
     </div>
-    
-
   </div>
 
-  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
   <div class="actividadindividual">
+      
       <h2 class="actividadh2">Actividad Individual</h2>
       <h3> <span class="fa-stack circulo1">
       <span class="fa fa-circle-o fa-stack-2x "></span>
@@ -201,11 +196,10 @@
       </span>Hacé un registro documental y fotográfico <br /> -de las respuestas y objetos seleccionados- y subílo en formato PDF al drive. No olvides escribir tu nombre y apellido. </h3>
       <div class="divsubarchivo">
       <a href="http://" class="subirarchivo">Subir Archivo</a>
-      </div>
+       </div>
     </div>
+ </div>
 </div>
-
-            
                      
 <script src="{{ asset('js/act1.js') }}" defer></script>
 
