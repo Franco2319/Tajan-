@@ -10,7 +10,7 @@
 
 
 .bannerhome {
-    background-image: url("/storage/bannerhomemobile.jpg");
+    background-image: url("/images/bannerhomemobile.jpg");
     background-size: 100% 100%;
     text-align: center;
 }
@@ -131,7 +131,7 @@
 
 
 .divact {
-    background-image: url("/storage/fondoactmobile.jpg");
+    background-image: url("/images/fondoactmobile.jpg");
     padding-bottom: 5%;
     background-size: 100% 100%;
 }
@@ -146,7 +146,7 @@
 }
 
 .agencia {
-    background-image: url("/storage/fondoagencia.jpg");
+    background-image: url("/images/fondoagencia.jpg");
     background-size: 100% 100%;
 }
 
@@ -168,6 +168,10 @@
     margin: 0 auto;
     padding-bottom: 5%;
     line-height: 1.9;
+}
+
+.agenciaimg {
+    width: 40%;
 }
 
 .imgagencia {
@@ -203,7 +207,7 @@
     
 
 .staffdivpadre {
-    background-image:  url("/storage/fondostaffmobile.jpg");
+    background-image:  url("/images/fondostaffmobile.jpg");
     background-size: 100% 100%;
     padding-left: 5%;
     padding-right: 5%;
@@ -257,7 +261,7 @@ input::placeholder {
 }
 
 .divcontacto {
-    background-image:  url("/storage/fondocontactomobile.jpg");
+    background-image:  url("/images/fondocontactomobile.jpg");
     background-size: 100% 100%;
     margin-top: -1%;
 }
@@ -592,13 +596,13 @@ input::placeholder {
 }
 
 .footer {
-    background-image: url("/storage/footerfondo.jpg");
+    background-image: url("/images/footerfondo.jpg");
 }
 
 
 @media (min-width: 992px) {
      .bannerhome {
-        background-image: url("/storage/Banner-Home.jpg");
+        background-image: url("/images/Banner-Home.jpg");
         /* background-size: 100% 100%; */
         padding-top: 6%;
         text-align: start;

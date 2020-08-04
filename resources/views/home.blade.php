@@ -63,7 +63,7 @@
     <div class="col-12 text-center agencia"> 
         <h1 class="agenciah1">¿Qué es la agencia Judía para Israel?</h1>
         <p class= "agenciap">La agencia Judía para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
-        <a href="/agencia"> <img src="/images/vermas.png" alt="" width="40%" >  </a>
+        <a href="/agencia"> <img class="agenciaimg" src="/images/vermas.png" alt="" >  </a>
         <img class="imgagencia" src="/images/agencia.jpg" alt="">
     </div>
 </div> 
