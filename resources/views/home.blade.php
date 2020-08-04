@@ -69,43 +69,43 @@
 
     <div class="row text-center staffdivpadre">
           <h2 class="col-12 staffh2">Staff</h2>
-          <article class="col-6 " >
+          <article class="col-6 col-md-3 " >
           <img src="/images/alejandrostaff.png" alt="">
           <h4 class="staffh4" >Alejandro <br /> Arcuschin</h4>
           <p class="staffp" >Sheliaj de la Agencia <br /> Judía de Israel y de la <br /> Tnua Hanoar Hatzioni. Es <br /> director del proyecto <br /> Manhigut.</p>
        </article>
         
-       <article class="col-6 " >
+       <article class="col-6 col-md-3 " >
           <img src="/images/alexstaff.png" alt="">
           <h4 class="staffh4" >Alex Schapiro</h4>
           <p class="staffp" >Sheliaj de la Agencia <br /> Judía de Israel y de Hashomer Hatzair en <br /> Argentina y Uruguay.</p>
        </article>
 
-       <article class="col-6 " >
+       <article class="col-6 col-md-3" >
           <img src="/images/dashistaff.png" alt="">
           <h4 class="staffh4" >Dashi</h4>
           <p class="staffp" >Shlijá del Movimiento <br /> Juvenil Hejalutz Lamerjav <br /> Argentina de la Agencia <br /> Judía para Israel.</p>
        </article>
 
-       <article class="col-6" >
+       <article class="col-6 col-md-3" >
           <img src="/images/gabystaff.png" alt="">
           <h4 class="staffh4" >Gaby Glazman</h4>
           <p class="staffp" >Licenciada en <br /> Ciencias Políticas.</p>
        </article>
 
-       <article class="col-6">
+       <article class="col-6 col-md-4">
           <img src="/images/meravstaff.png" alt="">
           <h4 class="staffh4" >Merav Szulanski</h4>
           <p class="staffp" >Estudió Ciencias Políticas, <br /> Gobierno y Administra- <br />ción de Empresas en la <br /> Universidad de Ben Gurión, <br /> Israel.</p>
        </article>
 
-       <article class="col-6" >
+       <article class="col-6 col-md-4" >
           <img src="/images/micaelastaff.png" alt="">
           <h4 class="staffh4" >Micaela Sanchez <br /> Arcuschin</h4>
           <p class="staffp" >Egresada y Shlijá de la <br /> Tnuá Habonim Dror <br /> Argentina y de la Agencia <br /> Judía para Israel.</p>
        </article>
 
-       <article class="col-12 artmeta" >
+       <article class="col-12 col-md-4 artmeta" >
           <img class="divstaffartimg" src="/images/metastaff.png" alt="">
           <h4 class="staffh4" >Tzipora Meta</h4>
           <p class="staffp" >Coordinadora del <br /> Programa Intercultural de <br /> la Agencia Judía para <br /> Israel.</p>
