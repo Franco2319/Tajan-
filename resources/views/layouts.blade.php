@@ -19,9 +19,9 @@
           <span class="navbar-toggler-icon" ></span>
         </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav ml-auto navegacion">
         <li class="nav-item">
-          <a class="nav-link" href="#">Home
+          <a class="nav-link" href="/">Home
                 <span class="sr-only">(current)</span>
               </a>
         </li>
@@ -37,7 +37,7 @@
       </div>
     </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Agencia Judia</a>
+          <a class="nav-link" href="/agencia">Agencia Judia</a>
         </li>
       </ul>
     </div>
