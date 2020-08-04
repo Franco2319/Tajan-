@@ -12,6 +12,7 @@
 .bannerhome {
     background-image: url("/storage/bannerhomemobile.jpg");
     background-size: 100% 100%;
+    text-align: center;
 }
 
 .navbar-light .navbar-nav .nav-link{
@@ -62,9 +63,13 @@
     display: none;
 }
 
+.articuloimg1 {
+    width: 45%;
+}
 
 .articuloimg2 {
     margin-left: 9%;
+    width: 55%;
 }
 
 .articuloh2 {
@@ -120,12 +125,8 @@
     padding-top: 6%;
 }
 
-.acth2-2 {
-    color: white;
-    font-family:'Montserrat', sans-serif; 
-    font-weight: 800;
-    margin-top: -5%;
-
+.actimg img {
+    width: 90%;
 }
 
 
@@ -171,6 +172,7 @@
 
 .imgagencia {
     padding-top: 7%;
+    width: 100%;
 }
 
 .staffh2 {
@@ -598,10 +600,41 @@ input::placeholder {
      .bannerhome {
         background-image: url("/storage/Banner-Home.jpg");
         /* background-size: 100% 100%; */
+        padding-top: 6%;
+        text-align: start;
+        padding-left: 5%;
      }
 
-     .clasediv {
-        padding-top: 6%;
+     .logohome {
+         display: block;
+         margin-top: -6%;
+         padding-bottom: 6%;
+         width: 34%;
+         margin-left: -2%;
      }
+
+     .titulo {
+        font-size: 550%;
+     }
+
+     .p1 {
+        margin: 0 0;
+        font-size: 152%;
+        margin-top: 3%;
+        width: 46%;
+     }
+
+     .p2 {
+        font-weight: 500;
+        font-size: 130%;
+        width: 50%;
+     }
+
+     .clasep {
+        margin-top: 2%;
+        padding-bottom: 5%;
+     }
+
+
 
 }

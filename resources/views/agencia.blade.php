@@ -5,7 +5,7 @@
 <section class="container contenedor">
  <div class="row">
      <div class="col-12 text-center divagenciaimg">
-         <img src="/storage/agenciamobile.jpg" alt="" width="100%" >
+         <img src="/images/agenciamobile.jpg" alt="" width="100%" >
          <div class="centered">Agencia <br /> Judía</div>
      </div>
      <div class="col text-center divagenciap">

@@ -13,7 +13,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light static-top">
   <div class="container">
     <a class="navbar-brand" href="/">
-          <img src="/storage/logo.png" alt="">
+          <img src="/images/logo.png" alt="">
         </a>
     <button class="navbar-toggler border-light colorbutton" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon" ></span>
@@ -50,7 +50,7 @@
    
     <footer class="row">
        <div class="col-12 text-center footer">
-         <img src="/storage/footer.png" alt="" width="40%">
+         <img src="/images/footer.png" alt="" width="40%">
        </div>
     </footer>
 
