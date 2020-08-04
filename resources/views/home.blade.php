@@ -16,56 +16,55 @@
 </div>
    
      <div class="row text-center divart">   
-         <h2 class="col-12 articuloh2">¿Qué es <br /> el programa Tajaná?</h2>
-         <div class="col" >
-          <article>
+         <h2 class="col-12 articuloh2mobile">¿Qué es <br /> el programa Tajaná?</h2>
+         <h2 class="col-12 articuloh2">¿Qué es el programa Tajaná?</h2>
+          <article class="col-12 col-md-4">
          <img class="articuloimg1" src="/images/articuloimg1.png" alt="">
          <p class="articulop1" >Espacios de diálogo <br /> y reflexión.</p>
           </article>
-          <article>
+
+          <article class="col-12 col-md-4">
          <img class="articuloimg2" src="/images/articuloimg2.png" alt="">
          <p class="articulop2">Promovemos identidad, <br /> interculturalidad  <br />y el intercambio.</p>
           </article>
-          <article>
+
+          <article class="col-12 col-md-4">
            <img class="articuloimg1" src="/images/articuloimg3.png" alt="">
             <p class="articulop3">Creamos redes <br /> para hacer acciones <br /> en conjunto.</p>
           </article>
-         </div>
      </div>  
     
     <div class="row text-center divact">
-        <h2 class="col-12 acth2">Tajaná <br /> <span style="color: white;">escuelas </span> </h2>
-        <p class="col-12 actp">Un espacio de reflexión acerca de la <br /> identidad sionista y judía, con relación a las <br /> nuevas experiencias que los y las jóvenes <br /> vivirán en la próxima etapa educativa <br /> como estudiantes universitarios.</p>
-       <div class="col-12">
-           <article>
+        <h2 class="col-12 col-md-6 acth2">Tajaná <br /> <span style="color: white;">escuelas </span> </h2>
+        <p class="col-12 col-md-6 actp">Un espacio de reflexión acerca de la <br /> identidad sionista y judía, con relación a las <br /> nuevas experiencias que los y las jóvenes <br /> vivirán en la próxima etapa educativa <br /> como estudiantes universitarios.</p>
+           <article class="col-12 col-md-6">
                <h3 class="acth3">Actividad 1</h3>
                <a class="actimg" href="/actividad1"> <img src="/images/imgact1.jpg" alt=""> </a>
            </article>
 
-           <article>
+           <article class="col-12 col-md-6">
                <h3 class="acth3">Actividad 2</h3>
                <a class="actimg" href="/actividad2"> <img src="/images/imgact2.jpg" alt=""> </a>
            </article>
 
-           <article>
+           <article class="col-12 col-md-6">
                <h3 class="acth3">Actividad 3</h3>
                <a class="actimg" href="/actividad3"> <img src="/images/imgact3.jpg" alt=""> </a>
            </article>
 
-           <article>
+           <article class="col-12 col-md-6">
                <h3 class="acth3">Actividad 4</h3>
                <a class="actimg" href="/actividad4"> <img src="/images/imgact4.jpg" alt=""> </a>
            </article>
-       </div>
     </div>
 
  <div class="row"> 
-    <div class="col-12 text-center agencia"> 
+    <div class="col-12 col-md-6 text-center agencia"> 
         <h1 class="agenciah1">¿Qué es la agencia Judía para Israel?</h1>
         <p class= "agenciap">La agencia Judía para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
         <a href="/agencia"> <img class="agenciaimg" src="/images/vermas.png" alt="" >  </a>
-        <img class="imgagencia" src="/images/agencia.jpg" alt="">
     </div>
+    <img class="col-12 col-md-6 imgagencia" src="/images/agencia.jpg" alt="">
 </div> 
 
     <div class="row text-center staffdivpadre">
