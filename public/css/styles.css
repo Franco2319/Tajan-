@@ -123,11 +123,11 @@
 
 .acth3 {
     font-family:'Montserrat', sans-serif; 
-    font-weight: 800;
+    font-weight: 900;
     color: rgba(29, 114, 159, 1);
     padding-bottom: 5%;
-    padding-top: 5%;
-    font-size: 150%;
+    padding-top: 6%;
+    font-size: 100%;
     
 }
 
@@ -147,9 +147,10 @@
     background-image: url("/images/fondoactmobile.jpg");
     padding-bottom: 5%;
     background-size: 100% 100%;
+    text-align: center;
 }
 
-.actp {
+.actpmobile {
     font-family:'Montserrat', sans-serif; 
     font-weight:400;
     color: rgba(16, 79, 137, 1);
@@ -158,12 +159,24 @@
 
 }
 
+.actp {
+    display: none;
+    font-family:'Montserrat', sans-serif; 
+    font-weight:400;
+    color: rgba(16, 79, 137, 1);
+    font-size: 85%;
+    padding-top: 5%;
+
+}
+
+
 .agencia {
     background-image: url("/images/fondoagencia.jpg");
     background-size: 100% 100%;
+    text-align: center;
 }
 
-.agenciah1 {
+.agenciah1mobile {
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
     color: rgba(145, 195, 242, 1);
@@ -171,6 +184,26 @@
     padding-top: 15%;
     padding-bottom: 7%;
 }
+
+.agenciah1 {
+    display: none;
+    font-family:'Montserrat', sans-serif; 
+    font-weight: 800;
+    color: rgba(145, 195, 242, 1);
+    font-size: 153%;
+    padding-top: 15%;
+    padding-bottom: 7%;
+}
+
+.bordeagencia {
+    width: 35%;
+    height: 1px;
+    margin-left: 8%;
+    border-bottom: 2px solid rgba(233, 194, 36, 1);
+    margin-top: -6%;
+    margin-left: 32%;
+}
+
 
 .agenciap {
     font-family:'Montserrat', sans-serif; 
@@ -181,14 +214,22 @@
     margin: 0 auto;
     padding-bottom: 5%;
     line-height: 1.9;
+    padding-top: 4%;
 }
 
 .agenciaimg {
     width: 40%;
 }
 
-.imgagencia {
+.imgagenciamobile {
     width: 100%;
+    padding: 0;
+    padding-right: 4%;
+}
+
+.imgagencia{
+    display: none;
+    padding: 0;
 }
 
 .staffh2 {
@@ -285,7 +326,32 @@ input::placeholder {
 }
 
 
-.centered {
+.divagenciaimg {
+    background-image: url("/images/agenciavistamobile.jpg");
+    background-size: 100%;
+    height: 46vh;
+}
+
+.agenciah2mobile {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:800;
+    color:white;
+    margin-top: 32%;
+    font-size: 250%;
+    text-align: center;
+}
+
+.agenciah2 {
+    display: none;
+    font-family:'Montserrat', sans-serif; 
+    font-weight:800;
+    color:white;
+    margin-top: 32%;
+    font-size: 250%;
+    text-align: start;
+}
+
+/* .centered {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -294,20 +360,44 @@ input::placeholder {
     font-family:'Montserrat', sans-serif; 
     font-weight:800;
     color:white;
-}
+} */
 
 
-.divagenciap {
+.divagenciapmobile {
     font-size: 70%;
     padding-top: 5%;
     line-height: 1.9;
     font-family:'Montserrat', sans-serif; 
     font-weight:600;
     color: rgba(16, 79, 137, 1);
+    text-align: center;
 }
 
 
-.video-responsive {
+.divagenciap {
+    display: none;
+    font-size: 70%;
+    padding-top: 5%;
+    line-height: 1.9;
+    font-family:'Montserrat', sans-serif; 
+    font-weight:600;
+    color: rgba(16, 79, 137, 1);
+    text-align: start;
+}
+
+
+  /* VISTA ACTIVIDADES MOBILE */
+
+  .imgact1mobile {
+      width: 100%;
+  }
+
+  .imgact1 {
+      display: none;
+  }
+
+
+  .video-responsive {
     height: 0;
     overflow: hidden;
     padding-bottom: 56.25%;
@@ -315,7 +405,7 @@ input::placeholder {
     position: relative;
     }
 
-.video-responsive iframe, .video-responsive object, .video-responsive embed {
+  .video-responsive iframe, .video-responsive object, .video-responsive embed {
     height: 100%;
     left: 0;
     position: absolute;
@@ -609,7 +699,10 @@ input::placeholder {
 
 .footer {
     background-image: url("/images/footerfondo.jpg");
+    width: 40%;
 }
+
+/* MEDIA QUERIES */
 
 
 @media (min-width: 992px) {
@@ -674,8 +767,219 @@ input::placeholder {
         width: 72%;
      }
 
-     .imgagencia{
-         padding: 0;
+     .imgagenciamobile {
+         display: none;
      }
 
+
+     .imgagencia{
+         display: block;
+         padding: 0;
+         padding-right: 1%;
+     }
+     
+     
+     .divact {
+         background-image: url("/images/fondoact.jpg");
+         padding-left: 3%;
+         padding-right: 3%;
+         text-align: start;
+     }
+
+     .acth2 {
+        font-size: 500%;
+        padding-top: 4%;
+     }
+
+     .acth3 {
+        font-size: 170%;
+        font-weight: 800;
+     }
+ 
+     .actpmobile {
+         display: none;
+     }
+
+     .actp {
+        display: block;
+        font-size: 124%;
+        font-weight: 500;
+        margin-top: 1%;
+        padding-right: 2%;
+     }
+
+     .actimg img {
+         width: 95%;
+     }
+     
+
+     .agencia {
+         text-align: start;
+         padding-left: 8%;
+     }
+
+     .agenciah1mobile {
+         display: none;
+     }
+
+     .agenciah1 {
+         display: block;
+         font-size: 213%;
+     }
+
+     .agenciap {
+         margin: 0 0;
+         padding-right: 4%;
+         font-size: 101%;
+         width: 100%;
+         font-weight: 500;
+     }
+
+     .bordeagencia {
+        margin-left: 0;
+     }
+
+     .agenciaimg {
+        width: 50%;
+        margin-left: -2%;
+        margin-top: 7%;
+     }
+
+
+
+     .staffdivpadre {
+        background-image:  url("/images/fondostaff.jpg");
+        padding-bottom: 18%;
+     }
+
+     .staffdivpadre article img {
+        width: 75%;
+    }
+    
+    .staffdivpadre article .divstaffartimg {
+        width: 75%;
+    }
+
+    .staffp {
+        font-size: 80%;
+        font-weight: 500; 
+    }
+
+    .staffh4 {
+        font-size: 130%;
+        font-weight: 700;
+        padding-top: 10%;
+    
+    }
+
+    .staffh2 {
+        font-size: 300%;
+
+    }
+
+    .inputcontacto {
+        width: 60%;
+        height: 5%;
+    }
+
+    .textcontacto {
+        width: 60%;
+    }
+    
+
+    .formcontacto {
+        font-size: 350%;
+        padding-bottom: 3%;
+    }
+
+    .enviarcontacto {
+        width: 15%;
+        padding-top: 3%;
+        padding-bottom: 5%;
+        margin-left: 46%;
+    }
+
+
+    input::placeholder {
+        padding-top: 2%;
+        padding-bottom: 4%;
+    }
+
+    textarea::placeholder {
+        padding-top: 2%;
+        padding-bottom: 4%;
+    }
+    
+
+    .divcontacto {
+        background-image: url("/images/fondocontacto.jpg");
+
+    }
+
+
+    .navbar-expand-lg .navbar-collapse {
+        font-size: 120%;
+    }
+
+    /* VISTA AGENCIA */
+
+    .divagenciaimg {
+        background-image: url("/images/agenciavista.jpg");
+        height: 38vh;
+        text-align: center;
+    }
+
+    .agenciah2mobile{
+        display: none;
+    }
+
+    .agenciah2 {
+        display: block;
+        font-size: 580%;
+        margin-top: 20%;
+        margin-left: 18%;
+
+    }
+
+    .divagenciapmobile {
+        display: none;
+    }
+
+    .divagenciap {
+        display: block;
+        padding-top: 0;
+        padding-bottom: 4%;
+        
+    }
+
+    .divparrafos {
+        padding-top: 6%;
+        padding-left: 6%;
+        padding-right: 6%;
+        font-size: 160%;
+        padding-bottom: 6%;
+    }
+    
+
+    /* VISTA ACTIVIDADES DESKTOP */
+
+    .imgact1mobile {
+        display: none;
+    }
+
+    .imgact1 {
+        display: block;
+        width: 100%;
+    }
+
+    .actvideop {
+        font-weight: 800;
+        font-size: 170%;
+    }
+
+    .video-responsive {
+        width: 75%;
+        margin: 0 auto;
+    }
 }
+

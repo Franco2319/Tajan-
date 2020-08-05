@@ -5,7 +5,9 @@
 <section class="container">
   <div class="row">
     <div class="col-12 text-center">
-    <img src="/images/imgact1mobile.jpg" alt="" width="100%">
+    <img class="imgact1mobile" src="/images/imgact1mobile.jpg" alt="">
+    <img class="imgact1" src="/images/vistaimgact1.jpg" alt="">
+
     <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
       <div class="video-responsive">  
         <iframe src="https://www.youtube.com/embed/_0LHaFNzD4k" frameborder="0"  allowfullscreen></iframe>

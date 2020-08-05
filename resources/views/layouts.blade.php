@@ -21,23 +21,23 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto navegacion">
         <li class="nav-item">
-          <a class="nav-link" href="/">Home
+          <a class="nav-link" href="/">HOME
                 <span class="sr-only">(current)</span>
               </a>
         </li>
         <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-        Tajaná Escuelas
+        TAJANÁ ESCUELAS
       </a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#">Link 1</a>
-        <a class="dropdown-item" href="#">Link 2</a>
-        <a class="dropdown-item" href="#">Link 3</a>
-        <a class="dropdown-item" href="#">Link 4</a>
+        <a class="dropdown-item" href="#">LINK 1</a>
+        <a class="dropdown-item" href="#">LINK 2</a>
+        <a class="dropdown-item" href="#">LINK 3</a>
+        <a class="dropdown-item" href="#">LINK 4</a>
       </div>
     </li>
         <li class="nav-item">
-          <a class="nav-link" href="/agencia">Agencia Judia</a>
+          <a class="nav-link" href="/agencia">AGENCIA JUDÍA</a>
         </li>
       </ul>
     </div>
