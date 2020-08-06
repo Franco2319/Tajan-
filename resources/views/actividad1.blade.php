@@ -18,6 +18,8 @@
 </section>
 <br>
 
+<div class="solapas">
+
 <ul class="nav nav-tabs nav-justified act1li" id="myTab" role="tablist">
   <li class="nav-item ">
     <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">PREGUNTAS DE REVISIÓN</a>
@@ -45,7 +47,8 @@
       <label> De Judas, uno de los ápostoles de Jesús. </label>
       <br>
       <input id="p1r3" type="radio" name="p1" value="0">
-      <label> De los habitantes de los territorios <br /> de Judea y Samaria. </label>
+      <label class="labelmobile"> De los habitantes de los territorios <br /> de Judea y Samaria. </label>
+      <label class="labeldesktop"> De los habitantes de los territorios de Judea y Samaria. </label>
       <div id="result1"></div> 
       <div class="lineadiv1"></div>
       
@@ -76,13 +79,16 @@
               </strong>
             </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
         <input id="p3r1" type="radio" name="p3" value="1">
-        <label> Queremos ser parte de la sociedad <br /> y ser europeos como todos. </label>
+        <label class="labelmobile"> Queremos ser parte de la sociedad <br /> y ser europeos como todos. </label>
+        <label class="labeldesktop"> Queremos ser parte de la sociedad y ser europeos como todos. </label>
         <br>
         <input id="p3r2" type="radio" name="p3" value="0">
-        <label> No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br />  nuestras leyes tradicionales. </label>
+        <label class="labelmobile"> No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br />  nuestras leyes tradicionales. </label>
+        <label class="labeldesktop"> No queremos ser como otros pueblos, nos seguiremos guiando bajo <br /> nuestras leyes tradicionales. </label>
         <br>
         <input id="p3r3" type="radio" name="p3" value="0">
-       <label> El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. </label>
+       <label class="labelmobile"> El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. </label>
+       <label class="labeldesktop"> El judaísmo puede modificarse de acuerdo a los cambios de paradigma. </label>
         <br>
        <div id="result3"></div> 
        <div class="lineadiv1"></div>
@@ -97,10 +103,12 @@
        <label> Emigraron a Israel. </label>
        <br>
        <input id="p4r2" type="radio" name="p4" value="0">
-       <label> Lucharon para seguir siendo Judíos <br /> en la modernidad. </label>
+       <label class="labelmobile"> Lucharon para seguir siendo Judíos <br /> en la modernidad. </label>
+       <label class="labeldesktop"> Lucharon para seguir siendo Judíos en la modernidad. </label>
        <br>
        <input id="p4r3" type="radio" name="p4" value="0">
-       <label> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías. </label>
+       <label class="labelmobile"> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías. </label>
+       <label class="labeldesktop"> Abandonaron sus tradiciones y tras algunas generaciones dejaron de ser <br /> parte de las comunidades judías. </label>
        <br>
        <div id="result4"></div> 
        <div class="lineadiv1"></div>
@@ -112,13 +120,15 @@
                        </strong>
                        </span>¿Cuál fue la respuesta de Hertzl ante el antisemitismo?</H2>
                        <input id="p5r1" type="radio" name="p5" value="1">
-                       <label> Planteó como solución la creación de <br /> un Estado judío. </label>
+                       <label class="labelmobile"> Planteó como solución la creación de <br /> un Estado judío. </label>
+                       <label class="labeldesktop"> Planteó como solución la creación de un Estado judío. </label>
                        <br>
                        <input id="p5r2" type="radio" name="p5" value="0">
                        <label> Propuso abandonar las prácticas religiosas. </label>
                        <br>
                        <input id="p5r3" type="radio" name="p5" value="0">
-                       <label> Declaró la independencia de los judíos <br /> del mundo. </label>
+                       <label class="labelmobile"> Declaró la independencia de los judíos <br /> del mundo. </label>
+                       <label class="labeldesktop"> Declaró la independencia de los judíos del mundo. </label>
                        <br>
                        <div id="result5"></div> 
                        <div class="lineadiv1"></div>
@@ -133,7 +143,8 @@
                        <label> Sentir amor por Sion-Jerusalén. </label>
                        <br>
                        <input id="p6r2" type="radio" name="p6" value="0">
-                       <label> Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio. </label>
+                       <label class="labelmobile"> Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio. </label>
+                       <label class="labeldesktop"> Sostener que los judíos como pueblo tienen derecho a un Estado propio. </label>
                        <br>
                        <input id="p6r3" type="radio" name="p6" value="0">
                        <label> Es un movimiento estudiantil judío. </label>
@@ -190,17 +201,28 @@
         <li>Si pudieras describir tu identidad judía a través de uno o más objetos, <br /> ¿cuáles serían y por qué?</li>
       </ul>
       <div class="lineadiv2"></div>
-      <h3 class="actividadh3"> <span class="fa-stack circulo1">
+      <h3 class="actividadh3mobile"> <span class="fa-stack circulo1">
       <span class="fa fa-circle-o fa-stack-2x "></span>
       <strong class="fa-stack-1x">
         2    
       </strong>
       </span>Hacé un registro documental y fotográfico <br /> -de las respuestas y objetos seleccionados- y subílo en formato PDF al drive. No olvides escribir tu nombre y apellido. </h3>
+      
+      <h3 class="actividadh3"> <span class="fa-stack circulo1">
+      <span class="fa fa-circle-o fa-stack-2x "></span>
+      <strong class="fa-stack-1x">
+        2    
+      </strong>
+      </span>Hacé un registro documental y fotográfico -de las respuestas y objetos seleccionados- y subílo en formato PDF al drive. No olvides escribir tu nombre y apellido. </h3>
+
+
       <div class="divsubarchivo">
       <a href="http://" class="subirarchivo">Subir Archivo</a>
        </div>
     </div>
  </div>
+</div>
+
 </div>
                      
 <script src="{{ asset('js/act1.js') }}" defer></script>

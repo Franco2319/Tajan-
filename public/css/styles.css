@@ -461,6 +461,8 @@ input::placeholder {
     border: 15px solid transparent;
     border-top-color: rgba(139, 55, 107, 1);
   }
+
+
   .tab-content{
     background: #fdfdfd;
       /* line-height: 25px; */
@@ -506,6 +508,24 @@ input::placeholder {
     color: rgba(29, 114, 159, 1);
     font-size: 65%;
 }
+
+.labelmobile {
+    font-family:'Montserrat', sans-serif; 
+    font-weight:500;
+    color: rgba(29, 114, 159, 1);
+    font-size: 65%;
+}
+
+
+.labeldesktop {
+    display: none;
+    font-family:'Montserrat', sans-serif; 
+    font-weight:500;
+    color: rgba(29, 114, 159, 1);
+    font-size: 65%;
+}
+
+
 
 .divact1 input[type=radio] {
     -ms-transform: scale(0.5); /* IE 9 */
@@ -618,8 +638,12 @@ input::placeholder {
     
 }
 
-.actividadh3 {
+.actividadh3mobile {
     padding-bottom: 5%;
+}
+
+.actividadh3 {
+    display: none;
 }
 
 .actividadindividual ul {
@@ -981,5 +1005,153 @@ input::placeholder {
         width: 75%;
         margin: 0 auto;
     }
+
+    .act1li {
+        font-weight: 600;
+        font-size: 103%;
+    }
+
+    
+    .solapas {
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    .act1li > li.nav-item a.nav-link.active:after{
+
+        bottom: -50px;
+        left: -45%;
+  
+    }
+
+    .divact1 {
+        padding-top: 3%;
+        padding-left: 7%;
+    }
+
+    .divact1 h2 {
+        font-size: 130%;
+    }
+
+    .divact1 label {
+        font-size: 100%;
+        padding-top: 1%;
+    }
+
+    .labelmobile {
+        display: none;
+    }
+    
+    .labeldesktop {
+        display: inline-block;
+    }
+
+    .divact1 input[type=radio] {
+        transform: scale(0.8);
+    }
+
+    .divrespuestas {
+        font-size: 120%;
+        margin-left: -3%;
+        padding-top: 3%;
+
+    }
+
+    .divrespuestas button {
+        font-weight: 800;
+
+    }
+    
+
+    .reflexion {
+        padding-left: 4%;
+        padding-right: 4%;
+        padding-bottom: 4%;
+
+    }
+
+    .reflexion h2 {
+        font-size: 130%;
+        padding-right: 1%;
+        padding-top: 4%;
+    }
+
+    .lineadiv {
+        width: 99%;
+        margin-left: 1%;
+        padding-top: 1%;
+        margin-bottom: -2%;
+    }
+    
+    .lineadiv1 {
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+
+    .reflexion ul {
+        font-size: 159%;
+        padding-left: 6%;
+        padding-right: 5%;
+        font-weight: 800;
+        padding-top: 2%;
+        padding-bottom: 3%;
+        margin-left: 1%;
+        margin-top: 2%;
+        width: 99%;
+    }
+
+
+    .actividadindividual {
+        padding-left: 3%;
+    }
+
+    .actividadh2 {
+        padding-left: 4%;
+        font-weight: 800;
+        font-size: 125%;
+    }
+
+    .actividadindividual h3 {
+        font-size: 118%;
+    }
+
+    .actividadindividual ul {
+        font-size: 120%;
+        line-height: 1.9;
+        margin-top: -2%;
+
+    }
+
+    .actividadindividual li {
+        font-size: 96%;
+    }
+
+
+    .circulo1 {
+        padding-left: 6%;
+    }
+
+    .actividadh3mobile {
+        display: none;
+    }
+
+    .actividadh3 {
+        display: block;
+    }
+
+    .lineadiv2 {
+        margin-left: 2%;
+        width: 100%;
+    }
+
+    .divsubarchivo{
+        padding-bottom: 3%;
+    }
+
+    .subirarchivo {
+        padding: 2%;
+        font-size: 120%;
+    }
+
 }
 
