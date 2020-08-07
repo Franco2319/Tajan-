@@ -5,8 +5,8 @@
 <section class="container">
   <div class="row">
     <div class="col-12 text-center">
-    <img class="imgact1mobile" src="/images/imgact1mobile.jpg" alt="">
-    <img class="imgact1" src="/images/vistaimgact1.jpg" alt="">
+    <img class="imgact1mobile" src="/images/imgact2mobile.jpg" alt="">
+    <img class="imgact1" src="/images/vistaimgact2.jpg" alt="">
 
     <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
       <div class="video-responsive">  
@@ -41,14 +41,16 @@
               </strong>
             </span>¿Cuándo comenzó el conflicto entre árabes y judíos en la era moderna?</H2>
       <input id="p1r1" type="radio" name="p1" value="0">
-      <label>Con la ocupacion de los territorios de Judea, Samaria y Gaza durante la Guerra de los Seis Días</label>
+      <label>Con la ocupacion de los territorios de Judea, Samaria y Gaza durante la Guerra de los Seis Días.</label>
       <br>
       <input id="p1r2" type="radio" name="p1" value="0">
-      <label> En la revuelta árabe contra los británicos de 1936-1939 </label>
+      <label> En la revuelta árabe contra los británicos de 1936-1939. </label>
       <br>
       <input id="p1r3" type="radio" name="p1" value="1">
-      <label class="labelmobile"> A partir de estos 3 sucesos: La adopción de “sentimientos nacionales” por parte de los árabes locales, el comienzo de la incitación religiosa por parte de los líderes árabes palestinos y el papel potenciador de los mandatarios británicos desde la decada de 1920 </label>
-      <label class="labeldesktop"> A partir de estos 3 sucesos: La adopción de “sentimientos nacionales” por parte de los árabes locales, el comienzo de la incitación religiosa por parte de los líderes árabes palestinos y el papel potenciador de los mandatarios británicos desde la decada de 1920  </label>
+      <label> A partir de estos 3 sucesos: La adopción de “sentimientos nacionales” por parte de los árabes locales, el comienzo de la incitación religiosa por parte de los líderes árabes palestinos y el papel potenciador de los mandatarios británicos desde  la decada de 1920. </label>
+      <br>
+      <input id="p1r4" type="radio" name="p1" value="0">
+      <label>En la guerra de la Independencia de Israel en 1948.</label>
       <div id="result1"></div> 
       <div class="lineadiv1"></div>
       
@@ -57,18 +59,15 @@
               <strong class="fa-stack-1x">
                   2    
               </strong>
-           </span>¿Qué otros términos se conocen para definir a los judíos?</H2>
-        <input id="p2r1" type="radio" name="p2" value="1">
-        <label> Israelitas. </label>
+           </span>¿Por qué decimos que el concepto de nacionalismo soberano es algo extraño en el mundo musulmán-árabe?</H2>
+        <input id="p2r1" type="radio" name="p2" value="0">
+        <label> Porque no fueron soberanos a lo largo de la historia. </label>
         <br>
-        <input id="p2r2" type="radio" name="p2" value="0">
-        <label> Hebreos. </label>
+        <input id="p2r2" type="radio" name="p2" value="1">
+        <label> Porque la identidad básica de los árabes es tribal y no territorial. Se identifican a partir de los diversos clanes y no poseen una identidad única nacional. </label>
         <br>
         <input id="p2r3" type="radio" name="p2" value="0">
-        <label> Los que profesan con la "Fe Mosaica". </label>
-        <br>
-        <input id="p2r4" type="radio" name="p2" value="0">
-        <label> Todas son correctas. </label>
+        <label> Porque no les interesa poseer territorios, sólo tienen interés religioso de cada zona. </label>
         <div id="result2"></div> 
         <div class="lineadiv1"></div>
 
@@ -77,18 +76,15 @@
                <strong class="fa-stack-1x">
                   3    
               </strong>
-            </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
-        <input id="p3r1" type="radio" name="p3" value="1">
-        <label class="labelmobile"> Queremos ser parte de la sociedad <br /> y ser europeos como todos. </label>
-        <label class="labeldesktop"> Queremos ser parte de la sociedad y ser europeos como todos. </label>
+            </span>¿Cómo sabemos que el nombre Palestina es de origen europeo y no árabe?</H2>
+        <input id="p3r1" type="radio" name="p3" value="0">
+        <label> Porque suena italiano y tiene raíz latina. </label>
         <br>
         <input id="p3r2" type="radio" name="p3" value="0">
-        <label class="labelmobile"> No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br />  nuestras leyes tradicionales. </label>
-        <label class="labeldesktop"> No queremos ser como otros pueblos, nos seguiremos guiando bajo <br /> nuestras leyes tradicionales. </label>
+        <label> Porque Palestina era originalmente una ciudad europea. </label>
         <br>
-        <input id="p3r3" type="radio" name="p3" value="0">
-       <label class="labelmobile"> El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. </label>
-       <label class="labeldesktop"> El judaísmo puede modificarse de acuerdo a los cambios de paradigma. </label>
+        <input id="p3r3" type="radio" name="p3" value="1">
+       <label> Porque la letra P no es de fácil pronunciación en el idioma árabe. </label>
         <br>
        <div id="result3"></div> 
        <div class="lineadiv1"></div>
@@ -98,17 +94,15 @@
              <strong class="fa-stack-1x">
                  4    
              </strong>
-           </span>¿Qué ocurrió con la corriente asimilacionista?</H2>
-       <input id="p4r1" type="radio" name="p4" value="1">
-       <label> Emigraron a Israel. </label>
+           </span>¿Qué es la Declaración de Balfour?</H2>
+       <input id="p4r1" type="radio" name="p4" value="0">
+       <label> Un documento escrito por el imperio otomano eexpulsando a árabes y judíos de Palestina. </label>
        <br>
-       <input id="p4r2" type="radio" name="p4" value="0">
-       <label class="labelmobile"> Lucharon para seguir siendo Judíos <br /> en la modernidad. </label>
-       <label class="labeldesktop"> Lucharon para seguir siendo Judíos en la modernidad. </label>
+       <input id="p4r2" type="radio" name="p4" value="1">
+       <label>Un documento escrito en 1917 en el que el gobierno británico respaldó el establecimiento de un hogar nacional para el pueblo judío en Palestina.</label>
        <br>
        <input id="p4r3" type="radio" name="p4" value="0">
-       <label class="labelmobile"> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías. </label>
-       <label class="labeldesktop"> Abandonaron sus tradiciones y tras algunas generaciones dejaron de ser <br /> parte de las comunidades judías. </label>
+       <label>Un documento escrito por la ONU que rechaza el establecimiento del pueblo judío en Palestina </label>
        <br>
        <div id="result4"></div> 
        <div class="lineadiv1"></div>
@@ -118,17 +112,15 @@
                        <strong class="fa-stack-1x">
                         5    
                        </strong>
-                       </span>¿Cuál fue la respuesta de Hertzl ante el antisemitismo?</H2>
+                       </span>¿Cómo comenzó a manifestarse el conflicto entre árabes y judíos?</H2>
                        <input id="p5r1" type="radio" name="p5" value="1">
-                       <label class="labelmobile"> Planteó como solución la creación de <br /> un Estado judío. </label>
-                       <label class="labeldesktop"> Planteó como solución la creación de un Estado judío. </label>
+                       <label> En una serie de matanzas o pogroms, impulsados por los dirigentes árabes y por el Mufti de Jerusalén, contra la población judía en 1920 </label>
                        <br>
                        <input id="p5r2" type="radio" name="p5" value="0">
-                       <label> Propuso abandonar las prácticas religiosas. </label>
+                       <label> Con manifestaciones de ambos grupos y resistencias contra el gobierno británico</label>
                        <br>
                        <input id="p5r3" type="radio" name="p5" value="0">
-                       <label class="labelmobile"> Declaró la independencia de los judíos <br /> del mundo. </label>
-                       <label class="labeldesktop"> Declaró la independencia de los judíos del mundo. </label>
+                       <label> A través de propaganda política y panfletos que incitaban al odio </label>
                        <br>
                        <div id="result5"></div> 
                        <div class="lineadiv1"></div>
@@ -138,16 +130,15 @@
                        <strong class="fa-stack-1x">
                         6   
                        </strong>
-                       </span>¿Qué es el sionismo?</H2>
-                       <input id="p6r1" type="radio" name="p6" value="1">
-                       <label> Sentir amor por Sion-Jerusalén. </label>
+                       </span>¿Qué es el Libro Blanco?</H2>
+                       <input id="p6r1" type="radio" name="p6" value="0">
+                       <label> Un documento redactado por el Alto Comité Árabe rechazando la ocupación judía en Palestina </label>
                        <br>
                        <input id="p6r2" type="radio" name="p6" value="0">
-                       <label class="labelmobile"> Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio. </label>
-                       <label class="labeldesktop"> Sostener que los judíos como pueblo tienen derecho a un Estado propio. </label>
+                       <label>Un documento redactado por el Irgún donde indica el plan de rebelión y establecimiento del Estado judío independiente. </label>
                        <br>
-                       <input id="p6r3" type="radio" name="p6" value="0">
-                       <label> Es un movimiento estudiantil judío. </label>
+                       <input id="p6r3" type="radio" name="p6" value="1">
+                       <label>Un documento político emitido por el gobierno británico en respuesta a la rebelión árabe de 1936-1939 que regula el mandato, la inmigración y la transferencia de las tierras a los judíos. </label>
                        <br>
                        <div id="result6"></div> 
                        <br> 
@@ -194,26 +185,7 @@
       <strong class="fa-stack-1x">
         1    
       </strong>
-      </span>Elegí tres personas de tu entorno más cercano (pueden ser familiares o amigos)para hacerle las siguientes preguntas: </h3>
-      <ul class="individualul">
-        <li>¿Qué signfica para vos ser judío/a?</li>
-        <li>¿Esa definición siempre fue así o fue cambiando a lo largo de las experiencias vividas?</li>
-        <li>Si pudieras describir tu identidad judía a través de uno o más objetos, <br /> ¿cuáles serían y por qué?</li>
-      </ul>
-      <div class="lineadiv2"></div>
-      <h3 class="actividadh3mobile"> <span class="fa-stack circulo1">
-      <span class="fa fa-circle-o fa-stack-2x "></span>
-      <strong class="fa-stack-1x">
-        2    
-      </strong>
-      </span>Hacé un registro documental y fotográfico <br /> -de las respuestas y objetos seleccionados- y subílo en formato PDF al drive. No olvides escribir tu nombre y apellido. </h3>
-      
-      <h3 class="actividadh3"> <span class="fa-stack circulo1">
-      <span class="fa fa-circle-o fa-stack-2x "></span>
-      <strong class="fa-stack-1x">
-        2    
-      </strong>
-      </span>Hacé un registro documental y fotográfico -de las respuestas y objetos seleccionados- y subílo en formato PDF al drive. No olvides escribir tu nombre y apellido. </h3>
+      </span>Divídanse en equipos para trabajar. Cada equipo analizará dos artículos periodísticos extraídos de la prensa israelí que pueden descargar <span> <a href=""> acá.</a> </span> A partir de ellos, deberán, por escrito, defender o criticar y fundamentar la postura presentada. Luego, suban su producción al drive en formato PDF. No olviden escribir los nombres de los y las integrantes de cada equipo.  </h3>
 
 
       <div class="divsubarchivo">
