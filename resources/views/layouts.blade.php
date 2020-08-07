@@ -18,24 +18,30 @@
     <button class="navbar-toggler border-light colorbutton" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon" ></span>
         </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
+    <div class="collapse navbar-collapse desplegable" id="navbarResponsive">
       <ul class="navbar-nav ml-auto navegacion">
         <li class="nav-item">
           <a class="nav-link" href="/">HOME
                 <span class="sr-only">(current)</span>
               </a>
         </li>
-        <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        <div class="desplegablebordefuerte"></div>
+        <li class="nav-item dropdown desplegablecolor">
+      <a class="nav-link dropdown-toggle " href="#" id="navbardrop" data-toggle="dropdown">
         TAJANÁ ESCUELAS
       </a>
+      <div class="desplegablebordesuave"></div>
       <div class="dropdown-menu">
         <a class="dropdown-item" href="#">LINK 1</a>
+         <div class="desplegablebordesuave"></div>
         <a class="dropdown-item" href="#">LINK 2</a>
+         <div class="desplegablebordesuave"></div>
         <a class="dropdown-item" href="#">LINK 3</a>
+         <div class="desplegablebordesuave"></div>
         <a class="dropdown-item" href="#">LINK 4</a>
       </div>
     </li>
+         <div class="desplegablebordefuerte"></div>
         <li class="nav-item">
           <a class="nav-link" href="/agencia">AGENCIA JUDÍA</a>
         </li>
