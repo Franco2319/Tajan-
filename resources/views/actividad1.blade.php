@@ -58,7 +58,7 @@
                   2    
               </strong>
            </span>¿Qué otros términos se conocen para definir a los judíos?</H2>
-        <input id="p2r1" type="radio" name="p2" value="1">
+        <input id="p2r1" type="radio" name="p2" value="0">
         <label> Israelitas. </label>
         <br>
         <input id="p2r2" type="radio" name="p2" value="0">
@@ -67,7 +67,7 @@
         <input id="p2r3" type="radio" name="p2" value="0">
         <label> Los que profesan con la "Fe Mosaica". </label>
         <br>
-        <input id="p2r4" type="radio" name="p2" value="0">
+        <input id="p2r4" type="radio" name="p2" value="1">
         <label> Todas son correctas. </label>
         <div id="result2"></div> 
         <div class="lineadiv1"></div>
@@ -78,11 +78,11 @@
                   3    
               </strong>
             </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
-        <input id="p3r1" type="radio" name="p3" value="1">
+        <input id="p3r1" type="radio" name="p3" value="0">
         <label class="labelmobile"> Queremos ser parte de la sociedad <br /> y ser europeos como todos. </label>
         <label class="labeldesktop"> Queremos ser parte de la sociedad y ser europeos como todos. </label>
         <br>
-        <input id="p3r2" type="radio" name="p3" value="0">
+        <input id="p3r2" type="radio" name="p3" value="1">
         <label class="labelmobile"> No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br />  nuestras leyes tradicionales. </label>
         <label class="labeldesktop"> No queremos ser como otros pueblos, nos seguiremos guiando bajo <br /> nuestras leyes tradicionales. </label>
         <br>
@@ -99,14 +99,14 @@
                  4    
              </strong>
            </span>¿Qué ocurrió con la corriente asimilacionista?</H2>
-       <input id="p4r1" type="radio" name="p4" value="1">
+       <input id="p4r1" type="radio" name="p4" value="0">
        <label> Emigraron a Israel. </label>
        <br>
        <input id="p4r2" type="radio" name="p4" value="0">
        <label class="labelmobile"> Lucharon para seguir siendo Judíos <br /> en la modernidad. </label>
        <label class="labeldesktop"> Lucharon para seguir siendo Judíos en la modernidad. </label>
        <br>
-       <input id="p4r3" type="radio" name="p4" value="0">
+       <input id="p4r3" type="radio" name="p4" value="1">
        <label class="labelmobile"> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías. </label>
        <label class="labeldesktop"> Abandonaron sus tradiciones y tras algunas generaciones dejaron de ser <br /> parte de las comunidades judías. </label>
        <br>
@@ -139,10 +139,10 @@
                         6   
                        </strong>
                        </span>¿Qué es el sionismo?</H2>
-                       <input id="p6r1" type="radio" name="p6" value="1">
+                       <input id="p6r1" type="radio" name="p6" value="0">
                        <label> Sentir amor por Sion-Jerusalén. </label>
                        <br>
-                       <input id="p6r2" type="radio" name="p6" value="0">
+                       <input id="p6r2" type="radio" name="p6" value="1">
                        <label class="labelmobile"> Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio. </label>
                        <label class="labeldesktop"> Sostener que los judíos como pueblo tienen derecho a un Estado propio. </label>
                        <br>
