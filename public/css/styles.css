@@ -507,24 +507,9 @@ input::placeholder {
     font-weight:500;
     color: rgba(29, 114, 159, 1);
     font-size: 65%;
+    width: 93%;
+    display: inline-flex;
 }
-
-.labelmobile {
-    font-family:'Montserrat', sans-serif; 
-    font-weight:500;
-    color: rgba(29, 114, 159, 1);
-    font-size: 65%;
-}
-
-
-.labeldesktop {
-    display: none;
-    font-family:'Montserrat', sans-serif; 
-    font-weight:500;
-    color: rgba(29, 114, 159, 1);
-    font-size: 65%;
-}
-
 
 
 .divact1 input[type=radio] {
@@ -1036,14 +1021,6 @@ input::placeholder {
     .divact1 label {
         font-size: 100%;
         padding-top: 1%;
-    }
-
-    .labelmobile {
-        display: none;
-    }
-    
-    .labeldesktop {
-        display: inline-block;
     }
 
     .divact1 input[type=radio] {
