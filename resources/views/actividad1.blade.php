@@ -162,14 +162,14 @@
       <strong class="fa-stack-1x">
         1    
       </strong>
-      </span>Luego de esta Introducción al conflicto, ¿Qué acciones conoces que se realizaron a lo largo de 72 años de la existencia del Estado de Israel para lograr la paz?</h2>
+      </span>Como se observa en el video, existen distintos tipos de sionismo: Sionismo Político, Sionismo Revisionista, Sionismo Sintético, Sionismo Espiritual. ¿Qué podemos concluir respecto de la identidad judía si tenemos en cuenta la multiplicidad de significados al interior del término?</h2>
       <div class="lineadiv"></div>
       <h2><span class="fa-stack circulo1">
       <span class="fa fa-circle-o fa-stack-2x "></span>
       <strong class="fa-stack-1x">
         2    
       </strong>
-      </span>¿Qué propuestas conoces que ofrecieron los palestinos en las negociaciones de paz con Israel? </h2>
+      </span>Poniendo el foco en las distintas respuestas que dieron los judíos al Iluminismo, ¿te sentís identificado/a con alguna de ellas? </h2>
       <ul class="reflexionul" >
         <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoom. <span style="color: rgba(139, 55, 107, 1)"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
       </ul>

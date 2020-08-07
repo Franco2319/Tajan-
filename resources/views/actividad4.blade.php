@@ -45,11 +45,10 @@
       <label>Es la lucha contra el antisemitismo </label>
       <br>
       <input id="p1r2" type="radio" name="p1" value="1">
-      <label class="labelmobile"> Es la explicación y el esclarecimiento de los sucesos históricos y acciones actuales vinculados al Estado de Israel y sus políticas. </label>
+      <label> Es la explicación y el esclarecimiento de los sucesos históricos y acciones actuales vinculados al Estado de Israel y sus políticas. </label>
       <br>
       <input id="p1r3" type="radio" name="p1" value="0">
-      <label class="labelmobile"> Es la concientización sobre actos de terrorismo relacionados al antisemitismo </label>
-      <label class="labeldesktop"> Es la concientización sobre actos de terrorismo relacionados al antisemitismo </label>
+      <label> Es la concientización sobre actos de terrorismo relacionados al antisemitismo </label>
       <div id="result1"></div> 
       <div class="lineadiv1"></div>
       
@@ -78,13 +77,13 @@
               </strong>
             </span>¿Quiénes pueden hacer Hasbará?</H2>
         <input id="p3r1" type="radio" name="p3" value="0">
-        <label class="labelmobile"> Los representantes oficiales del Estado de Israel </label>
+        <label> Los representantes oficiales del Estado de Israel </label>
         <br>
         <input id="p3r2" type="radio" name="p3" value="0">
-        <label class="labelmobile"> Los dirigentes comunitarios </label>
+        <label> Los dirigentes comunitarios </label>
         <br>
         <input id="p3r3" type="radio" name="p3" value="1">
-       <label class="labelmobile"> Todas las personas que quieran brindar información precisa acerca del Estado de Israel </label>
+       <label> Todas las personas que quieran brindar información precisa acerca del Estado de Israel </label>
         <br>
        <div id="result3"></div> 
        <div class="lineadiv1"></div>
@@ -96,13 +95,13 @@
              </strong>
            </span>¿Qué es la diplomacia pública vinculada a la Hasbará?</H2>
        <input id="p4r1" type="radio" name="p4" value="0">
-       <label class="labelmobile"> Es el trabajo que se realiza entre las comitivas diplomáticas de los países e Israel </label>
+       <label> Es el trabajo que se realiza entre las comitivas diplomáticas de los países e Israel </label>
        <br>
        <input id="p4r2" type="radio" name="p4" value="1">
-       <label class="labelmobile"> Son acciones proactivas para crear  puentes entre las comunidades judías del mundo y otras organizaciones de los países </label>
+       <label> Son acciones proactivas para crear  puentes entre las comunidades judías del mundo y otras organizaciones de los países </label>
        <br>
        <input id="p4r3" type="radio" name="p4" value="0">
-       <label class="labelmobile"> Se trata de acciones vinculadas a la política exterior de Israel con Medio Oriente </label>
+       <label> Se trata de acciones vinculadas a la política exterior de Israel con Medio Oriente </label>
        <br>
        <div id="result4"></div> 
        <div class="lineadiv1"></div>
@@ -114,13 +113,13 @@
           </strong>
          </span>¿Cómo se puede trabajar en el “posicionamiento de marca” respecto de Israel?</H2>
          <input id="p5r1" type="radio" name="p5" value="0">
-         <label class="labelmobile"> Publicitando series israelíes para dar a conocer su cultura </label>
+         <label> Publicitando series israelíes para dar a conocer su cultura </label>
          <br>
          <input id="p5r2" type="radio" name="p5" value="0">
          <label> Invitando a la gente a visitar Israel </label>
          <br>
          <input id="p5r3" type="radio" name="p5" value="1">
-         <label class="labelmobile"> Remarcando las cuestiones positivas presentes en Israel -como el Estado de las Start Ups- y combatir así la ola de información negativa en contra de los judíos. </label>
+         <label> Remarcando las cuestiones positivas presentes en Israel -como el Estado de las Start Ups- y combatir así la ola de información negativa en contra de los judíos. </label>
          <br>
          <div id="result5"></div> 
 
@@ -144,14 +143,14 @@
       <strong class="fa-stack-1x">
         1    
       </strong>
-      </span>Luego de esta Introducción al conflicto, ¿Qué acciones conoces que se realizaron a lo largo de 72 años de la existencia del Estado de Israel para lograr la paz?</h2>
+      </span>¿Participaste alguna vez de una experiencia o evento de Hasbará? Si es así, ¿Qué modelo podrías identificar en el modo que fue expuesta la información?</h2>
       <div class="lineadiv"></div>
       <h2><span class="fa-stack circulo1">
       <span class="fa fa-circle-o fa-stack-2x "></span>
       <strong class="fa-stack-1x">
         2    
       </strong>
-      </span>¿Qué propuestas conoces que ofrecieron los palestinos en las negociaciones de paz con Israel? </h2>
+      </span>¿Qué cuestiones positivas de Israel destacarías con el fin de posicionar favorablemente al Estado Judío frente a la comunidad internacional? </h2>
       <ul class="reflexionul" >
         <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoom. <span style="color: rgba(139, 55, 107, 1)"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
       </ul>
@@ -161,17 +160,21 @@
 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
   <div class="actividadindividual">
       
-      <h2 class="actividadh2">Actividad Individual</h2>
+      <h2 class="actividadh2">Actividad grupal o colectiva</h2>
       <h3> <span class="fa-stack circulo1">
       <span class="fa fa-circle-o fa-stack-2x "></span>
       <strong class="fa-stack-1x">
         1    
       </strong>
-      </span>Elegí tres personas de tu entorno más cercano (pueden ser familiares o amigos)para hacerle las siguientes preguntas: </h3>
+      </span>Lean el siguiente caso para luego analizar:</h3>
       <ul class="individualul">
-        <li>¿Qué signfica para vos ser judío/a?</li>
-        <li>¿Esa definición siempre fue así o fue cambiando a lo largo de las experiencias vividas?</li>
-        <li>Si pudieras describir tu identidad judía a través de uno o más objetos, <br /> ¿cuáles serían y por qué?</li>
+        <li>En el periódico más importante de tu ciudad, el periodista Fernando P. publicó un artículo exponiendo una teoría que vincula al Estado de Israel con el brote del Ckzrt-20, un virus sumamente contagioso que provocó una pandemia a nivel mundial. Dicha teoría es absolutamente conspirativa ya que no hay ninguna prueba al respecto y se fundamenta por noticias falsas.
+           La nota publicada causó gran revuelo en la ciudad y la réplica de la falsa teoría en varios medios de comunicación: en TV, radio y portales de noticias en internet. A raíz de esto, se observó un gran número de acciones y comentarios antisemitas en las redes y se denunciaron casos aislados de judeofobia en la vía pública y medios de transporte. 
+      </li>
+      <br>
+       <li>
+        Construyan una propuesta para trabajar desde vuestra institución para responder a dicho acto antisemita experimentado, desde los distintos enfoques. Elaboren una propuesta teniendo en cuenta estrategias múltiples para responder ante diversos públicos (comunicacional, jurídico, educativo, etc.)
+       </li>
       </ul>
       <div class="lineadiv2"></div>
       <h3 class="actividadh3mobile"> <span class="fa-stack circulo1">
@@ -179,14 +182,14 @@
       <strong class="fa-stack-1x">
         2    
       </strong>
-      </span>Hacé un registro documental y fotográfico <br /> -de las respuestas y objetos seleccionados- y subílo en formato PDF al drive. No olvides escribir tu nombre y apellido. </h3>
+      </span>Suban la propuesta al drive en formato PDF. No olviden escribir sus nombres. </h3>
       
       <h3 class="actividadh3"> <span class="fa-stack circulo1">
       <span class="fa fa-circle-o fa-stack-2x "></span>
       <strong class="fa-stack-1x">
         2    
       </strong>
-      </span>Hacé un registro documental y fotográfico -de las respuestas y objetos seleccionados- y subílo en formato PDF al drive. No olvides escribir tu nombre y apellido. </h3>
+      </span>Suban la propuesta al drive en formato PDF. No olviden escribir sus nombres. </h3>
 
 
       <div class="divsubarchivo">
