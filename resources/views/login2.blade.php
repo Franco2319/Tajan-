@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-<div style="text-align:center;margin-top:50px;">
-        You must enter the password to view this content.
-        <form method="POST" action="/formact2">
-        {{-- {{csrf_field()}} --}}
-    @csrf
-            <input type="text" name="name">
-            <BR>
-            <input type="password" name="pass">
-            <br>
-            <button type="submit">Ingresar</button>
-        </form>
-    </div>
-</body>
-</html>
+@extends('layouts')
+
+@section('content')
+<section class="container-fluid">
+      <div style="text-align:center;">
+           <form method="POST" action="/formact2">
+           <p>Ingresa los datos de usuario y contraseña para comenzar la actividad</p>
+                 {{-- {{csrf_field()}} --}}
+                 @csrf
+              <input type="text" name="name" style="text-align:center;">
+              <BR>
+              <input type="password" name="pass" style="text-align:center;">
+              <br>
+              <button type="submit">Ingresar</button>
+          </form>
+     </div>
+</section>
+@endsection('content')
