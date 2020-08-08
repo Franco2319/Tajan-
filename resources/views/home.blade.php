@@ -77,19 +77,19 @@
           <article class="col-6 col-md-3 " >
           <img src="/images/alejandrostaff.png" alt="">
           <h4 class="staffh4" >Alejandro <br /> Arcuschin</h4>
-          <p class="staffp" >Sheliaj de la Agencia <br /> Judía de Israel y de la <br /> Tnua Hanoar Hatzioni. Es <br /> director del proyecto <br /> Manhigut.</p>
+          <p class="staffp" >Sheliaj de la Agencia Judía de Israel y de la Tnua Hanoar Hatzioni. Es director del proyecto Manhigut.</p>
        </article>
         
        <article class="col-6 col-md-3 " >
           <img src="/images/alexstaff.png" alt="">
           <h4 class="staffh4" >Alex Schapiro</h4>
-          <p class="staffp" >Sheliaj de la Agencia <br /> Judía de Israel y de Hashomer Hatzair en <br /> Argentina y Uruguay.</p>
+          <p class="staffp" >Sheliaj de la Agencia Judía de Israel y de Hashomer Hatzair en Argentina y Uruguay.</p>
        </article>
 
        <article class="col-6 col-md-3" >
           <img src="/images/dashistaff.png" alt="">
           <h4 class="staffh4" >Dashi</h4>
-          <p class="staffp" >Shlijá del Movimiento <br /> Juvenil Hejalutz Lamerjav <br /> Argentina de la Agencia <br /> Judía para Israel.</p>
+          <p class="staffp" >Shlijá del Movimiento Juvenil Hejalutz Lamerjav Argentina de la Agencia Judía para Israel.</p>
        </article>
 
        <article class="col-6 col-md-3" >
@@ -101,13 +101,13 @@
        <article class="col-6 col-md-3">
           <img src="/images/meravstaff.png" alt="">
           <h4 class="staffh4" >Merav Szulanski</h4>
-          <p class="staffp" >Estudió Ciencias Políticas, <br /> Gobierno y Administra- <br />ción de Empresas en la <br /> Universidad de Ben Gurión, <br /> Israel.</p>
+          <p class="staffp" >Estudió Ciencias Políticas, Gobierno y Administración de Empresas en la Universidad de Ben Gurión, Israel.</p>
        </article>
 
        <article class="col-6 col-md-3" >
           <img src="/images/micaelastaff.png" alt="">
-          <h4 class="staffh4" >Micaela Sanchez <br /> Arcuschin</h4>
-          <p class="staffp" >Egresada y Shlijá de la <br /> Tnuá Habonim Dror <br /> Argentina y de la Agencia <br /> Judía para Israel.</p>
+          <h4 class="staffh4" >Micaela Sanchez Arcuschin</h4>
+          <p class="staffp" >Egresada y Shlijá de la Tnuá Habonim Dror Argentina y de la Agencia Judía para Israel.</p>
        </article>
 
        <article class="col-12 col-md-3 artmeta" >
