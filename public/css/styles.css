@@ -759,6 +759,7 @@ input::placeholder {
     font-weight: 500;
     font-size: 85%;
     padding: 1%;
+    border: none;
 }
 
 
@@ -1214,10 +1215,30 @@ input::placeholder {
 
     /* VISTA LOGIN */
 
+    .loginfondo {
+        background-image: url("/images/agenciavista.jpg");
+        background-size: 100% 100%;
+        padding-top: 11%;
+    }
 
+    .formlogin {
+        width: 45%;
+    }
 
+    .plogin {
+        font-size: 110%;
+        padding-top: 5%;
+    }
+    
 
+    .inputlogin {
+        font-size: 125%;
+    }
 
+    
+    .submitlogin {
+        font-size: 110%;
+    }
 
 
 

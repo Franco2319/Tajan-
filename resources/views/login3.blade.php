@@ -1,17 +1,17 @@
 @extends('layouts')
 
 @section('content')
-<section class="container-fluid">
-      <div style="text-align:center;">
-           <form method="POST" action="/formact3">
-           <p>Ingresa los datos de usuario y contraseña para comenzar la actividad</p>
+<section class="container-fluid contenedorlogin">
+      <div class="loginfondo" style="text-align:center;">
+           <form class="formlogin" method="POST" action="/formact3">
+           <p class="plogin">Ingresa los datos de usuario y contraseña para comenzar con la actividad</p>
                  {{-- {{csrf_field()}} --}}
                  @csrf
-              <input type="text" name="name" style="text-align:center;">
+              <input class="inputlogin" type="text" name="name" style="text-align:center;">
               <BR>
-              <input type="password" name="pass" style="text-align:center;">
+              <input class="inputlogin" type="password" name="pass" style="text-align:center;">
               <br>
-              <button type="submit">Ingresar</button>
+              <button class="submitlogin" type="submit">INGRESAR</button>
           </form>
      </div>
 </section>
