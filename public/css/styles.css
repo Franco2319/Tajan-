@@ -728,9 +728,9 @@ input::placeholder {
 
 
 .loginfondo {
-    background-image: url("/images/agenciavistamobile.jpg");    
+    background-image: url("/images/fondologinmobile.jpg");    
     background-size: 100%;
-    padding-bottom: 10%;
+    padding-bottom: 8%;
     padding-top: 10%;
 }
 
@@ -751,7 +751,7 @@ input::placeholder {
 }
 
 .submitlogin {
-    margin-bottom: 10%;
+    margin-bottom: 6%;
     width: 80%;
     color: white;
     background-color: orange;
@@ -764,7 +764,7 @@ input::placeholder {
 
 
 .plogin {
-    padding-top: 7%;
+    padding-top: 5%;
     padding-bottom: 3%;
     padding-left: 3%;
     padding-right: 3%;
@@ -1216,9 +1216,9 @@ input::placeholder {
     /* VISTA LOGIN */
 
     .loginfondo {
-        background-image: url("/images/agenciavista.jpg");
+        background-image: url("/images/fondologin.jpg");
         background-size: 100% 100%;
-        padding-top: 11%;
+        padding-top: 7%;
     }
 
     .formlogin {
