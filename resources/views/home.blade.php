@@ -5,7 +5,7 @@
 <section class="container-fluid  contenedor">
 <div class="row">
   <div class="col bannerhome">
-        <h2 class="titulo">Programa  <br /> <span style="color: rgba(29, 114, 159, 1);">Tajaná </span> </h2>
+        <h2 class="titulo">Programa  <br /> <span style="color: #0084c2;">Tajaná </span> </h2>
         <!-- <h2 class="pb-2 titulo2">Tajaná</h2>  -->
         <p class='p1'>Reflexiones desde la Identidad para un Debate Constructivo.</p>
         <div class="clasep">     
@@ -39,24 +39,36 @@
         <p class="col-12 col-md-6 actpmobile">Un espacio de reflexión acerca de la <br /> identidad sionista y judía, con relación a las <br /> nuevas experiencias que los y las jóvenes <br /> vivirán en la próxima etapa educativa <br /> como estudiantes universitarios.</p>
         <p class="col-12 col-md-6 actp">Un espacio de reflexión acerca de la identidad sionista y judía, con relación <br /> a las nuevas experiencias que los y las jóvenes vivirán en la próxima etapa educativa como estudiantes universitarios.</p>
 
-           <article class="col-12 col-md-6">
+           <article class="col-12 col-md-6 articulohover">
                <h3 class="acth3">ACTIVIDAD 1</h3>
                <a class="actimg" href="/actividad1"> <img src="/images/imgact1.jpg" alt=""> </a>
+               <div class="middle">
+               <div class="text"> <a href="/actividad1">INGRESAR</a>  </div>
+              </div>
            </article>
 
-           <article class="col-12 col-md-6">
+           <article class="col-12 col-md-6 articulohover">
                <h3 class="acth3">ACTIVIDAD 2</h3>
                <a class="actimg" href="/actividad2"> <img src="/images/imgact2.jpg" alt=""> </a>
+               <div class="middle">
+                 <div class="text"> <a href="/actividad2">INGRESAR</a>  </div>
+              </div>
            </article>
 
-           <article class="col-12 col-md-6">
+           <article class="col-12 col-md-6 articulohover">
                <h3 class="acth3">ACTIVIDAD 3</h3>
                <a class="actimg" href="/actividad3"> <img src="/images/imgact3.jpg" alt=""> </a>
+               <div class="middle">
+               <div class="text"> <a href="/actividad3">INGRESAR</a>  </div>
+              </div>
            </article>
 
-           <article class="col-12 col-md-6">
+           <article class="col-12 col-md-6 articulohover">
                <h3 class="acth3">ACTIVIDAD 4</h3>
                <a class="actimg" href="/actividad4"> <img src="/images/imgact4.jpg" alt=""> </a>
+               <div class="middle">
+               <div class="text"> <a href="/actividad4">INGRESAR</a>  </div>
+              </div>
            </article>
     </div>
 

@@ -18,7 +18,7 @@
 .navbar-light .navbar-nav .nav-link{
     font-family:'Montserrat', sans-serif; 
     font-weight:800;
-    color: rgba(16, 79, 137, 1);
+    color: #0080c1
 }
 
 .clasediv {
@@ -28,7 +28,7 @@
 .titulo{
     font-family:'Montserrat', sans-serif; 
     font-weight: 900;
-    color: rgba(139, 55, 107, 1);
+    color: #a25080;
     font-size: 270%;
     padding-top: 8%;
 }
@@ -37,8 +37,8 @@
 .p1 {
     font-family:'Montserrat', sans-serif; 
     font-weight:500;
-    background-color: rgba(139, 55, 107, 1);
-    color:white;
+    background-color: #a94b7f;
+    color:#ffffff;
     font-size: 80%;
     width: 61%;
     margin: 0 auto;
@@ -51,7 +51,7 @@
 .p2 {
     font-family:'Montserrat', sans-serif; 
     font-weight: 500;
-    color: rgba(16, 79, 137, 1);
+    color: #086b8b;
     font-size: 70%;
 }
 .clasep {
@@ -76,7 +76,7 @@
 .articuloh2mobile {
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
-    color: rgba(29, 114, 159, 1);
+    color: #0085c4;
     width: 85%;
     font-size: 215%;
     margin: 0 auto;
@@ -88,7 +88,7 @@
     display: none;
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
-    color: rgba(29, 114, 159, 1);
+    color: #0085c4;
     width: 85%;
     font-size: 215%;
     margin: 0 auto;
@@ -125,15 +125,51 @@
 .acth3 {
     font-family:'Montserrat', sans-serif; 
     font-weight: 900;
-    color: rgba(29, 114, 159, 1);
+    color: #0177bd;
     padding-bottom: 3%;
     padding-top: 4%;
     font-size: 85%;
     
 }
 
+.articulohover:hover a img {
+    /* opacity: 0.3; */
+    filter: brightness(35%);
+  }
+  
+  .articulohover:hover .middle {
+    opacity: 1;
+  }
+
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 60%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+
+  .text {
+    color: white;
+    padding: 8px 35px;
+    border: solid 2px;
+    font-size: 120%;
+    font-weight: 600;
+  }
+
+
+  .text a {
+      text-decoration: none;
+      color: white;
+  }
+
 .acth2 {
-    color: rgba(139, 55, 107, 1);
+    color: #a05181;
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
     padding-top: 6%;
@@ -155,7 +191,7 @@
 .actpmobile {
     font-family:'Montserrat', sans-serif; 
     font-weight:400;
-    color: rgba(16, 79, 137, 1);
+    color: #0078c3;
     font-size: 85%;
     padding-top: 2%;
     margin-bottom: 0%;
@@ -166,7 +202,7 @@
     display: none;
     font-family:'Montserrat', sans-serif; 
     font-weight:400;
-    color: rgba(16, 79, 137, 1);
+    color: #0078c3;
     font-size: 85%;
     padding-top: 5%;
 
@@ -183,7 +219,7 @@
 .agenciah1mobile {
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
-    color: rgba(145, 195, 242, 1);
+    color: #8acef1;
     font-size: 153%;
     padding-top: 13%;
     padding-bottom: 7%;
@@ -193,7 +229,7 @@
     display: none;
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
-    color: rgba(145, 195, 242, 1);
+    color: #8acef1;
     font-size: 153%;
     padding-top: 15%;
     padding-bottom: 7%;
@@ -203,7 +239,7 @@
     width: 35%;
     height: 1px;
     margin-left: 8%;
-    border-bottom: 2px solid rgba(233, 194, 36, 1);
+    border-bottom: 2px solid #eea863;
     margin-top: -6%;
     margin-left: 32%;
 }
@@ -239,7 +275,7 @@
 .staffh2 {
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
-    color: rgba(29, 114, 159, 1);
+    color: #0084c2;
     padding-top: 5%;
     padding-bottom: 5%;
 
@@ -247,9 +283,9 @@
 
 .staffh4 {
     font-size: 115%;
-    color: rgba(139, 55, 107, 1);
+    color: #9f507d;
     font-family:'Montserrat', sans-serif; 
-    font-weight: 800;
+    font-weight: 600;
     margin-bottom: 0;
 }
 
@@ -279,7 +315,7 @@
 .formcontacto {
     font-family:'Montserrat', sans-serif; 
     font-weight: 800;
-    color: rgba(29, 114, 159, 1);
+    color: #0086c4;
     font-size: 150%;
     padding-bottom: 7%;
 }
@@ -377,8 +413,8 @@ input::placeholder {
     padding-top: 5%;
     line-height: 1.9;
     font-family:'Montserrat', sans-serif; 
-    font-weight:600;
-    color: rgba(16, 79, 137, 1);
+    font-weight:500;
+    color: #0f80c6;
     text-align: center;
 }
 
@@ -389,8 +425,8 @@ input::placeholder {
     padding-top: 5%;
     line-height: 1.9;
     font-family:'Montserrat', sans-serif; 
-    font-weight:600;
-    color: rgba(16, 79, 137, 1);
+    font-weight:500;
+    color: #0f80c6;
     text-align: start;
 }
 
@@ -729,15 +765,31 @@ input::placeholder {
 }
 
 
-.loginfondo {
+.loginfondomobile {
     width: 100%;
+}
+
+.loginfondo{
+    width: 100%;
+    display: none;
+}
+
+.divlogin {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
 .formlogin {
     width: 80%;
-    background-color: rgba(139, 55, 107, 1);
+    background-color: #a25080;
     margin: 0 auto;
+    position: absolute;
+    text-align: center;
+    padding-bottom: 5;
+    top: 17%;
 }
 
 .inputlogin {
@@ -776,7 +828,9 @@ input::placeholder {
     color: white;
 }
 
-
+.nav-justified .nav-item {
+    text-align: initial;
+ }
 
 
 
@@ -1096,6 +1150,7 @@ input::placeholder {
         margin: 0 auto;
     }
     
+    
     .act1li > li.nav-item a.nav-link.active:after{
 
         bottom: -50px;
@@ -1242,6 +1297,14 @@ input::placeholder {
         top: 17%;
     }
 
+    .loginfondomobile{
+        display: none;
+    }
+
+    .loginfondo {
+        display: block;
+    }
+
     .plogin {
         font-size: 110%;
         padding-top: 5%;
@@ -1265,7 +1328,7 @@ input::placeholder {
 
     .desplegable {
         text-align: center;
-        background-color: lightblue;
+        background-color: #cbecf5;
         margin-left: -6%;
         margin-right: -6%;
         margin-bottom: -3%;
@@ -1276,7 +1339,7 @@ input::placeholder {
     }
     
     .desplegablebordefuerte {
-        border-bottom: 1px solid rgb( 23, 109, 192 );
+        border-bottom: 1px solid #339fce;
         margin: 0 auto;
         width: 80%;
     }
@@ -1284,31 +1347,31 @@ input::placeholder {
     .desplegablebordesuave {
         margin: 0 auto;
         width: 80%;
-        border-bottom: 1px solid rgba(0,0,0,.15);
+        border-bottom: 1px solid #99d1e8;
         border-radius: .25rem;
     
     }
     
     .dropdown-menu {
         text-align: center;
-        background-color: lightblue;
+        background-color: #cbecf5;
         padding-top: 0%;
         border: none;
     }
 
     .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-        color: rgba(29, 114, 159, 1);
+        color: #0182c3;
     }
     
     .desplegablecolor a {
-        color: rgba(139, 55, 107, 1);
+        color: #9f5280;
         font-size: 90%;
     }
      
     .navbar-light .navbar-nav .nav-link{
         font-family:'Montserrat', sans-serif; 
-        font-weight:800;
-        color: rgba(139, 55, 107, 1);
+        font-weight:600;
+        color: #a35181;
     }
 
 

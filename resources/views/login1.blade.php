@@ -4,6 +4,7 @@
 <section class="container-fluid contenedorlogin">
       <div class="divlogin" style="text-align:center;">
            <img class="loginfondo" src="images/fondologin.jpg" alt="">
+           <img class="loginfondomobile" src="images/fondologinmobile.jpg" alt="">
            <form class="formlogin" method="POST" action="/formact1">
            <p class="plogin">Ingresa los datos de usuario y contraseña para comenzar con la actividad</p>
                  {{-- {{csrf_field()}} --}}
