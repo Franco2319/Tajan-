@@ -728,9 +728,6 @@ input::placeholder {
     padding: 0;
 }
 
-/* .divlogin {
-    position: relative;
-} */
 
 .loginfondo {
     width: 100%;
@@ -1231,8 +1228,8 @@ input::placeholder {
     /* VISTA LOGIN */
 
     .divlogin {
-        display: flex;
         position: relative;
+        display: flex;
         justify-content: center;
         align-items: center;
     }
