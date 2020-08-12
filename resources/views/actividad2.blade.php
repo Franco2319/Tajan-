@@ -40,17 +40,27 @@
                 1    
               </strong>
             </span>¿Cuándo comenzó el conflicto entre árabes y judíos en la era moderna?</H2>
-      <input id="p1r1" type="radio" name="p1" value="0">
-      <label>Con la ocupacion de los territorios de Judea, Samaria y Gaza durante la Guerra de los Seis Días.</label>
+
+      <label class="label-container"> Con la ocupacion de los territorios de Judea, Samaria y Gaza durante la Guerra de los Seis Días.
+               <input id="p1r1" type="radio" name="p1" value="0">
+               <span class="checkmark"></span>
+            </label>
       <br>
-      <input id="p1r2" type="radio" name="p1" value="0">
-      <label> En la revuelta árabe contra los británicos de 1936-1939. </label>
+      <label class="label-container"> En la revuelta árabe contra los británicos de 1936-1939.
+               <input id="p1r2" type="radio" name="p1" value="0">
+               <span class="checkmark"></span>
+            </label>
       <br>
-      <input id="p1r3" type="radio" name="p1" value="1">
-      <label> A partir de estos 3 sucesos: La adopción de “sentimientos nacionales” por parte de los árabes locales, el comienzo de la incitación religiosa por parte de los líderes árabes palestinos y el papel potenciador de los mandatarios británicos desde  la decada de 1920. </label>
+      <label class="label-container"> A partir de estos 3 sucesos: La adopción de “sentimientos nacionales” por parte de los árabes locales, el comienzo de la incitación religiosa por parte de los líderes árabes palestinos y el papel potenciador de los mandatarios británicos desde  la decada de 1920. 
+               <input id="p1r3" type="radio" name="p1" value="1">
+               <span class="checkmark"></span>
+            </label>
       <br>
-      <input id="p1r4" type="radio" name="p1" value="0">
-      <label>En la guerra de la Independencia de Israel en 1948.</label>
+      <label class="label-container">En la guerra de la Independencia de Israel en 1948.
+               <input id="p1r4" type="radio" name="p1" value="0">
+               <span class="checkmark"></span>
+            </label>
+      
       <div id="result1"></div> 
       <div class="lineadiv1"></div>
       
@@ -60,16 +70,23 @@
                   2    
               </strong>
            </span>¿Por qué decimos que el concepto de nacionalismo soberano es algo extraño en el mundo musulmán-árabe?</H2>
+
         <label class="label-container"> Porque no fueron soberanos a lo largo de la historia. 
                <input id="p2r1" type="radio" name="p2" value="0">
                <span class="checkmark"></span>
             </label>
         <br>
-        <input id="p2r2" type="radio" name="p2" value="1">
-        <label> Porque la identidad básica de los árabes es tribal y no territorial. Se identifican a partir de los diversos clanes y no poseen una identidad única nacional. </label>
+        <label class="label-container"> Porque la identidad básica de los árabes es tribal y no territorial. Se identifican a partir de los diversos clanes y no poseen una identidad única nacional.
+               <input id="p2r2" type="radio" name="p2" value="1">
+               <span class="checkmark"></span>
+            </label>
+
         <br>
-        <input id="p2r3" type="radio" name="p2" value="0">
-        <label> Porque no les interesa poseer territorios, sólo tienen interés religioso de cada zona. </label>
+        <label class="label-container"> Porque no les interesa poseer territorios, sólo tienen interés religioso de cada zona.
+               <input id="p2r3" type="radio" name="p2" value="0">
+               <span class="checkmark"></span>
+            </label>
+        
         <div id="result2"></div> 
         <div class="lineadiv1"></div>
 
@@ -79,14 +96,21 @@
                   3    
               </strong>
             </span>¿Cómo sabemos que el nombre Palestina es de origen europeo y no árabe?</H2>
-        <input id="p3r1" type="radio" name="p3" value="0">
-        <label> Porque suena italiano y tiene raíz latina. </label>
+    
+        <label class="label-container">Porque suena italiano y tiene raíz latina.
+               <input id="p3r1" type="radio" name="p3" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p3r2" type="radio" name="p3" value="0">
-        <label> Porque Palestina era originalmente una ciudad europea. </label>
+        <label class="label-container">Porque Palestina era originalmente una ciudad europea.
+               <input id="p3r2" type="radio" name="p3" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p3r3" type="radio" name="p3" value="1">
-       <label> Porque la letra P no es de fácil pronunciación en el idioma árabe. </label>
+       <label class="label-container">Porque la letra P no es de fácil pronunciación en el idioma árabe.
+               <input id="p3r3" type="radio" name="p3" value="1">
+               <span class="checkmark"></span>
+            </label>
         <br>
        <div id="result3"></div> 
        <div class="lineadiv1"></div>
@@ -97,14 +121,21 @@
                  4    
              </strong>
            </span>¿Qué es la Declaración de Balfour?</H2>
-       <input id="p4r1" type="radio" name="p4" value="0">
-       <label> Un documento escrito por el imperio otomano eexpulsando a árabes y judíos de Palestina. </label>
+  
+       <label class="label-container">Un documento escrito por el imperio otomano eexpulsando a árabes y judíos de Palestina. 
+               <input id="p4r1" type="radio" name="p4" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p4r2" type="radio" name="p4" value="1">
-       <label>Un documento escrito en 1917 en el que el gobierno británico respaldó el establecimiento de un hogar nacional para el pueblo judío en Palestina.</label>
+       <label class="label-container">Un documento escrito en 1917 en el que el gobierno británico respaldó el establecimiento de un hogar nacional para el pueblo judío en Palestina.
+               <input id="p4r2" type="radio" name="p4" value="1">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p4r3" type="radio" name="p4" value="0">
-       <label>Un documento escrito por la ONU que rechaza el establecimiento del pueblo judío en Palestina </label>
+       <label class="label-container">Un documento escrito por la ONU que rechaza el establecimiento del pueblo judío en Palestina 
+               <input id="p4r3" type="radio" name="p4" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
        <div id="result4"></div> 
        <div class="lineadiv1"></div>
@@ -115,14 +146,21 @@
                         5    
                        </strong>
                        </span>¿Cómo comenzó a manifestarse el conflicto entre árabes y judíos?</H2>
+
+                       <label class="label-container">En una serie de matanzas o pogroms, impulsados por los dirigentes árabes y por el Mufti de Jerusalén, contra la población judía en 1920.
                        <input id="p5r1" type="radio" name="p5" value="1">
-                       <label> En una serie de matanzas o pogroms, impulsados por los dirigentes árabes y por el Mufti de Jerusalén, contra la población judía en 1920 </label>
+                        <span class="checkmark"></span>
+                        </label>
                        <br>
+                       <label class="label-container">Con manifestaciones de ambos grupos y resistencias contra el gobierno británico.
                        <input id="p5r2" type="radio" name="p5" value="0">
-                       <label> Con manifestaciones de ambos grupos y resistencias contra el gobierno británico</label>
+                        <span class="checkmark"></span>
+                        </label>
                        <br>
+                       <label class="label-container"> A través de propaganda política y panfletos que incitaban al odio.
                        <input id="p5r3" type="radio" name="p5" value="0">
-                       <label> A través de propaganda política y panfletos que incitaban al odio </label>
+                        <span class="checkmark"></span>
+                        </label>
                        <br>
                        <div id="result5"></div> 
                        <div class="lineadiv1"></div>
@@ -133,14 +171,21 @@
                         6   
                        </strong>
                        </span>¿Qué es el Libro Blanco?</H2>
+                
+                       <label class="label-container"> Un documento redactado por el Alto Comité Árabe rechazando la ocupación judía en Palestina 
                        <input id="p6r1" type="radio" name="p6" value="0">
-                       <label> Un documento redactado por el Alto Comité Árabe rechazando la ocupación judía en Palestina </label>
+                        <span class="checkmark"></span>
+                        </label>
                        <br>
+                       <label class="label-container"> Un documento redactado por el Irgún donde indica el plan de rebelión y establecimiento del Estado judío independiente. 
                        <input id="p6r2" type="radio" name="p6" value="0">
-                       <label>Un documento redactado por el Irgún donde indica el plan de rebelión y establecimiento del Estado judío independiente. </label>
+                        <span class="checkmark"></span>
+                        </label>
                        <br>
+                       <label class="label-container">Un documento político emitido por el gobierno británico en respuesta a la rebelión árabe de 1936-1939 que regula el mandato, la inmigración y la transferencia de las tierras a los judíos. 
                        <input id="p6r3" type="radio" name="p6" value="1">
-                       <label>Un documento político emitido por el gobierno británico en respuesta a la rebelión árabe de 1936-1939 que regula el mandato, la inmigración y la transferencia de las tierras a los judíos. </label>
+                        <span class="checkmark"></span>
+                        </label>
                        <br>
                        <div id="result6"></div> 
                        <br> 
@@ -199,6 +244,6 @@
 
 </div>
                      
-<script src="{{ asset('js/act1.js') }}" defer></script>
+<script src="{{ asset('js/act2.js') }}" defer></script>
 
 @endsection('content')

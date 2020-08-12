@@ -20,7 +20,7 @@
 
 <div class="solapas">
 
-<ul class="nav nav-tabs nav-justified act1li" id="myTab" role="tablist">
+<ul class="nav nav-tabs act1li" id="myTab" role="tablist">
   <li class="nav-item ">
     <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">PREGUNTAS DE REVISIÓN</a>
   </li>
@@ -40,7 +40,7 @@
                 1    
               </strong>
             </span>¿De dónde proviene el término "judío"?</H2>
-            <br>
+  
             <label class="label-container">De Yehuda, el cuarto hijo del patriarca Iaakov
                <input id="p1r1" type="radio" name="p1" value="1">
                <span class="checkmark"></span>
@@ -48,12 +48,12 @@
       <br>
   
             <label class="label-container">De Judas, uno de los ápostoles de Jesús.
-               <input id="p1r2" type="radio" name="p1" value="1">
+               <input id="p1r2" type="radio" name="p1" value="0">
                <span class="checkmark"></span>
             </label>
       <br>
             <label class="label-container">De los habitantes de los territorios <br /> de Judea y Samaria.
-               <input id="p1r3" type="radio" name="p1" value="1">
+               <input id="p1r3" type="radio" name="p1" value="0">
                <span class="checkmark"></span>
             </label>
       
@@ -66,14 +66,14 @@
                   2    
               </strong>
            </span>¿Qué otros términos se conocen para definir a los judíos?</H2>
-           <br>
+           
              <label class="label-container">Israelitas.
                <input id="p2r1" type="radio" name="p2" value="0">
                <span class="checkmark"></span>
             </label>
         <br>
         <label class="label-container">Hebreos
-               <input id="p1r2" type="radio" name="p2" value="0">
+               <input id="p2r2" type="radio" name="p2" value="0">
                <span class="checkmark"></span>
             </label>
         <br>
@@ -95,7 +95,7 @@
                   3    
               </strong>
             </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
-         <br>
+         
         <label class="label-container">Queremos ser parte de la sociedad <br /> y ser europeos como todos.
                <input id="p3r1" type="radio" name="p3" value="0">
                <span class="checkmark"></span>
@@ -120,7 +120,7 @@
                  4    
              </strong>
            </span>¿Qué ocurrió con la corriente asimilacionista?</H2>
-           <br>
+          
        <label class="label-container">  Emigraron a Israel.
                <input id="p4r1" type="radio" name="p4" value="0">
                <span class="checkmark"></span>
@@ -146,7 +146,7 @@
                         5    
                        </strong>
                        </span>¿Cuál fue la respuesta de Hertzl ante el antisemitismo?</H2>
-                       <br>
+                       
                        <label class="label-container">  Planteó como solución la creación de <br /> un Estado judío.
                         <input id="p5r1" type="radio" name="p5" value="1">
                          <span class="checkmark"></span>
@@ -171,7 +171,7 @@
                         6   
                        </strong>
                        </span>¿Qué es el sionismo?</H2>
-                       <br>
+                       
                        <label class="label-container">  Sentir amor por Sion-Jerusalén. 
                         <input id="p6r1" type="radio" name="p6" value="0">
                          <span class="checkmark"></span>
@@ -193,6 +193,7 @@
                          <button type="button" onclick="resultado()"> 
                             Ver Respuestas
                          </button>
+                       
                          <button id="botonrespuesta" style="display: none;" type="button" onclick="reiniciar()">
                             Reiniciar
                          </button>

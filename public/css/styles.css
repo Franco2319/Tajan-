@@ -471,49 +471,56 @@ input::placeholder {
     font-family:'Montserrat', sans-serif; 
     font-weight:500;
     font-size: 57%;
+    justify-content: center;
 }
 
 .act1li a {
     color: rgba(139, 55, 107, 1);
 }
 
-.act1li > .nav.nav-tabs{
+/* .act1li > .nav.nav-tabs{
 
       border: none;
       color:#fff;
       background:#272e38;
       border-radius:0;
   
-  }
+  } */
 
   .act1li > li.nav-item a.nav-link,
   .act1li > li.nav-item a.nav-link.active
   {
     border: none;
       /* padding: 18px 25px; */
-      color:#fff;
-      background:#272e38;
+      color: #a25080;
+      background: none;
       border-radius:0;
   }
+  
+
+  .act1li > li.nav-item a.nav-link.active{
+    position: relative;
+  }
+
   
   .act1li > li.nav-item a.nav-link.active:after
    {
     content: "";
-    position: relative;
-    bottom: -40px;
-    left: -10%;
+    position: absolute;
+    bottom: -20px;
+    left: 42%;
     padding: 0;
-    border: 15px solid transparent;
-    border-top-color: rgba(139, 55, 107, 1);
+    border: 10px solid transparent;
+    border-top-color: #a24e7f;
   }
 
 
   .tab-content{
-    background: #fdfdfd;
+    background: none
       /* line-height: 25px; */
-      border: 1px solid #ddd;
-      border-top:5px solid rgba(139, 55, 107, 1);
-      border-bottom:5px solid rgba(139, 55, 107, 1);
+      border: 0;
+      border-top:0;
+      border-bottom:0;
       /* padding:30px 25px; */
   }
   
@@ -521,28 +528,40 @@ input::placeholder {
   .act1li > li.nav-item a.nav-link:focus
   {
       border: none;
-      background: rgba(139, 55, 107, 1);
+      background:#a25080;
       color:#fff;
       border-radius:0;
       transition:background 0.20s linear;
 
   }
 
-.divact1 {
-    padding-top: 7%;
-    padding-left: 3%;
+   .nav-tabs {
+       border-bottom: 0;
+   }
+
+
+
+  .nav-tabs .nav-item {
+    margin-bottom: -1px;
+    width: 33%;
+    text-align: center;
+}
+
+
+   .divact1 {
+    padding-top: 5%;
     padding-left: 5%;
-    padding-right: 6%;
+    padding-right: 5%;
     border: solid;
     border-width: thin;
-    border-color: rgba(139, 55, 107, 1);
+    border-color: #a25080;
 }
 
 .divact1 h2{
     font-family:'Montserrat', sans-serif; 
     font-weight:600;
-    color: rgba(16, 79, 137, 1);
-    font-size: 75%;
+    color: #0079c2;
+    font-size: 65%;
     padding-top: 3%;
     padding-left: 2%;
     margin-bottom: -1%;
@@ -552,7 +571,7 @@ input::placeholder {
 .divact1 label {
     font-family:'Montserrat', sans-serif; 
     font-weight:500;
-    color: rgba(29, 114, 159, 1);
+    color: #0078bf;
     font-size: 65%;
     width: 93%;
     display: inline-flex;
@@ -560,17 +579,17 @@ input::placeholder {
 }
 
 
-.divact1 input[type=radio] {
-    -ms-transform: scale(0.5); /* IE 9 */
-    -webkit-transform: scale(0.5); /* Chrome, Safari, Opera */
+/* .divact1 input[type=radio] {
+    -ms-transform: scale(0.5); 
+    -webkit-transform: scale(0.5); 
     transform: scale(0.5); border: 0px;
-}
+} */
 
 
     .label-container {
       display: block;
       position: relative;
-      padding-left: 35px;
+      padding-left: 4%;
       margin-bottom: 12px;
       cursor: pointer;
       font-size: 22px;
@@ -592,10 +611,10 @@ input::placeholder {
   /* Create a custom radio button */
   .checkmark {
     position: absolute;
-    top: 7px;
-    left: 4px;
-    height: 20px;
-    width: 20px;
+    top: 5px;
+    left: 0;
+    height: 5px;
+    width: 5px;
     background-color: #eee;
     border-radius: 50%;
   }
@@ -708,7 +727,8 @@ input::placeholder {
     height: 1px;
     margin: 0px auto;
     margin-left: 8%;
-    border-bottom: 1px solid rgba(139, 55, 107, 1);
+    border-bottom: 1px solid #d1a7bf;
+    border-radius: 0.25rem;
 }
 
 .circulo1 {
@@ -809,7 +829,8 @@ input::placeholder {
     height: 2px;
     margin: 0px auto;
     margin-left: -2%;
-    border-bottom: 1px solid rgba(139, 55, 107, 1);
+    border-bottom: 1px solid #d1a7bf;
+    padding-top: 3%;
 }
 
 
@@ -821,11 +842,13 @@ input::placeholder {
 }
 
 .divrespuestas button{
-    background-color: rgba(139, 55, 107, 1);
+    background-color: #a25080;
     color: white;
     font-family:'Montserrat', sans-serif; 
     font-weight:600;
-    padding: 6%;
+    padding: 7%;
+    width: 90%;
+    font-size: 105%;
     border: none;
     outline: none;
 }
@@ -1227,28 +1250,42 @@ input::placeholder {
     
     .act1li > li.nav-item a.nav-link.active:after{
 
-        bottom: -50px;
-        left: -45%;
+        bottom: -20px;
+        left: 45%;
   
     }
 
     .divact1 {
-        padding-top: 3%;
-        padding-left: 7%;
+        padding-top: 2%;
+        padding-left: 6%;
     }
 
     .divact1 h2 {
         font-size: 130%;
+        padding-bottom: 1%;
     }
 
     .divact1 label {
         font-size: 100%;
         padding-top: 1%;
+        padding-left: 2%;
     }
 
-    .divact1 input[type=radio] {
+    /* .divact1 input[type=radio] {
         transform: scale(0.8);
-    }
+    } */
+
+    .checkmark {
+        top: 15px;
+        left: -11px;
+        height: 10px;
+        width: 10px;
+    
+      }
+
+
+
+
 
     .divrespuestas {
         font-size: 120%;
