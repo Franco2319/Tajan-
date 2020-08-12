@@ -40,14 +40,23 @@
                 1    
               </strong>
             </span>¿De dónde proviene el término "judío"?</H2>
-      <input id="p1r1" type="radio" name="p1" value="1">
-      <label>De Yehuda, el cuarto hijo del patriarca Iaakov </label>
+            <br>
+            <label class="label-container">De Yehuda, el cuarto hijo del patriarca Iaakov
+               <input id="p1r1" type="radio" name="p1" value="1">
+               <span class="checkmark"></span>
+            </label>
       <br>
-      <input id="p1r2" type="radio" name="p1" value="0">
-      <label> De Judas, uno de los ápostoles de Jesús. </label>
+  
+            <label class="label-container">De Judas, uno de los ápostoles de Jesús.
+               <input id="p1r2" type="radio" name="p1" value="1">
+               <span class="checkmark"></span>
+            </label>
       <br>
-      <input id="p1r3" type="radio" name="p1" value="0">
-      <label> De los habitantes de los territorios <br /> de Judea y Samaria. </label>
+            <label class="label-container">De los habitantes de los territorios <br /> de Judea y Samaria.
+               <input id="p1r3" type="radio" name="p1" value="1">
+               <span class="checkmark"></span>
+            </label>
+      
       <div id="result1"></div> 
       <div class="lineadiv1"></div>
       
@@ -57,17 +66,26 @@
                   2    
               </strong>
            </span>¿Qué otros términos se conocen para definir a los judíos?</H2>
-        <input id="p2r1" type="radio" name="p2" value="0">
-        <label> Israelitas. </label>
+           <br>
+             <label class="label-container">Israelitas.
+               <input id="p2r1" type="radio" name="p2" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p2r2" type="radio" name="p2" value="0">
-        <label> Hebreos. </label>
+        <label class="label-container">Hebreos
+               <input id="p1r2" type="radio" name="p2" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p2r3" type="radio" name="p2" value="0">
-        <label> Los que profesan con la "Fe Mosaica". </label>
+        <label class="label-container">Los que profesan con la "Fe Mosaica".
+               <input id="p2r3" type="radio" name="p2" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p2r4" type="radio" name="p2" value="1">
-        <label> Todas son correctas. </label>
+        <label class="label-container">Todas son correctas.
+               <input id="p2r4" type="radio" name="p2" value="1">
+               <span class="checkmark"></span>
+            </label>
         <div id="result2"></div> 
         <div class="lineadiv1"></div>
 
@@ -77,14 +95,21 @@
                   3    
               </strong>
             </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
-        <input id="p3r1" type="radio" name="p3" value="0">
-        <label> Queremos ser parte de la sociedad <br /> y ser europeos como todos. </label>
+         <br>
+        <label class="label-container">Queremos ser parte de la sociedad <br /> y ser europeos como todos.
+               <input id="p3r1" type="radio" name="p3" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p3r2" type="radio" name="p3" value="1">
-        <label> No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br />  nuestras leyes tradicionales. </label>
+        <label class="label-container">No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br /> nuestras leyes tradicionales.
+               <input id="p3r2" type="radio" name="p3" value="1">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p3r3" type="radio" name="p3" value="0">
-       <label> El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. </label>
+       <label class="label-container"> El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. 
+               <input id="p3r3" type="radio" name="p3" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
        <div id="result3"></div> 
        <div class="lineadiv1"></div>
@@ -95,14 +120,22 @@
                  4    
              </strong>
            </span>¿Qué ocurrió con la corriente asimilacionista?</H2>
-       <input id="p4r1" type="radio" name="p4" value="0">
-       <label> Emigraron a Israel. </label>
+           <br>
+       <label class="label-container">  Emigraron a Israel.
+               <input id="p4r1" type="radio" name="p4" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p4r2" type="radio" name="p4" value="0">
-       <label> Lucharon para seguir siendo Judíos <br /> en la modernidad. </label>
+       <label class="label-container">  Lucharon para seguir siendo Judíos <br /> en la modernidad.
+               <input id="p4r2" type="radio" name="p4" value="0">
+               <span class="checkmark"></span>
+            </label>
+       
        <br>
-       <input id="p4r3" type="radio" name="p4" value="1">
-       <label> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías. </label>
+       <label class="label-container"> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías.
+               <input id="p4r3" type="radio" name="p4" value="1">
+               <span class="checkmark"></span>
+            </label>
        <br>
        <div id="result4"></div> 
        <div class="lineadiv1"></div>
@@ -113,14 +146,21 @@
                         5    
                        </strong>
                        </span>¿Cuál fue la respuesta de Hertzl ante el antisemitismo?</H2>
-                       <input id="p5r1" type="radio" name="p5" value="1">
-                       <label> Planteó como solución la creación de <br /> un Estado judío. </label>
                        <br>
-                       <input id="p5r2" type="radio" name="p5" value="0">
-                       <label> Propuso abandonar las prácticas religiosas. </label>
+                       <label class="label-container">  Planteó como solución la creación de <br /> un Estado judío.
+                        <input id="p5r1" type="radio" name="p5" value="1">
+                         <span class="checkmark"></span>
+                      </label>
                        <br>
-                       <input id="p5r3" type="radio" name="p5" value="0">
-                       <label> Declaró la independencia de los judíos <br /> del mundo. </label>
+                       <label class="label-container"> Propuso abandonar las prácticas      religiosas.
+                        <input id="p5r2" type="radio" name="p5" value="0">
+                         <span class="checkmark"></span>
+                      </label>
+                       <br>
+                       <label class="label-container">  Declaró la independencia de los judíos <br /> del mundo.
+                        <input id="p5r3" type="radio" name="p5" value="0">
+                         <span class="checkmark"></span>
+                      </label>
                        <br>
                        <div id="result5"></div> 
                        <div class="lineadiv1"></div>
@@ -131,14 +171,21 @@
                         6   
                        </strong>
                        </span>¿Qué es el sionismo?</H2>
-                       <input id="p6r1" type="radio" name="p6" value="0">
-                       <label> Sentir amor por Sion-Jerusalén. </label>
                        <br>
-                       <input id="p6r2" type="radio" name="p6" value="1">
-                       <label> Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio. </label>
+                       <label class="label-container">  Sentir amor por Sion-Jerusalén. 
+                        <input id="p6r1" type="radio" name="p6" value="0">
+                         <span class="checkmark"></span>
+                      </label>
                        <br>
-                       <input id="p6r3" type="radio" name="p6" value="0">
-                       <label> Es un movimiento estudiantil judío. </label>
+                       <label class="label-container"> Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio.
+                        <input id="p6r2" type="radio" name="p6" value="1">
+                         <span class="checkmark"></span>
+                      </label>
+                       <br>
+                       <label class="label-container">  Es un movimiento estudiantil judío. 
+                        <input id="p6r3" type="radio" name="p6" value="0">
+                         <span class="checkmark"></span>
+                      </label>
                        <br>
                        <div id="result6"></div> 
                        <br> 
