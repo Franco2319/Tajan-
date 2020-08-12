@@ -60,8 +60,10 @@
                   2    
               </strong>
            </span>¿Por qué decimos que el concepto de nacionalismo soberano es algo extraño en el mundo musulmán-árabe?</H2>
-        <input id="p2r1" type="radio" name="p2" value="0">
-        <label> Porque no fueron soberanos a lo largo de la historia. </label>
+        <label class="label-container"> Porque no fueron soberanos a lo largo de la historia. 
+               <input id="p2r1" type="radio" name="p2" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
         <input id="p2r2" type="radio" name="p2" value="1">
         <label> Porque la identidad básica de los árabes es tribal y no territorial. Se identifican a partir de los diversos clanes y no poseen una identidad única nacional. </label>
