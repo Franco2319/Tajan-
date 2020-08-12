@@ -41,14 +41,23 @@
                 1    
               </strong>
             </span>¿Qué es la Hasbará?</H2>
-      <input id="p1r1" type="radio" name="p1" value="0">
-      <label>Es la lucha contra el antisemitismo </label>
+
+        <label class="label-container">Es la lucha contra el antisemitismo 
+            <input id="p1r1" type="radio" name="p1" value="0">
+            <span class="checkmark"></span>
+        </label>
       <br>
-      <input id="p1r2" type="radio" name="p1" value="1">
-      <label> Es la explicación y el esclarecimiento de los sucesos históricos y acciones actuales vinculados al Estado de Israel y sus políticas. </label>
+
+      <label class="label-container">Es la explicación y el esclarecimiento de los sucesos históricos y acciones actuales vinculados al Estado de Israel y sus políticas. 
+          <input id="p1r2" type="radio" name="p1" value="1">
+          <span class="checkmark"></span>
+      </label>
       <br>
-      <input id="p1r3" type="radio" name="p1" value="0">
-      <label> Es la concientización sobre actos de terrorismo relacionados al antisemitismo </label>
+
+      <label class="label-container">Es la concientización sobre actos de terrorismo relacionados al antisemitismo 
+            <input id="p1r3" type="radio" name="p1" value="0">
+            <span class="checkmark"></span>
+        </label>
       <div id="result1"></div> 
       <div class="lineadiv1"></div>
       
@@ -58,15 +67,25 @@
                   2    
               </strong>
            </span>¿Cuál es el objetivo de la Hasbará?</H2>
-        <input id="p2r1" type="radio" name="p2" value="1">
-        <label class="labelmobile"> Proveer información y conocimiento para combatir la ideología que propaga la deslegitimación de Israel </label>
+
+        <label class="label-container">Proveer información y conocimiento para combatir la ideología que propaga la deslegitimación de Israel
+            <input id="p2r1" type="radio" name="p2" value="1">
+            <span class="checkmark"></span>
+        </label>
         <br>
-        <input id="p2r2" type="radio" name="p2" value="0">
-        <label> Incrementar el turismo en Israel </label>
+
+        <label class="label-container">Incrementar el turismo en Israel
+            <input id="p2r2" type="radio" name="p2" value="0">
+            <span class="checkmark"></span>
+        </label>
         <br>
-        <input id="p2r3" type="radio" name="p2" value="0">
-        <label> Divulgar la cultura hebrea en el mundo </label>
+
+        <label class="label-container">Divulgar la cultura hebrea en el mundo
+            <input id="p2r3" type="radio" name="p2" value="0">
+            <span class="checkmark"></span>
+        </label>
         <br>
+
         <div id="result2"></div> 
         <div class="lineadiv1"></div>
 
@@ -76,15 +95,25 @@
                   3    
               </strong>
             </span>¿Quiénes pueden hacer Hasbará?</H2>
-        <input id="p3r1" type="radio" name="p3" value="0">
-        <label> Los representantes oficiales del Estado de Israel </label>
+
+        <label class="label-container">Los representantes oficiales del Estado de Israel
+            <input id="p3r1" type="radio" name="p3" value="0">
+            <span class="checkmark"></span>
+        </label>
         <br>
-        <input id="p3r2" type="radio" name="p3" value="0">
-        <label> Los dirigentes comunitarios </label>
+
+        <label class="label-container">Los dirigentes comunitarios
+            <input id="p3r2" type="radio" name="p3" value="0">
+            <span class="checkmark"></span>
+        </label>
         <br>
-        <input id="p3r3" type="radio" name="p3" value="1">
-       <label> Todas las personas que quieran brindar información precisa acerca del Estado de Israel </label>
+
+        <label class="label-container">Todas las personas que quieran brindar información precisa acerca del Estado de Israel
+            <input id="p3r3" type="radio" name="p3" value="1">
+            <span class="checkmark"></span>
+        </label>
         <br>
+
        <div id="result3"></div> 
        <div class="lineadiv1"></div>
 
@@ -94,15 +123,25 @@
                  4    
              </strong>
            </span>¿Qué es la diplomacia pública vinculada a la Hasbará?</H2>
-       <input id="p4r1" type="radio" name="p4" value="0">
-       <label> Es el trabajo que se realiza entre las comitivas diplomáticas de los países e Israel </label>
+
+       <label class="label-container">Es el trabajo que se realiza entre las comitivas diplomáticas de los países e Israel
+            <input id="p4r1" type="radio" name="p4" value="0">
+            <span class="checkmark"></span>
+        </label>
        <br>
-       <input id="p4r2" type="radio" name="p4" value="1">
-       <label> Son acciones proactivas para crear  puentes entre las comunidades judías del mundo y otras organizaciones de los países </label>
+
+       <label class="label-container">Son acciones proactivas para crear  puentes entre las comunidades judías del mundo y otras organizaciones de los países
+            <input id="p4r2" type="radio" name="p4" value="1">
+            <span class="checkmark"></span>
+        </label>
        <br>
-       <input id="p4r3" type="radio" name="p4" value="0">
-       <label> Se trata de acciones vinculadas a la política exterior de Israel con Medio Oriente </label>
+
+       <label class="label-container">Se trata de acciones vinculadas a la política exterior de Israel con Medio Oriente
+            <input id="p4r3" type="radio" name="p4" value="0">
+            <span class="checkmark"></span>
+        </label>
        <br>
+
        <div id="result4"></div> 
        <div class="lineadiv1"></div>
 
@@ -112,15 +151,26 @@
             5    
           </strong>
          </span>¿Cómo se puede trabajar en el “posicionamiento de marca” respecto de Israel?</H2>
-         <input id="p5r1" type="radio" name="p5" value="0">
-         <label> Publicitando series israelíes para dar a conocer su cultura </label>
+
+         <label class="label-container">Publicitando series israelíes para dar a conocer su cultura
+            <input id="p5r1" type="radio" name="p5" value="0">
+            <span class="checkmark"></span>
+        </label>
          <br>
-         <input id="p5r2" type="radio" name="p5" value="0">
-         <label> Invitando a la gente a visitar Israel </label>
+
+         <label class="label-container">Invitando a la gente a visitar Israel
+            <input id="p5r2" type="radio" name="p5" value="0">
+            <span class="checkmark"></span>
+        </label>
          <br>
-         <input id="p5r3" type="radio" name="p5" value="1">
-         <label> Remarcando las cuestiones positivas presentes en Israel -como el Estado de las Start Ups- y combatir así la ola de información negativa en contra de los judíos. </label>
          <br>
+
+         <label class="label-container">Remarcando las cuestiones positivas presentes en Israel -como el Estado de las Start Ups- y combatir así la ola de información negativa en contra de los judíos.
+            <input id="p5r3" type="radio" name="p5" value="1">
+            <span class="checkmark"></span>
+        </label>
+         <br>
+
          <div id="result5"></div> 
 
          <div class="divrespuestas">

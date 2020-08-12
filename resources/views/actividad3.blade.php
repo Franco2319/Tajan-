@@ -41,14 +41,24 @@
                 1    
               </strong>
             </span>¿Por qué se considera el término antisemitismo como un calificativo errado para denominar la judeofobia?</H2>
-      <input id="p1r1" type="radio" name="p1" value="0">
-      <label>Porque la judeofobia es el miedo hacia los judíos mientras que el antisemitismo implica rechazo </label>
+
+      <label class="label-container">Porque la judeofobia es el miedo hacia los judíos mientras que el antisemitismo implica rechazo
+               <input id="p1r1" type="radio" name="p1" value="0">
+               <span class="checkmark"></span>
+            </label>
       <br>
-      <input id="p1r2" type="radio" name="p1" value="1">
-      <label> Porque el antisemita no odia a los pueblos semitas propios de la antigüedad remota sino odia a los judíos </label>
+
+      <label class="label-container">Porque el antisemita no odia a los pueblos semitas propios de la antigüedad remota sino odia a los judíos
+               <input id="p1r2" type="radio" name="p1" value="1">
+               <span class="checkmark"></span>
+            </label>
       <br>
-      <input id="p1r3" type="radio" name="p1" value="0">
-      <label> Porque es un término poco aceptado por la comunidad internacional </label>
+
+      <label class="label-container">Porque es un término poco aceptado por la comunidad internacional
+               <input id="p1r3" type="radio" name="p1" value="0">
+               <span class="checkmark"></span>
+            </label>
+
       <div id="result1"></div> 
       <div class="lineadiv1"></div>
       
@@ -58,15 +68,25 @@
                   2    
               </strong>
            </span>¿Cuándo comenzó a desarrollarse el fenómeno de la Judeofobia? </H2>
-        <input id="p2r1" type="radio" name="p2" value="0">
-        <label> A principios de siglo XX en Europa </label>
+
+        <label class="label-container">A principios de siglo XX en Europa
+               <input id="p2r1" type="radio" name="p2" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p2r2" type="radio" name="p2" value="0">
-        <label> En los países de medio oriente, en la Era Moderna </label>
+
+        <label class="label-container">En los países de medio oriente, en la Era Moderna
+               <input id="p2r2" type="radio" name="p2" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p2r3" type="radio" name="p2" value="1">
-        <label> Se cristalizó totalmente durante el imperio romano y a partir del cristianismo, se convirtió en norma  </label>
+
+        <label class="label-container">Se cristalizó totalmente durante el imperio romano y a partir del cristianismo, se convirtió en norma
+               <input id="p2r3" type="radio" name="p2" value="1">
+               <span class="checkmark"></span>
+            </label>
         <br>
+
         <div id="result2"></div> 
         <div class="lineadiv1"></div>
 
@@ -76,15 +96,25 @@
                   3    
               </strong>
             </span>¿Cuáles son las bases teológicas del antisemitismo?</H2>
-        <input id="p3r1" type="radio" name="p3" value="1">
-        <label> El principio de la Sustitución y la acusación del Deicidio </label>
+
+        <label class="label-container">El principio de la Sustitución y la acusación del Deicidio
+               <input id="p3r1" type="radio" name="p3" value="1">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p3r2" type="radio" name="p3" value="0">
-        <label> La apropiación del Antiguo Testamento y la negación del Nuevo </label>
+
+        <label class="label-container">La apropiación del Antiguo Testamento y la negación del Nuevo
+               <input id="p3r2" type="radio" name="p3" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
-        <input id="p3r3" type="radio" name="p3" value="0">
-       <label> La prohibición de la usura y la profanación de símbolos religiosos</label>
+
+       <label class="label-container">La prohibición de la usura y la profanación de símbolos religiosos
+               <input id="p3r3" type="radio" name="p3" value="0">
+               <span class="checkmark"></span>
+            </label>
         <br>
+
        <div id="result3"></div> 
        <div class="lineadiv1"></div>
 
@@ -94,15 +124,25 @@
                  4    
              </strong>
            </span>¿Cuáles son los mitos medievales que justificaron el antisemitismo?</H2>
-       <input id="p4r1" type="radio" name="p4" value="0">
-       <label> La propagación de creencias paganas por parte de los judíos </label>
+
+       <label class="label-container">La propagación de creencias paganas por parte de los judíos
+               <input id="p4r1" type="radio" name="p4" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p4r2" type="radio" name="p4" value="1">
-       <label> El asesinato ritual, la profanación de la hostia y la peste negra </label>
+
+       <label class="label-container">El asesinato ritual, la profanación de la hostia y la peste negra
+               <input id="p4r2" type="radio" name="p4" value="1">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p4r3" type="radio" name="p4" value="0">
-       <label> Los falsos conversos y los actos de fe de la Inquisición </label>
+
+       <label class="label-container">Los falsos conversos y los actos de fe de la Inquisición
+               <input id="p4r3" type="radio" name="p4" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
+
        <div id="result4"></div> 
        <div class="lineadiv1"></div>
 
@@ -112,18 +152,31 @@
             5    
           </strong>
          </span>¿Cuáles son los mitos que defiende un antisemita en la actualidad?</H2>
-         <input id="p5r1" type="radio" name="p5" value="0">
-         <label> Los judíos dominan el mundo y están detrás de todas las desgracias  </label>
+
+         <label class="label-container">Los judíos dominan el mundo y están detrás de todas las desgracias
+               <input id="p5r1" type="radio" name="p5" value="0">
+               <span class="checkmark"></span>
+            </label>
          <br>
-         <input id="p5r2" type="radio" name="p5" value="0">
-         <label> El antisionismo, que descalifica los sentimientos y aspiraciones nacionales de los judíos (y sólo de los judíos) y considera a Israel (y sólo a Israel) un Estado ilegítimo </label>
+
+         <label class="label-container">El antisionismo, que descalifica los sentimientos y aspiraciones nacionales de los judíos (y sólo de los judíos) y considera a Israel (y sólo a Israel) un Estado ilegítimo
+               <input id="p5r2" type="radio" name="p5" value="0">
+               <span class="checkmark"></span>
+            </label>
          <br>
-         <input id="p5r3" type="radio" name="p5" value="0">
-         <label> La Negación del Holocausto </label>
+
+         <label class="label-container">La Negación del Holocausto
+               <input id="p5r3" type="radio" name="p5" value="0">
+               <span class="checkmark"></span>
+            </label>
          <br>
-         <input id="p5r4" type="radio" name="p5" value="1">
-         <label> Todas las opciones son correctas </label>
+
+         <label class="label-container">Todas las opciones son correctas
+               <input id="p5r4" type="radio" name="p5" value="1">
+               <span class="checkmark"></span>
+            </label>
          <br>
+
          <div id="result5"></div>
          <div class="lineadiv1"></div>
 
@@ -133,15 +186,25 @@
                  6    
              </strong>
            </span>¿Cuáles son las características de un antisemita?</H2>
-       <input id="p6r1" type="radio" name="p4" value="1">
-       <label> Demuestra excesiva obsesión para con los judíos, utiliza epítetos ofensivos y condena absolutamente todas las acciones de Israel </label>
+
+       <label class="label-container">Demuestra excesiva obsesión para con los judíos, utiliza epítetos ofensivos y condena absolutamente todas las acciones de Israel
+               <input id="p6r1" type="radio" name="p6" value="1">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p6r2" type="radio" name="p4" value="0">
-       <label> Considera que todas las personas diferentes a él son inferiores y está en contra de la igualdad de derechos </label>
+       
+       <label class="label-container">Considera que todas las personas diferentes a él son inferiores y está en contra de la igualdad de derechos
+               <input id="p6r2" type="radio" name="p6" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p6r3" type="radio" name="p4" value="0">
-       <label> Expresa críticas ante acciones del Estado de Israel con argumentos sólidos y conocimiento del tema en cuestión </label>
+
+       <label class="label-container">Expresa críticas ante acciones del Estado de Israel con argumentos sólidos y conocimiento del tema en cuestión
+               <input id="p6r3" type="radio" name="p6" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
+
        <div id="result6"></div> 
        <div class="lineadiv1"></div>
        
@@ -151,15 +214,25 @@
                  7    
              </strong>
            </span>¿Quiénes son los portadores fundamentales del antisemitismo en la actualidad?</H2>
-       <input id="p7r1" type="radio" name="p4" value="0">
-       <label> Los medios de comunicación y las redes sociales </label>
+
+       <label class="label-container">Los medios de comunicación y las redes sociales
+               <input id="p7r1" type="radio" name="p7" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p7r2" type="radio" name="p4" value="1">
-       <label> Los partidos políticos de extrema derecha, la extrema izquierda y corrientes musulmanas con ideología antisemita </label>
+
+       <label class="label-container">Los partidos políticos de extrema derecha, la extrema izquierda y corrientes musulmanas con ideología antisemita
+               <input id="p7r2" type="radio" name="p7" value="1">
+               <span class="checkmark"></span>
+            </label>
        <br>
-       <input id="p7r3" type="radio" name="p4" value="0">
-       <label> Los países que votan en contra de Israel en la ONU </label>
+       
+       <label class="label-container">Los países que votan en contra de Israel en la ONU
+               <input id="p7r3" type="radio" name="p7" value="0">
+               <span class="checkmark"></span>
+            </label>
        <br>
+
        <div id="result7"></div> 
 
 
