@@ -10,6 +10,7 @@
 </head>
 <body>
 
+<section class="container-fluid">
 <nav class="navbar navbar-expand-lg navbar-light bg-light static-top">
   <div class="container">
     <a class="navbar-brand" href="/">
@@ -59,6 +60,7 @@
          <img src="/images/footer.png" alt="" width="40%">
        </div>
     </footer>
+    </section>
 
    <script src="https://kit.fontawesome.com/3bb05eda85.js" crossorigin="anonymous"></script>
    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

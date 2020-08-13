@@ -7,7 +7,6 @@
 
 @section('content')
 
-<section class="container-fluid  contenedor">
 <div class="row">
   <div class="col bannerhome">
         <img class="imgbannermobile" src="/images/bannerhomemobile.jpg" alt="">
@@ -154,7 +153,5 @@
      </div>
   </div>
 
-
-</section>
 
 @endsection('content')
