@@ -219,7 +219,7 @@
       </strong>
       </span>Poniendo el foco en las distintas respuestas que dieron los judíos al Iluminismo, ¿te sentís identificado/a con alguna de ellas? </h2>
       <ul class="reflexionul" >
-        <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoom. <span style="color: rgba(139, 55, 107, 1)"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
+        <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoom. <span style="color: #a14f7f"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
       </ul>
     </div>
   </div>

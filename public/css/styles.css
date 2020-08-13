@@ -516,7 +516,7 @@ input::placeholder {
 
 
   .tab-content{
-    background: none
+    background: none;
       /* line-height: 25px; */
       border: 0;
       border-top:0;
@@ -670,7 +670,7 @@ input::placeholder {
 .reflexion h2{
     font-family:'Montserrat', sans-serif; 
     font-weight:600;
-    color: rgba(16, 79, 137, 1);
+    color: #0278c0;
     font-size: 73%;
     padding-left: 6%;
     line-height: 1.9;
@@ -691,13 +691,13 @@ input::placeholder {
     padding-top: 3%;
     font-size: 90%;
     padding-bottom: 2%;
-    border-color: rgba(139, 55, 107, 1);
+    border-color: #d1a7bf;
 }
 
 .reflexion li {
     font-family:'Montserrat', sans-serif; 
     font-weight:700;
-    color: rgba(16, 79, 137, 1);
+    color: #0076c0;
     text-align: start;
     font-size: 80%;
     list-style-type: none;
@@ -706,7 +706,7 @@ input::placeholder {
 
 .reflexion li::before {
     content: "\2022"; 
-    color: rgba(139, 55, 107, 1);
+    color: #a65a89;
     font-weight: 900; 
     display: inline-block;
     width: 1.0em; 
@@ -746,7 +746,7 @@ input::placeholder {
 .actividadindividual h3{
     font-family:'Montserrat', sans-serif; 
     font-weight:600;
-    color: rgba(16, 79, 137, 1);
+    color: #0078bf;
     font-size: 73%;
     padding-left: 6%;
     line-height: 1.9;
@@ -756,7 +756,7 @@ input::placeholder {
 .actividadh2 {
     font-family:'Montserrat', sans-serif; 
     font-weight:600;
-    color: rgba(139, 55, 107, 1);
+    color: #a14f7f;
     font-size: 90%;
     padding-left: 6%;
     line-height: 1.9;
@@ -785,7 +785,7 @@ input::placeholder {
 .actividadindividual li {
     font-family:'Montserrat', sans-serif; 
     font-weight:700;
-    color: rgba(16, 79, 137, 1);
+    color: #0177bd;
     text-align: start;
     font-size: 80%;
     list-style-type: none;
@@ -794,7 +794,7 @@ input::placeholder {
 
 .actividadindividual li::before {
     content: "\2022"; 
-    color: rgba(139, 55, 107, 1);
+    color: #a45b89;
     font-weight: 900; 
     display: inline-block;
     width: 1.0em; 
@@ -807,7 +807,7 @@ input::placeholder {
 }
 
 .subirarchivo {
-    background-color: rgba(139, 55, 107, 1);
+    background-color: #a25080;
     color: white;
     font-family:'Montserrat', sans-serif; 
     font-weight:600;
