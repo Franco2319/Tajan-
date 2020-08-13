@@ -41,23 +41,22 @@
               </strong>
             </span>¿De dónde proviene el término "judío"?</H2>
   
-            <label class="label-container">De Yehuda, el cuarto hijo del patriarca Iaakov
+            <label class="label-container" id="resp1" >De Yehuda, el cuarto hijo del patriarca Iaakov
                <input id="p1r1" type="radio" name="p1" value="1">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check1" ></span>
             </label>
       <br>
   
-            <label class="label-container">De Judas, uno de los ápostoles de Jesús.
+            <label class="label-container" id="resp2" >De Judas, uno de los ápostoles de Jesús.
                <input id="p1r2" type="radio" name="p1" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check2" ></span>
             </label>
       <br>
-            <label class="label-container">De los habitantes de los territorios <br /> de Judea y Samaria.
+            <label class="label-container" id="resp3" >De los habitantes de los territorios <br /> de Judea y Samaria.
                <input id="p1r3" type="radio" name="p1" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check3" ></span>
             </label>
       
-      <div id="result1"></div> 
       <div class="lineadiv1"></div>
       
        <H2><span class="fa-stack circulo1">
@@ -67,26 +66,25 @@
               </strong>
            </span>¿Qué otros términos se conocen para definir a los judíos?</H2>
            
-             <label class="label-container">Israelitas.
+             <label class="label-container" id="resp4" >Israelitas.
                <input id="p2r1" type="radio" name="p2" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check4" ></span>
             </label>
         <br>
-        <label class="label-container">Hebreos
+        <label class="label-container" id="resp5" >Hebreos
                <input id="p2r2" type="radio" name="p2" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check5" ></span>
             </label>
         <br>
-        <label class="label-container">Los que profesan con la "Fe Mosaica".
+        <label class="label-container" id="resp6" >Los que profesan con la "Fe Mosaica".
                <input id="p2r3" type="radio" name="p2" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check6" ></span>
             </label>
         <br>
-        <label class="label-container">Todas son correctas.
+        <label class="label-container" id="resp7" >Todas son correctas.
                <input id="p2r4" type="radio" name="p2" value="1">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check7" ></span>
             </label>
-        <div id="result2"></div> 
         <div class="lineadiv1"></div>
 
         <H2><span class="fa-stack circulo1">
@@ -96,22 +94,21 @@
               </strong>
             </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
          
-        <label class="label-container">Queremos ser parte de la sociedad <br /> y ser europeos como todos.
+        <label class="label-container" id="resp8" >Queremos ser parte de la sociedad <br /> y ser europeos como todos.
                <input id="p3r1" type="radio" name="p3" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check8" ></span>
             </label>
         <br>
-        <label class="label-container">No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br /> nuestras leyes tradicionales.
+        <label class="label-container" id="resp9" >No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br /> nuestras leyes tradicionales.
                <input id="p3r2" type="radio" name="p3" value="1">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check9" ></span>
             </label>
         <br>
-       <label class="label-container"> El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. 
+       <label class="label-container" id="resp10" > El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. 
                <input id="p3r3" type="radio" name="p3" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check10" ></span>
             </label>
         <br>
-       <div id="result3"></div> 
        <div class="lineadiv1"></div>
 
        <H2><span class="fa-stack circulo1">
@@ -121,23 +118,22 @@
              </strong>
            </span>¿Qué ocurrió con la corriente asimilacionista?</H2>
           
-       <label class="label-container">  Emigraron a Israel.
+       <label class="label-container" id="resp11" >  Emigraron a Israel.
                <input id="p4r1" type="radio" name="p4" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check11" ></span>
             </label>
        <br>
-       <label class="label-container">  Lucharon para seguir siendo Judíos <br /> en la modernidad.
+       <label class="label-container" id="resp12" >  Lucharon para seguir siendo Judíos <br /> en la modernidad.
                <input id="p4r2" type="radio" name="p4" value="0">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check12" ></span>
             </label>
        
        <br>
-       <label class="label-container"> Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías.
+       <label class="label-container" id="resp13" > Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías.
                <input id="p4r3" type="radio" name="p4" value="1">
-               <span class="checkmark"></span>
+               <span class="checkmark" id="check13" ></span>
             </label>
        <br>
-       <div id="result4"></div> 
        <div class="lineadiv1"></div>
 
                        <H2> <span class="fa-stack circulo1">
@@ -147,22 +143,21 @@
                        </strong>
                        </span>¿Cuál fue la respuesta de Hertzl ante el antisemitismo?</H2>
                        
-                       <label class="label-container">  Planteó como solución la creación de <br /> un Estado judío.
+                       <label class="label-container" id="resp14" >  Planteó como solución la creación de <br /> un Estado judío.
                         <input id="p5r1" type="radio" name="p5" value="1">
-                         <span class="checkmark"></span>
+                         <span class="checkmark" id="check14" ></span>
                       </label>
                        <br>
-                       <label class="label-container"> Propuso abandonar las prácticas      religiosas.
+                       <label class="label-container" id="resp15" > Propuso abandonar las prácticas      religiosas.
                         <input id="p5r2" type="radio" name="p5" value="0">
-                         <span class="checkmark"></span>
+                         <span class="checkmark" id="check15" ></span>
                       </label>
                        <br>
-                       <label class="label-container">  Declaró la independencia de los judíos <br /> del mundo.
+                       <label class="label-container" id="resp16" >  Declaró la independencia de los judíos <br /> del mundo.
                         <input id="p5r3" type="radio" name="p5" value="0">
-                         <span class="checkmark"></span>
+                         <span class="checkmark" id="check16" ></span>
                       </label>
                        <br>
-                       <div id="result5"></div> 
                        <div class="lineadiv1"></div>
 
                        <H2> <span class="fa-stack circulo1"> 
@@ -172,30 +167,25 @@
                        </strong>
                        </span>¿Qué es el sionismo?</H2>
                        
-                       <label class="label-container">  Sentir amor por Sion-Jerusalén. 
+                       <label class="label-container" id="resp17" >  Sentir amor por Sion-Jerusalén. 
                         <input id="p6r1" type="radio" name="p6" value="0">
-                         <span class="checkmark"></span>
+                         <span class="checkmark" id="check17" ></span>
                       </label>
                        <br>
-                       <label class="label-container"> Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio.
+                       <label class="label-container" id="resp18" > Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio.
                         <input id="p6r2" type="radio" name="p6" value="1">
-                         <span class="checkmark"></span>
+                         <span class="checkmark" id="check18" ></span>
                       </label>
                        <br>
-                       <label class="label-container">  Es un movimiento estudiantil judío. 
+                       <label class="label-container" id="resp19" >  Es un movimiento estudiantil judío. 
                         <input id="p6r3" type="radio" name="p6" value="0">
-                         <span class="checkmark"></span>
+                         <span class="checkmark" id="check19" ></span>
                       </label>
                        <br>
-                       <div id="result6"></div> 
                        <br> 
                        <div class="divrespuestas">
                          <button type="button" onclick="resultado()"> 
                             Ver Respuestas
-                         </button>
-                       
-                         <button id="botonrespuesta" style="display: none;" type="button" onclick="reiniciar()">
-                            Reiniciar
                          </button>
                       </div>
      </div>
