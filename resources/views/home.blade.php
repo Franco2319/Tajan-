@@ -1,5 +1,10 @@
 @extends('layouts')
 
+
+@section('title')
+    Inicio
+@endsection
+
 @section('content')
 
 <section class="container-fluid  contenedor">

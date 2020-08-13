@@ -1,5 +1,10 @@
 @extends('layouts')
 
+
+@section('title')
+    Actividad 2
+@endsection
+
 @section('content')
 
 <section class="container">
@@ -10,7 +15,7 @@
 
     <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
       <div class="video-responsive">  
-        <iframe src="https://www.youtube.com/embed/_0LHaFNzD4k" frameborder="0"  allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/3cvmONlV5WU" frameborder="0"  allowfullscreen></iframe>
       </div> 
     </div>
   </div>
@@ -20,7 +25,7 @@
 
 <div class="solapas">
 
-<ul class="nav nav-tabs nav-justified act1li" id="myTab" role="tablist">
+<ul class="nav nav-tabs act1li" id="myTab" role="tablist">
   <li class="nav-item ">
     <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">PREGUNTAS DE REVISIÓN</a>
   </li>

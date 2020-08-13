@@ -1,5 +1,9 @@
 @extends('layouts')
 
+@section('title')
+    Agencia Judia
+@endsection
+
 @section('content')
 
 <section class="container contenedor">
