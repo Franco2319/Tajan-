@@ -245,11 +245,8 @@
 
 
          <div class="divrespuestas">
-            <button type="button" onclick="resultado()"> 
+            <button class="btn btn-primary" type="button" onclick="resultado()"> 
              Ver Respuestas
-            </button>
-            <button id="botonrespuesta" style="display: none;" type="button" onclick="reiniciar()">
-            Reiniciar
             </button>
         </div>
      </div>

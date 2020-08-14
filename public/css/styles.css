@@ -16,6 +16,12 @@ body, html { overflow-x: hidden; }
     width: 75%;
 }
 
+.divmobile {
+    width: 100%;
+    background-color: #8acef1;
+    height: 3vh;
+}
+
 .bannerhome {
     position: relative;
     display: flex;
@@ -80,7 +86,7 @@ body, html { overflow-x: hidden; }
     display: none;
     font-family:'Montserrat', sans-serif; 
     font-weight: 500;
-    color: #086b8b;
+    color: #0078bf;
     font-size: 130%;
 }
 
@@ -205,6 +211,7 @@ body, html { overflow-x: hidden; }
     font-weight: 800;
     padding-top: 6%;
     line-height: 0.9;
+    font-size: 255%;
 }
 
 .actimg img {
@@ -352,16 +359,54 @@ body, html { overflow-x: hidden; }
     padding-bottom: 8%;
 }
 
+
+
+.contactoh2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #0084c3;
+    font-size: 150%;
+}
+
+
+.inputcontacto {
+    width: 110%;
+    border: none;
+    margin-top: 4%;
+    font-size: 70%;
+    padding-left: 3%;
+    padding-top: 1%;
+    margin-left: -5%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #0081bf;
+}
+
 input::placeholder {
     font-family:'Montserrat', sans-serif; 
     font-weight:800;
-    color: rgb( 23, 109, 192 ) ;
+    color: #0081bf ;
 }
 
 
 .inputcontacto:focus {
     outline: none;
 }
+
+.textcontacto {
+    width: 110%;
+    height: 120px;
+    border: none;
+    margin-top: 4%;
+    font-size: 70%;
+    padding-left: 3%;
+    padding-top: 1%;
+    margin-left: -5%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #0081bf;
+}
+
 
 .textcontacto:focus {
     outline: none;
@@ -371,7 +416,7 @@ input::placeholder {
 .textcontacto::placeholder {
     font-family:'Montserrat', sans-serif; 
     font-weight:800;
-    color: rgb( 23, 109, 192 );
+    color: #0081bf;
 }
 
 .divcontacto {
@@ -383,23 +428,34 @@ input::placeholder {
 
  .formcontacto {
      position: absolute;
+     top: 2%;
  }
+
+ .buttoncontacto {
+    margin-top: 5%;
+    font-size: 85%;
+    padding: 0%;
+    width: 32%;
+    /* background-color: #8acef1;
+    color: #a25080; */
+    font-weight: 700;
+    padding-bottom: 1%;
+    padding-top: 1%;
+ }
+
 
 .imgcontacto {
     display: none;
 }
 
-.enviarcontacto {
-    width: 31%;
-    padding-top: 8%;
-    padding-bottom: 10%;
-}
+
 
 
 .divagenciaimg {
     background-image: url("/images/agenciavistamobile.jpg");
     background-size: 100%;
     height: 46vh;
+    background-repeat: no-repeat;
 }
 
 .agenciah2mobile {
@@ -443,6 +499,13 @@ input::placeholder {
     color: #0f80c6;
     text-align: start;
 }
+
+.vermasagencia {
+    background-color: #8dcdf3;
+    border: none;
+}
+
+
 
 
   /* VISTA ACTIVIDADES MOBILE */
@@ -515,6 +578,8 @@ input::placeholder {
 
   .act1li > li.nav-item a.nav-link.active{
     position: relative;
+    background-color: #a94b7f;
+    color: white;
   }
 
   
@@ -539,7 +604,10 @@ input::placeholder {
       /* padding:30px 25px; */
   }
   
-  .act1li > li.nav-item a.nav-link:hover,
+  .act1li > li.nav-item a.nav-link:hover{
+      background-color: lightgray;
+      color: #a25080;
+  }
   .act1li > li.nav-item a.nav-link:focus
   {
       border: none;
@@ -827,6 +895,7 @@ input::placeholder {
     font-family:'Montserrat', sans-serif; 
     font-weight:600;
     padding: 3%;
+    border: none;
 }
 
 .lineadiv2 {
@@ -944,10 +1013,12 @@ input::placeholder {
     text-align: initial;
  }
 
-
+ .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #0080c1;
+}
 
 .footer {
-    background-image: url("/images/footerfondo.jpg");
+    
     width: 40%;
 }
 
@@ -955,6 +1026,17 @@ input::placeholder {
 
 
 @media (min-width: 768px) {
+
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        color: #a25080;
+    }
+
+    .dropdown-item {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #0080c1;
+        font-size: 90%;
+    }
 
     .imgbannermobile{
         display: none;
@@ -967,28 +1049,29 @@ input::placeholder {
 
      .logohome {
          display: block;
-         top: 60%;
-    left: 3%;
+         top: 81%;
+         left: 9%;
+         width: 21%;
      }
 
      .titulo {
-        font-size: 400%;
+        font-size: 500%;
         padding-top: 0;
-        top: 1%;
-        left: 3%;
+        top: 5%;
+        left: 10%;
         text-align: initial;
      }
 
      .p1 {
         margin: 0 0;
-    font-size: 110%;
+    font-size: 125%;
     margin-top: 3%;
-    width: 30%;
+    width: 33%;
     font-weight: 600;
     padding: 1%;
     padding-left: 1.5%;
-    top: 20%;
-    left: 3%;
+    top: 35%;
+    left: 10%;
     text-align: initial;
 
      }
@@ -999,14 +1082,18 @@ input::placeholder {
 
      .p2desktop{
          display: block;
+         padding-left: 15%;
+         padding-top: 20%;
+         font-size: 120%;
+
      }
 
      .clasep {
         margin-top: 2%;
     padding-bottom: 7%;
-    width: 34%;
-    top: 37%;
-    left: 3%;
+    width: 51%;
+    top: 36%;
+    left: 2.5%;
     text-align: initial;
      }
 
@@ -1041,7 +1128,6 @@ input::placeholder {
      .imgagencia{
          display: block;
          padding: 0;
-         padding-right: 1%;
      }
      
      
@@ -1114,10 +1200,17 @@ input::placeholder {
      }
 
 
+     .vermasagencia {
+        width: 45%;
+        font-size: 150%;
+        margin-top: 5%;
+     }
+
+
 
      .staffdivpadre {
         background-image:  url("/images/fondostaff.jpg");
-        padding-bottom: 18%;
+        padding-bottom: 10%;
      }
 
      .staffdivpadre article img {
@@ -1142,14 +1235,45 @@ input::placeholder {
 
     .staffh2 {
         font-size: 300%;
+        padding-top: 3%;
 
     }
+    
+    .formcontacto {
+        top: 3%;
+    }
 
-    .enviarcontacto {
-        width: 15%;
-        padding-top: 3%;
-        padding-bottom: 5%;
-        margin-left: 46%;
+
+    .contactoh2 {
+        font-size: 275%;
+        margin-bottom: 5%;
+    }
+
+    .buttoncontacto {
+        font-size: 150%;
+        margin-left: 113%;
+        width: 37%;
+        margin-top: 7%;
+    }
+    
+    .inputcontacto {
+        width: 185%;
+        padding: 4%;
+        padding-left: 7%;
+        font-size: 95%;
+        margin-left: -35%;
+        padding-bottom: 2%;
+        margin-top: 7%;
+    }
+    
+    .textcontacto {
+        width: 185%;
+        margin-left: -35%;
+        padding-left: 7%;
+        font-size: 95%;
+        padding-top: 4%;
+        height: 250px;
+        margin-top: 7%;
     }
 
 
@@ -1170,11 +1294,12 @@ input::placeholder {
     .imgcontacto {
        display: block;
        width: 100%;
+       height: 600px;
     }
 
 
     .navbar-expand-lg .navbar-collapse {
-        font-size: 120%;
+        font-size: 80%;
     }
 
     
@@ -1189,8 +1314,9 @@ input::placeholder {
 
     .divagenciaimg {
         background-image: url("/images/agenciavista.jpg");
-        height: 500px;
+        height: 490px;
         text-align: center;
+        background-repeat: no-repeat;
     }
 
     .agenciah2mobile{

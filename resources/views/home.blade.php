@@ -7,7 +7,8 @@
 
 @section('content')
 
-<div class="row">
+<div class="divmobile"></div>
+<div class="row">   
   <div class="col bannerhome">
         <img class="imgbannermobile" src="/images/bannerhomemobile.jpg" alt="">
         <img class="imgbanner" src="/images/Banner-Home.jpg" alt="">
@@ -20,6 +21,7 @@
         <img class="logohome" src="/images/logohome.png" alt="">
   </div>
 </div>
+<!-- <div class="divmobile"></div> -->
    
      <div class="row text-center divart">   
          <h2 class="col-12 articuloh2mobile">¿Qué es <br /> el programa Tajaná?</h2>
@@ -84,14 +86,14 @@
         <h1 class="agenciah1">¿Qué es la agencia <br /> Judía para Israel?</h1>
         <div class="bordeagencia"> </div>
         <p class= "agenciap">La agencia Judía para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
-        <a href="/agencia"> <button type="button" class="btn btn-primary">Primary</button>  </a>
+        <a href="/agencia"> <button type="button" class="btn btn-primary vermasagencia">VER MAS</button>  </a>
     </div>
     <img class="col-12 col-md-6 imgagenciamobile" src="/images/agenciamobile.jpg" alt="">
     <img class="col-12 col-md-6 imgagencia" src="/images/agencia.jpg" alt="">
 </div> 
 
     <div class="row justify-content-md-center text-center staffdivpadre">
-          <h2 class="col-12 staffh2">Staff</h2>
+          <h2 id="staff" class="col-12 staffh2">Staff</h2>
           <article class="col-6 col-md-3 " >
           <img src="/images/alejandrostaff.png" alt="">
           <h4 class="staffh4" >Alejandro <br /> Arcuschin</h4>
@@ -140,18 +142,17 @@
     <div class="col text-center divcontacto">
        <img class="imgcontactomobile" src="/images/fondocontactomobile.jpg" alt="">
        <img class="imgcontacto" src="/images/fondocontacto.jpg" alt="">
-      <form action="" class="formcontacto">Contacto
-         <br>
+      <form action="" class="formcontacto"> <h2 id="contacto" class="contactoh2">Contacto</h2> 
+         
       <input class="inputcontacto" type="text" placeholder="Nombre" >
       <br>
       <input class="inputcontacto" type="mail" placeholder="Mail">
       <br>
       <textarea class="textcontacto" name="" id="" cols="30" rows="10" placeholder="Escribe algo..."></textarea>
       <br>
-      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button"  class="btn btn-primary buttoncontacto">ENVIAR</button>
       </form>
      </div>
   </div>
-
 
 @endsection('content')

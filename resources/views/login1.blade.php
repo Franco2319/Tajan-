@@ -18,7 +18,7 @@
               <BR>
               <input class="inputlogin" type="password" name="pass" style="text-align:center;">
               <br>
-              <button class="submitlogin" type="submit">INGRESAR</button>
+              <button class="btn btn-primary submitlogin" type="submit">INGRESAR</button>
           </form>
      </div>
 

@@ -33,18 +33,24 @@
       </a>
       <div class="desplegablebordesuave"></div>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#">LINK 1</a>
+        <a class="dropdown-item" href="/actividad1">ACTIVIDAD 1</a>
          <div class="desplegablebordesuave"></div>
-        <a class="dropdown-item" href="#">LINK 2</a>
+        <a class="dropdown-item" href="/actividad2">ACTIVIDAD 2</a>
          <div class="desplegablebordesuave"></div>
-        <a class="dropdown-item" href="#">LINK 3</a>
+        <a class="dropdown-item" href="/actividad3">ACTIVIDAD 3</a>
          <div class="desplegablebordesuave"></div>
-        <a class="dropdown-item" href="#">LINK 4</a>
+        <a class="dropdown-item" href="/actividad4">ACTIVIDAD 4</a>
       </div>
     </li>
          <div class="desplegablebordefuerte"></div>
         <li class="nav-item">
           <a class="nav-link" href="/agencia">AGENCIA JUDÍA</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/#contacto">CONTACTO</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/#staff">STAFF</a>
         </li>
       </ul>
     </div>

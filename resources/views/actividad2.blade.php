@@ -195,12 +195,10 @@
                        <div id="result6"></div> 
                        <br> 
                        <div class="divrespuestas">
-                         <button type="button" onclick="resultado()"> 
+                         <button class="btn btn-primary" type="button" onclick="resultado()"> 
                             Ver Respuestas
                          </button>
-                         <button id="botonrespuesta" style="display: none;" type="button" onclick="reiniciar()">
-                            Reiniciar
-                         </button>
+                        
                       </div>
      </div>
     </div>
@@ -241,7 +239,7 @@
 
 
       <div class="divsubarchivo">
-      <a href="http://" class="subirarchivo">Subir Archivo</a>
+      <a href="http://" class="btn btn-primary subirarchivo">Subir Archivo</a>
        </div>
     </div>
  </div>
