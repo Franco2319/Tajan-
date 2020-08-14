@@ -8,7 +8,6 @@ use App\School;
 class PreguntasController extends Controller
 {
    public function login1(Request $request){
-    $erro = "Usuario y/o contraseña incorrectos";
        $nombre = $request->input('name');
        $contra = $request->input('pass');
        $id = 1;
@@ -16,7 +15,7 @@ class PreguntasController extends Controller
        if($usuario["name"]==$nombre && $usuario["password"]==$contra)
        return view('actividad1');
        else
-       return view('login1', compact('erro'));
+       return redirect()->back()->with('alert', 'Usuario y/o contraseña incorrectos!');
    }
    public function login2(Request $request){
     $erro = "Usuario y/o contraseña incorrectos";
@@ -27,7 +26,7 @@ class PreguntasController extends Controller
        if($usuario["name"]==$nombre && $usuario["password"]==$contra)
        return view('actividad2');
        else
-       return view('login2', compact('erro'));
+       return redirect()->back()->with('alert', 'Usuario y/o contraseña incorrectos!');
 }
 public function login3(Request $request){
     $erro = "Usuario y/o contraseña incorrectos";
@@ -38,7 +37,7 @@ public function login3(Request $request){
        if($usuario["name"]==$nombre && $usuario["password"]==$contra)
        return view('actividad3');
        else
-       return view('login3', compact('erro'));
+       return redirect()->back()->with('alert', 'Usuario y/o contraseña incorrectos!');
 }
 public function login4(Request $request){
     $erro = "Usuario y/o contraseña incorrectos";
@@ -49,7 +48,7 @@ public function login4(Request $request){
        if($usuario["name"]==$nombre && $usuario["password"]==$contra)
        return view('actividad4');
        else
-       return view('login4', compact('erro'));
+       return redirect()->back()->with('alert', 'Usuario y/o contraseña incorrectos!');
 }
        
    

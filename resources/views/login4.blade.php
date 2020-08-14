@@ -5,6 +5,7 @@
 @endsection
 
 @section('content')
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <section class="container-fluid contenedorlogin">
       <div class="divlogin" style="text-align:center;">
            <img class="loginfondo" src="images/fondologin.jpg" alt="">
@@ -16,12 +17,17 @@
               <input class="inputlogin" type="text" name="name" style="text-align:center;">
               <BR>
               <input class="inputlogin" type="password" name="pass" style="text-align:center;">
-              <!-- @if(isset($erro))
-               <p class="errorlogin">{{$erro}}</p>
-               @endif -->
               <br>
               <button class="submitlogin" type="submit">INGRESAR</button>
           </form>
      </div>
+
+     <script>
+  var msg = '{{Session::get('alert')}}';
+  var exist = '{{Session::has('alert')}}';
+  if(exist){
+    swal(msg);
+  }
+</script>
 </section>
 @endsection('content')
