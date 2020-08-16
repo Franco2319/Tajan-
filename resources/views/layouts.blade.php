@@ -47,10 +47,10 @@
           <a class="nav-link" href="/agencia">AGENCIA JUDÍA</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/#contacto">CONTACTO</a>
+          <a class="nav-link" href="/#staff">STAFF</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/#staff">STAFF</a>
+          <a class="nav-link" href="/#contacto">CONTACTO</a>
         </li>
       </ul>
     </div>
@@ -63,6 +63,9 @@
    
     <footer class="row">
        <div class="col-12 text-center footer">
+         <img src="/images/footer.png" alt="" width="25%">
+       </div>
+       <div class="col-12 text-center footermobile">
          <img src="/images/footer.png" alt="" width="40%">
        </div>
     </footer>
