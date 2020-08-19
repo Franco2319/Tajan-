@@ -65,9 +65,12 @@
     <footer class="row">
        <div class="col-12 text-center footer">
          <img src="/images/footer.png" alt="" width="25%">
+         <img src="/images/footer2.jpg" alt="" width="25%">
        </div>
        <div class="col-12 text-center footermobile">
          <img src="/images/footer.png" alt="" width="40%">
+         <br>
+         <img src="/images/footer2.jpg" alt="" width="40%">
        </div>
     </footer>
     </section>

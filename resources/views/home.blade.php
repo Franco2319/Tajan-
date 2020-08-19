@@ -97,49 +97,52 @@
 
     <div class="row justify-content-md-center text-center staffdivpadre">
           <h2 id="staff" class="col-12 staffh2">Staff</h2>
-          <article class="col-6 col-md-3 " >
-          <img src="/images/alejandrostaff.png" alt="">
-          <h4 class="staffh4" >Alejandro <br /> Arcuschin</h4>
-          <p class="staffp" >Sheliaj de la Agencia Judía de Israel y de la Tnua Hanoar Hatzioni. Es director del proyecto Manhigut.</p>
-       </article>
-        
-       <article class="col-6 col-md-3 " >
-          <img src="/images/alexstaff.png" alt="">
-          <h4 class="staffh4" >Alex Schapiro</h4>
-          <p class="staffp" >Sheliaj de la Agencia Judía de Israel y de Hashomer Hatzair en Argentina y Uruguay.</p>
-       </article>
-
-       <article class="col-6 col-md-3" >
-          <img src="/images/dashistaff.png" alt="">
-          <h4 class="staffh4" >Dashi</h4>
-          <p class="staffp" >Shlijá del Movimiento Juvenil Hejalutz Lamerjav Argentina de la Agencia Judía para Israel.</p>
-       </article>
-
-       <article class="col-6 col-md-3" >
+          <article class="col-6 col-md-4 staffdesktop" >
           <img src="/images/gabystaff.png" alt="">
           <h4 class="staffh4" >Gaby Glazman</h4>
-          <p class="staffp" >Licenciada en <br /> Ciencias Políticas.</p>
-       </article>
+          <p class="staffp" >Directora del Programa Intercultural de la Agencia Judía para Israel en America Latina.</p>
+          </article>
+          
+          <article class="col-6 col-md-4 staffdesktop" >
+          <img src="/images/metastaff.png" alt="">
+          <h4 class="staffh4" >Tzipora Meta</h4>
+          <p class="staffp" >Coordinadora del <br /> Programa Intercultural de <br /> la Agencia Judía para <br /> Israel.</p>
+          </article>
 
-       <article class="col-6 col-md-3">
+          <article class="col-6 col-md-4 staffdesktop">
           <img src="/images/meravstaff.png" alt="">
           <h4 class="staffh4" >Merav Szulanski</h4>
-          <p class="staffp" >Estudió Ciencias Políticas, Gobierno y Administración de Empresas en la Universidad de Ben Gurión, Israel.</p>
-       </article>
-
-       <article class="col-6 col-md-3" >
+          <p class="staffp" >Shlijá de la Agencia Judía para Israel en Argentina.</p>
+          </article>
+         
+          <article class="col-6 col-md-3 " >
+          <img src="/images/alexstaff.png" alt="">
+          <h4 class="staffh4" >Alex Schapiro</h4>
+          <p class="staffp" >Sheliaj de la Agencia Judía para Israel y de Hashomer Hatzair en Argentina y Uruguay.</p>
+          </article>
+          
+          <article class="col-6 col-md-3" >
           <img src="/images/micaelastaff.png" alt="">
           <h4 class="staffh4" >Micaela Sanchez Arcuschin</h4>
           <p class="staffp" >Egresada y Shlijá de la Tnuá Habonim Dror Argentina y de la Agencia Judía para Israel.</p>
+          </article>
+
+          <article class="col-6 col-md-3 " >
+          <img src="/images/alejandrostaff.png" alt="">
+          <h4 class="staffh4" >Alejandro <br /> Arcuschin</h4>
+          <p class="staffp" >Sheliaj de la Agencia Judía para Israel y de la Tnua Hanoar Hatzioni. Director del proyecto Manhigut.</p>
        </article>
 
        <article class="col-12 col-md-3 artmeta" >
-          <img class="divstaffartimg" src="/images/metastaff.png" alt="">
-          <h4 class="staffh4" >Tzipora Meta</h4>
-          <p class="staffp" >Coordinadora del <br /> Programa Intercultural de <br /> la Agencia Judía para <br /> Israel.</p>
+          <img class="divstaffartimg" src="/images/dashistaff.png" alt="">
+          <h4 class="staffh4" >Dashi Valentina Jusid</h4>
+          <p class="staffp" >Shlijá del Movimiento Juvenil Hejalutz Lamerjav Argentina y de la Agencia Judía para Israel.</p>
        </article>
        </div>
-    </div>
+    
+
+
+
 
    <div class="row"> 
     <div class="col text-center divcontacto">
