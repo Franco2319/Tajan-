@@ -11,14 +11,17 @@
 <div class="row">   
   <div class="col bannerhome">
         <img class="imgbannermobile" src="/images/bannerhomemobile.jpg" alt="">
-        <img class="imgbanner" src="/images/Banner-Home.jpg" alt="">
         <h2 class="titulo">Programa  <br /> <span style="color: #0084c2;">Tajaná </span> </h2>
         <p class='p1'>Reflexiones desde la Identidad para un Debate Constructivo.</p>
         <div class="clasep">     
         <p class='p2'>Programa Intercultural de La Agencia Judía <br /> para Israel dirigido a escuelas de la red <br /> judía de Latinoamérica.</p>
-        <p class='p2desktop'>Programa Intercultural de La Agencia Judía para Israel dirigido a escuelas de la red judía de Latinoamérica.</p>
         </div>
-        <img class="logohome" src="/images/logohome.png" alt="">
+  </div>
+
+  <div class="col bannerhomedesktop">
+      <div class="contenido">
+         <img src="/images/Banner-Home.jpg" alt="">
+      </div>
   </div>
 </div>
 <!-- <div class="divmobile"></div> -->
