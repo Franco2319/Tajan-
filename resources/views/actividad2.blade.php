@@ -13,10 +13,11 @@
     <img class="imgact1mobile" src="/images/imgact2mobile.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgact2.jpg" alt="">
 
-    <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
+    
       <div class="video-responsive">  
         <iframe src="https://www.youtube.com/embed/3cvmONlV5WU" frameborder="0"  allowfullscreen></iframe>
       </div> 
+      <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
     </div>
   </div>
 
@@ -229,13 +230,13 @@
 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
   <div class="actividadindividual">
       
-      <h2 class="actividadh2">Actividad Individual</h2>
+      <h2 class="actividadh2">Actividad Grupal</h2>
       <h3> <span class="fa-stack circulo1">
       <span class="fa fa-circle-o fa-stack-2x "></span>
       <strong class="fa-stack-1x">
         1    
       </strong>
-      </span>Divídanse en equipos para trabajar. Cada equipo analizará dos artículos periodísticos extraídos de la prensa israelí que pueden descargar <span> <a href=""> acá.</a> </span> A partir de ellos, deberán, por escrito, defender o criticar y fundamentar la postura presentada. Luego, suban su producción al drive en formato PDF. No olviden escribir los nombres de los y las integrantes de cada equipo.  </h3>
+      </span>Divídanse en equipos para trabajar. Cada equipo analizará dos artículos periodísticos extraídos de la prensa israelí que pueden <span class="spanactividad"> <a href=""> descargar acá.</a> </span> A partir de ellos, deberán, por escrito, defender o criticar y fundamentar la postura presentada. Luego, suban su producción al drive en formato PDF. No olviden escribir los nombres de los y las integrantes de cada equipo.  </h3>
 
 
       <div class="divsubarchivo">

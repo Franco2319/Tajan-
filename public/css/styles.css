@@ -528,6 +528,7 @@ input::placeholder {
     padding-bottom: 56.25%;
     padding-top: 30px;
     position: relative;
+    margin-top: 5%;
     }
 
   .video-responsive iframe, .video-responsive object, .video-responsive embed {
@@ -887,6 +888,15 @@ input::placeholder {
     margin-left: -1em;
 
 }  
+
+.spanactividad a {
+    color: #a94b7f;
+}
+
+.spanactividad a:hover {
+    color: #0079c2;
+}
+
 
 .divsubarchivo {
     margin: 5%;
@@ -1396,6 +1406,7 @@ input::placeholder {
     .video-responsive {
         width: 75%;
         margin: 0 auto;
+        margin-top: 5%;
     }
 
     .act1li {
@@ -1470,7 +1481,7 @@ input::placeholder {
     }
 
     .reflexion h2 {
-        font-size: 130%;
+        font-size: 100%;
         padding-right: 1%;
         padding-top: 4%;
     }

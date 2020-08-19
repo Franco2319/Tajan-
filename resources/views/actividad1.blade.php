@@ -22,10 +22,10 @@
     <img class="imgact1mobile" src="/images/imgact1mobile.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgact1.jpg" alt="">
 
-    <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
       <div class="video-responsive">  
         <iframe src="https://www.youtube.com/embed/3cvmONlV5WU" frameborder="0"  allowfullscreen></iframe>
       </div> 
+      <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
     </div>
   </div>
 
