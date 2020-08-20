@@ -17,13 +17,24 @@
         <p class='p2'>Programa Intercultural de La Agencia Judía <br /> para Israel dirigido a escuelas de la red <br /> judía de Latinoamérica.</p>
         </div>
   </div>
-
-  <div class="col bannerhomedesktop">
-      <div class="contenido">
-         <img src="/images/Banner-Home.jpg" alt="">
-      </div>
-  </div>
 </div>
+
+
+
+   <div class="row">
+      <div class="col bannerhomedesktop">
+         <div class="contenido">
+            <img class="fondobannerdesktop" src="/images/Banner-Home.jpg" alt="">
+            <div class="texto-banner">
+               <h2>Programa  <br /> <span style="color: #0084c2;">Tajaná </h2>
+               <h2>Reflexiones desde la Identidad para un Debate Constructivo.</h2>
+               <p>Programa Intercultural de La Agencia Judía <br /> para Israel dirigido a escuelas de la red <br /> judía de Latinoamérica.</p>
+               <img src="/images/logohome.png" alt="">
+            </div>
+         </div>
+      </div>
+   </div>
+
 <!-- <div class="divmobile"></div> -->
    
      <div class="row text-center divart">   
