@@ -1139,7 +1139,6 @@ input::placeholder {
         font-family:'Montserrat', sans-serif; 
         font-weight: 900;
         color: #a25080;
-        margin-top: 5%;
     }
     
     .p1desktop {
@@ -1162,7 +1161,7 @@ input::placeholder {
     }
 
     .logohome {
-        margin-top: 5%;
+     margin-left: -2%;
     }
 
 
