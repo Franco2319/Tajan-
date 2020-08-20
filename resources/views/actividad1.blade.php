@@ -61,12 +61,12 @@
             </label>
       <br>
   
-            <label class="label-container" id="resp2" >De Judas, uno de los ápostoles de Jesús.
+            <label class="label-container" id="resp2" >De Judas, uno de los apóstoles de Jesús
                <input id="p1r2" type="radio" name="p1" value="0">
                <span class="checkmark" id="check2" ></span>
             </label>
       <br>
-            <label class="label-container" id="resp3" >De los habitantes de los territorios <br /> de Judea y Samaria.
+            <label class="label-container" id="resp3" >De los habitantes de los territorios <br /> de Judea y Samaria
                <input id="p1r3" type="radio" name="p1" value="0">
                <span class="checkmark" id="check3" ></span>
             </label>
@@ -80,7 +80,7 @@
               </strong>
            </span>¿Qué otros términos se conocen para definir a los judíos?</H2>
            
-             <label class="label-container" id="resp4" >Israelitas.
+             <label class="label-container" id="resp4" >Israelitas
                <input id="p2r1" type="radio" name="p2" value="0">
                <span class="checkmark" id="check4" ></span>
             </label>
@@ -90,12 +90,12 @@
                <span class="checkmark" id="check5" ></span>
             </label>
         <br>
-        <label class="label-container" id="resp6" >Los que profesan con la "Fe Mosaica".
+        <label class="label-container" id="resp6" >Los que profesan con la "Fe Mosaica"
                <input id="p2r3" type="radio" name="p2" value="0">
                <span class="checkmark" id="check6" ></span>
             </label>
         <br>
-        <label class="label-container" id="resp7" >Todas son correctas.
+        <label class="label-container" id="resp7" >Todas son correctas
                <input id="p2r4" type="radio" name="p2" value="1">
                <span class="checkmark" id="check7" ></span>
             </label>
@@ -108,17 +108,17 @@
               </strong>
             </span>¿Cómo respondieron los judíos observantes ante la oferta del Iluminismo?</H2>
          
-        <label class="label-container" id="resp8" >Queremos ser parte de la sociedad <br /> y ser europeos como todos.
+        <label class="label-container" id="resp8" >Queremos ser parte de la sociedad <br /> y ser europeos como todos
                <input id="p3r1" type="radio" name="p3" value="0">
                <span class="checkmark" id="check8" ></span>
             </label>
         <br>
-        <label class="label-container" id="resp9" >No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br /> nuestras leyes tradicionales.
+        <label class="label-container" id="resp9" >No queremos ser como otros pueblos, <br /> nos seguiremos guiando bajo <br /> nuestras leyes tradicionales
                <input id="p3r2" type="radio" name="p3" value="1">
                <span class="checkmark" id="check9" ></span>
             </label>
         <br>
-       <label class="label-container" id="resp10" > El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma. 
+       <label class="label-container" id="resp10" > El judaísmo puede modificarse de acuerdo <br /> a los cambios de paradigma 
                <input id="p3r3" type="radio" name="p3" value="0">
                <span class="checkmark" id="check10" ></span>
             </label>
@@ -132,18 +132,18 @@
              </strong>
            </span>¿Qué ocurrió con la corriente asimilacionista?</H2>
           
-       <label class="label-container" id="resp11" >  Emigraron a Israel.
+       <label class="label-container" id="resp11" >  Emigraron a Israel
                <input id="p4r1" type="radio" name="p4" value="0">
                <span class="checkmark" id="check11" ></span>
             </label>
        <br>
-       <label class="label-container" id="resp12" >  Lucharon para seguir siendo Judíos <br /> en la modernidad.
+       <label class="label-container" id="resp12" >  Lucharon para seguir siendo Judíos <br /> en la modernidad
                <input id="p4r2" type="radio" name="p4" value="0">
                <span class="checkmark" id="check12" ></span>
             </label>
        
        <br>
-       <label class="label-container" id="resp13" > Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías.
+       <label class="label-container" id="resp13" > Abandonaron sus tradiciones y tras algunas <br /> generaciones dejaron de ser parte de <br /> las comunidades judías
                <input id="p4r3" type="radio" name="p4" value="1">
                <span class="checkmark" id="check13" ></span>
             </label>
@@ -157,17 +157,17 @@
                        </strong>
                        </span>¿Cuál fue la respuesta de Hertzl ante el antisemitismo?</H2>
                        
-                       <label class="label-container" id="resp14" >  Planteó como solución la creación de <br /> un Estado judío.
+                       <label class="label-container" id="resp14" >  Planteó como solución la creación de <br /> un Estado judío
                         <input id="p5r1" type="radio" name="p5" value="1">
                          <span class="checkmark" id="check14" ></span>
                       </label>
                        <br>
-                       <label class="label-container" id="resp15" > Propuso abandonar las prácticas      religiosas.
+                       <label class="label-container" id="resp15" > Propuso abandonar las prácticas      religiosas
                         <input id="p5r2" type="radio" name="p5" value="0">
                          <span class="checkmark" id="check15" ></span>
                       </label>
                        <br>
-                       <label class="label-container" id="resp16" >  Declaró la independencia de los judíos <br /> del mundo.
+                       <label class="label-container" id="resp16" >  Declaró la independencia de los judíos <br /> del mundo
                         <input id="p5r3" type="radio" name="p5" value="0">
                          <span class="checkmark" id="check16" ></span>
                       </label>
@@ -181,17 +181,17 @@
                        </strong>
                        </span>¿Qué es el sionismo?</H2>
                        
-                       <label class="label-container" id="resp17" >  Sentir amor por Sion-Jerusalén. 
+                       <label class="label-container" id="resp17" >  Sentir amor por Sion- Jerusalén
                         <input id="p6r1" type="radio" name="p6" value="0">
                          <span class="checkmark" id="check17" ></span>
                       </label>
                        <br>
-                       <label class="label-container" id="resp18" > Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio.
+                       <label class="label-container" id="resp18" > Sostener que los judíos como pueblo <br /> tienen derecho a un Estado propio
                         <input id="p6r2" type="radio" name="p6" value="1">
                          <span class="checkmark" id="check18" ></span>
                       </label>
                        <br>
-                       <label class="label-container" id="resp19" >  Es un movimiento estudiantil judío. 
+                       <label class="label-container" id="resp19" >  Es un movimiento estudiantil judío 
                         <input id="p6r3" type="radio" name="p6" value="0">
                          <span class="checkmark" id="check19" ></span>
                       </label>
@@ -237,9 +237,9 @@
       <strong class="fa-stack-1x">
         1    
       </strong>
-      </span>Elegí tres personas de tu entorno más cercano (pueden ser familiares o amigos)para hacerle las siguientes preguntas: </h3>
+      </span>Elegí tres personas de tu entorno más cercano (pueden ser familiares o amigos) para hacerle las siguientes preguntas: </h3>
       <ul class="individualul">
-        <li>¿Qué signfica para vos ser judío/a?</li>
+        <li>¿Qué significa para vos ser judío/a?</li>
         <li>¿Esa definición siempre fue así o fue cambiando a lo largo de las experiencias vividas?</li>
         <li>Si pudieras describir tu identidad judía a través de uno o más objetos, <br /> ¿cuáles serían y por qué?</li>
       </ul>

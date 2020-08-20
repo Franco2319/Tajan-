@@ -51,7 +51,7 @@
         </label>
       <br>
 
-      <label class="label-container" id="resp2" >Es la explicación y el esclarecimiento de los sucesos históricos y acciones actuales vinculados al Estado de Israel y sus políticas. 
+      <label class="label-container" id="resp2" >Es la explicación y el esclarecimiento de los sucesos históricos y acciones actuales vinculados al Estado de Israel y sus políticas
           <input id="p1r2" type="radio" name="p1" value="1">
           <span class="checkmark" id="check2" ></span>
       </label>
@@ -201,7 +201,7 @@
       </strong>
       </span>¿Qué cuestiones positivas de Israel destacarías con el fin de posicionar favorablemente al Estado Judío frente a la comunidad internacional? </h2>
       <ul class="reflexionul" >
-        <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoom. <span style="color: rgba(139, 55, 107, 1)"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
+        <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoo<span style="color: rgba(139, 55, 107, 1)"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
       </ul>
     </div>
   </div>

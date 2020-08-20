@@ -52,7 +52,7 @@
 
           <article class="col-12 col-md-4">
            <img class="articuloimg1" src="/images/articuloimg3.png" alt="">
-            <p class="articulop3">Creamos redes <br /> para hacer acciones <br /> en conjunto.</p>
+            <p class="articulop3">Creamos redes <br /> para realizar acciones <br /> en conjunto.</p>
           </article>
      </div>  
     
@@ -96,10 +96,10 @@
 
  <div class="row"> 
     <div class="col-12 col-md-6 agencia"> 
-        <h1 class="agenciah1mobile">¿Qué es la agencia Judía para Israel?</h1>
+        <h1 class="agenciah1mobile">¿Qué es La Agencia Judía para Israel?</h1>
         <h1 class="agenciah1">¿Qué es la agencia <br /> Judía para Israel?</h1>
         <div class="bordeagencia"> </div>
-        <p class= "agenciap">La agencia Judía para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
+        <p class= "agenciap">La Agencia Judía para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
         <a href="/agencia"> <button type="button" class="btn btn-primary vermasagencia">VER MAS</button>  </a>
     </div>
     <img class="col-12 col-md-6 imgagenciamobile" src="/images/agenciamobile.jpg" alt="">
@@ -111,7 +111,7 @@
           <article class="col-6 col-md-4 staffdesktop" >
           <img src="/images/gabystaff.png" alt="">
           <h4 class="staffh4" >Gaby Glazman</h4>
-          <p class="staffp" >Directora del Programa Intercultural de la Agencia Judía para Israel en America Latina.</p>
+          <p class="staffp" >Directora del Programa Intercultural de La Agencia Judía para Israel en America Latina.</p>
           </article>
           
           <article class="col-6 col-md-4 staffdesktop" >
@@ -123,31 +123,31 @@
           <article class="col-6 col-md-4 staffdesktop">
           <img src="/images/meravstaff.png" alt="">
           <h4 class="staffh4" >Merav Szulanski</h4>
-          <p class="staffp" >Shlijá de la Agencia Judía para Israel en Argentina.</p>
+          <p class="staffp" >Shlijá de La Agencia Judía para Israel en Argentina.</p>
           </article>
          
           <article class="col-6 col-md-3 " >
           <img src="/images/alexstaff.png" alt="">
           <h4 class="staffh4" >Alex Schapiro</h4>
-          <p class="staffp" >Sheliaj de la Agencia Judía para Israel y de Hashomer Hatzair en Argentina y Uruguay.</p>
+          <p class="staffp" >Sheliaj de La Agencia Judía para Israel y de Hashomer Hatzair en Argentina y Uruguay.</p>
           </article>
           
           <article class="col-6 col-md-3" >
           <img src="/images/micaelastaff.png" alt="">
           <h4 class="staffh4" >Micaela Sanchez Arcuschin</h4>
-          <p class="staffp" >Egresada y Shlijá de la Tnuá Habonim Dror Argentina y de la Agencia Judía para Israel.</p>
+          <p class="staffp" >Egresada y Shlijá de la Tnuá Habonim Dror Argentina y de La Agencia Judía para Israel.</p>
           </article>
 
           <article class="col-6 col-md-3 " >
           <img src="/images/alejandrostaff.png" alt="">
           <h4 class="staffh4" >Alejandro <br /> Arcuschin</h4>
-          <p class="staffp" >Sheliaj de la Agencia Judía para Israel y de la Tnua Hanoar Hatzioni. Director del proyecto Manhigut.</p>
+          <p class="staffp" >Sheliaj de La Agencia Judía para Israel y de la Tnua Hanoar Hatzioni. Director del proyecto Manhigut.</p>
        </article>
 
        <article class="col-12 col-md-3 artmeta" >
           <img class="divstaffartimg" src="/images/dashistaff.png" alt="">
           <h4 class="staffh4" >Dashi Valentina Jusid</h4>
-          <p class="staffp" >Shlijá del Movimiento Juvenil Hejalutz Lamerjav Argentina y de la Agencia Judía para Israel.</p>
+          <p class="staffp" >Shlijá del Movimiento Juvenil Hejalutz Lamerjav Argentina y de La Agencia Judía para Israel.</p>
        </article>
        </div>
     
