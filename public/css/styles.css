@@ -914,7 +914,7 @@ input::placeholder {
 
 .actividadindividual li {
     font-family:'Montserrat', sans-serif; 
-    font-weight:700;
+    /* font-weight:700; */
     color: #0177bd;
     text-align: start;
     font-size: 80%;
@@ -933,7 +933,7 @@ input::placeholder {
 }   */
 
 .spanactividad a {
-    color: #a94b7f;
+    color: #FF7900;
 }
 
 .spanactividad a:hover {
@@ -1595,11 +1595,11 @@ input::placeholder {
     }
 
     .actividadindividual h3 {
-        font-size: 118%;
+        font-size: 100%;
     }
 
     .actividadindividual ul {
-        font-size: 120%;
+        font-size: 100%;
         line-height: 1.9;
         margin-top: -2%;
 
@@ -1634,6 +1634,10 @@ input::placeholder {
     .subirarchivo {
         padding: 2%;
         font-size: 120%;
+    }
+
+    .reflexion li {
+        font-size: 65%;
     }
 
 

@@ -236,11 +236,11 @@
       <strong class="fa-stack-1x">
         1    
       </strong>
-      </span>Divídanse en equipos para trabajar. Cada equipo analizará dos artículos periodísticos extraídos de la prensa israelí que pueden <span class="spanactividad"> <a href=""> descargar acá.</a> </span> A partir de ellos, deberán, por escrito, defender o criticar y fundamentar la postura presentada. Luego, suban su producción al drive en formato PDF. No olviden escribir los nombres de los y las integrantes de cada equipo.  </h3>
+      </span>Divídanse en equipos para trabajar. Cada equipo analizará dos artículos periodísticos extraídos de la prensa israelí que pueden <span class="spanactividad"> <a href="https://drive.google.com/drive/folders/19qlVC4JRE_EAJJ2EPWxC5QG1nxgPpy3F?usp=sharing" target="_blank"> descargar acá.</a> </span> A partir de ellos, deberán, por escrito, defender o criticar y fundamentar la postura presentada. Luego, suban su producción al drive en formato PDF. No olviden escribir los nombres de los y las integrantes de cada equipo.  </h3>
 
 
       <div class="divsubarchivo">
-      <a href="https://drive.google.com/drive/folders/19qlVC4JRE_EAJJ2EPWxC5QG1nxgPpy3F?usp=sharing" class="btn btn-primary subirarchivo" target="_blank">Subir Archivo</a>
+      <a href="https://drive.google.com/drive/folders/18chWs3WLsQEDSmnAOriCYv1TW2aqYTTW?usp=sharing" class="btn btn-primary subirarchivo" target="_blank">Subir Archivo</a>
        </div>
     </div>
  </div>
