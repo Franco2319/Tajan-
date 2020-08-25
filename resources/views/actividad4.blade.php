@@ -6,12 +6,13 @@
 
 @section('content')
 
-<section class="container">
   <div class="row">
     <div class="col-12 text-center">
+
+    <div class="divbanneract">
     <img class="imgact1mobile" src="/images/imgact4mobile.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgact4.jpg" alt="">
-
+    </div>
       <div class="video-responsive">  
         <iframe src="https://www.youtube.com/embed/dCi-D_dmmkg" frameborder="0"  allowfullscreen></iframe>
       </div>
@@ -19,7 +20,6 @@
     </div>
   </div>
 
-</section>
 <br>
 
 <div class="solapas">

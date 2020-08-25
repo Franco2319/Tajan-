@@ -7,9 +7,8 @@
 
 @section('content')
 
-<section class="container">
   <div class="row">
-    <div class="col-12 text-center">
+    <div class="col text-center">
       <!-- <div class="imgact1mobile"> 
          <div class="act1indice">
           <p class="in1">Actividad 1</p>
@@ -19,8 +18,10 @@
         <p class="pact1">¿Qué significa ser judío hoy? ¿Hay una forma única y exclusiva de ser judío? ¿Es lo mismo ser judío y ser sionista?¿Qué diferencias y similitudes encontramos en los judíos de origen europeo y de los países árabes?</p>
         <p class="p2act1">En este video analizaremos todas estas cuestiones y la evolución del término "judío" a lo largo de la historia.</p>
       </div> -->
+      <div class="divbanneract bgcoloract1">
     <img class="imgact1mobile" src="/images/imgact1mobile.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgact1.jpg" alt="">
+    </div>
 
       <div class="video-responsive">  
         <iframe src="https://www.youtube.com/embed/Iqx-3IqQ_48" frameborder="0"  allowfullscreen></iframe>
@@ -28,8 +29,6 @@
       <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
     </div>
   </div>
-
-</section>
 <br>
 
 <div class="solapas">

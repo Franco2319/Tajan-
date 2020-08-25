@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ URL::asset('/images/favicon.ico') }}" type="image/x-icon"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ asset('css/styles.css?v=1a040064279b') }}"> 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800;900&display=swap" rel="stylesheet"> 
@@ -64,7 +65,7 @@
    
     <footer class="row">
        <div class="col-12 text-center footer">
-         <img src="/images/footer.png" alt="" width="25%">
+         <img class="imgfooter" src="/images/footer.png" alt="" width="25%">
          <img src="/images/footer2.jpg" alt="" width="25%">
        </div>
        <div class="col-12 text-center footermobile">

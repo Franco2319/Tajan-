@@ -8,8 +8,8 @@
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <section class="container-fluid contenedorlogin">
       <div class="divlogin" style="text-align:center;">
-           <img class="loginfondo" src="images/fondologin.jpg" alt="">
-           <img class="loginfondomobile" src="images/fondologinmobile.jpg" alt="">
+           <img class="loginfondo" src="images/fondologin1.jpg" alt="">
+           <img class="loginfondomobile" src="images/fondologinmobile1.jpg" alt="">
            <form class="formlogin" method="POST" action="/formact2">
            <p class="plogin">Ingresa los datos de usuario y contraseña para comenzar con la actividad</p>
                  {{-- {{csrf_field()}} --}}

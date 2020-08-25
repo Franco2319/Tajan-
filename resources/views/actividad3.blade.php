@@ -6,12 +6,13 @@
 
 @section('content')
 
-<section class="container">
   <div class="row">
-    <div class="col-12 text-center">
+    <div class="col text-center">
+
+    <div class="divbanneract bgcoloract3">
     <img class="imgact1mobile" src="/images/imgact3mobile.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgact3.jpg" alt="">
-
+    </div>
       <div class="video-responsive">  
         <iframe src="https://www.youtube.com/embed/CgL39JMIqdU" frameborder="0"  allowfullscreen></iframe>  
       </div> 
@@ -19,7 +20,6 @@
     </div>
   </div>
 
-</section>
 <br>
 
 <div class="solapas">
@@ -297,7 +297,7 @@
 
  </div>
 </div>
-
+</div>
 </div>
                      
 <script src="{{ asset('js/act3.js') }}" defer></script>

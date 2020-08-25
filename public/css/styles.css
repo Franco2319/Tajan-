@@ -1301,8 +1301,16 @@ input::placeholder {
     .staffdivpadre article .divstaffartimg {
         width: 60%;
     }
-
+    
+    .staffleft{
+        position: relative;
+        left: 6%;
+    }
   
+    .staffright{
+        position: relative;
+        right: 6%;
+    }
 
     .staffp {
         font-size: 80%;
@@ -1418,15 +1426,16 @@ input::placeholder {
     .agenciah2 {
         display: block;
         font-size: 500%;
-        margin-top: 20%;
-        margin-left: 18%;
+        margin-top: 14%;
+        margin-left: 21%;
 
     }
 
     .agenciah2-2 {
         display: block;
         font-size: 500%;
-        margin-left: 27%;
+        margin-left: 28%;
+        margin-top: -2%;
 
     }
 
@@ -1464,6 +1473,26 @@ input::placeholder {
     
 
     /* VISTA ACTIVIDADES DESKTOP */
+
+    .divbanneract {
+        display: flex;
+        justify-content: center;
+    }
+
+    .divbanneract img {
+        max-width: 1500px;
+        width: 85%;
+    }
+
+    .bgcoloract1 {
+        background-color: #a25080;
+    }
+    .bgcoloract2 {
+        background-color: #0084c2;
+    }
+    .bgcoloract3 {
+        background-color: #eea765;
+    }
 
     .imgact1mobile {
         display: none;
@@ -1682,6 +1711,11 @@ input::placeholder {
     
     .submitlogin {
         font-size: 110%;
+    }
+
+
+    .imgfooter {
+        margin-right: 5%;
     }
 
 

@@ -108,22 +108,22 @@
 
     <div class="row justify-content-md-center text-center staffdivpadre">
           <h2 id="staff" class="col-12 staffh2">Staff</h2>
-          <article class="col-6 col-md-4 staffdesktop" >
+          <article class="col-6 col-md-4 staffdesktop staffleft" >
           <img src="/images/gabystaff.png" alt="">
           <h4 class="staffh4" >Gaby Glazman</h4>
-          <p class="staffp" >Directora del Programa Intercultural de La Agencia Judía para Israel en America Latina.</p>
+          <p class="staffp" >Directora del Programa Intercultural de La Agencia <br/> Judía para Israel en America Latina.</p>
           </article>
           
           <article class="col-6 col-md-4 staffdesktop" >
           <img src="/images/metastaff.png" alt="">
           <h4 class="staffh4" >Tzipora Meta</h4>
-          <p class="staffp" >Coordinadora del <br /> Programa Intercultural de <br /> la Agencia Judía para <br /> Israel.</p>
+          <p class="staffp" >Coordinadora del Programa Intercultural de <br /> la Agencia Judía para Israel.</p>
           </article>
 
-          <article class="col-6 col-md-4 staffdesktop">
+          <article class="col-6 col-md-4 staffdesktop staffright">
           <img src="/images/meravstaff.png" alt="">
           <h4 class="staffh4" >Merav Szulanski</h4>
-          <p class="staffp" >Shlijá de La Agencia Judía para Israel en Argentina.</p>
+          <p class="staffp" >Shlijá de La Agencia Judía <br> para Israel en Argentina.</p>
           </article>
          
           <article class="col-6 col-md-3 " >
