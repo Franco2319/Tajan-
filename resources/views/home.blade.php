@@ -97,7 +97,7 @@
  <div class="row"> 
     <div class="col-12 col-md-6 agencia"> 
         <h1 class="agenciah1mobile">¿Qué es La Agencia Judía para Israel?</h1>
-        <h1 class="agenciah1">¿Qué es la agencia <br /> Judía para Israel?</h1>
+        <h1 class="agenciah1">¿Qué es La Agencia <br /> Judía para Israel?</h1>
         <div class="bordeagencia"> </div>
         <p class= "agenciap">La Agencia Judía para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
         <a href="/agencia"> <button type="button" class="btn btn-primary vermasagencia">VER MAS</button>  </a>

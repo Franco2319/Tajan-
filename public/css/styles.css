@@ -570,7 +570,6 @@ input::placeholder {
     height: 0;
     overflow: hidden;
     padding-bottom: 56.25%;
-    padding-top: 30px;
     position: relative;
     margin-top: 5%;
     }
@@ -1418,7 +1417,7 @@ input::placeholder {
 
     .agenciah2 {
         display: block;
-        font-size: 580%;
+        font-size: 500%;
         margin-top: 20%;
         margin-left: 18%;
 
@@ -1427,7 +1426,7 @@ input::placeholder {
     .agenciah2-2 {
         display: block;
         font-size: 500%;
-        margin-left: 30%;
+        margin-left: 27%;
 
     }
 
@@ -1725,9 +1724,11 @@ input::placeholder {
         border: none;
     }
 
+
     .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
         color: #0182c3;
     }
+
     
     .desplegablecolor a {
         color: #9f5280;

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ asset('css/styles.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('css/styles.css?v=1a040064279b') }}"> 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800;900&display=swap" rel="stylesheet"> 
     <title>@yield('title')</title>
     <!-- ?v=1a040064279b esto para el css -->
@@ -27,14 +27,14 @@
                 <span class="sr-only">(current)</span>
               </a>
         </li>
-        <div class="desplegablebordefuerte"></div>
+        <!-- <div class="desplegablebordefuerte"></div> -->
         <li class="nav-item dropdown desplegablecolor">
       <a class="nav-link dropdown-toggle " href="#" id="navbardrop" data-toggle="dropdown">
         TAJANÁ ESCUELAS
       </a>
-      <div class="desplegablebordesuave"></div>
+     <!--  <div class="desplegablebordesuave"></div> -->
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="/actividad1">ACTIVIDAD 1</a>
+        <a class="dropdown-item desplegableactividad1" href="/actividad1">ACTIVIDAD 1</a>
          <div class="desplegablebordesuave"></div>
         <a class="dropdown-item" href="/actividad2">ACTIVIDAD 2</a>
          <div class="desplegablebordesuave"></div>
@@ -43,7 +43,7 @@
         <a class="dropdown-item" href="/actividad4">ACTIVIDAD 4</a>
       </div>
     </li>
-         <div class="desplegablebordefuerte"></div>
+         <!-- <div class="desplegablebordefuerte"></div> -->
         <li class="nav-item">
           <a class="nav-link" href="/agencia">AGENCIA JUDÍA</a>
         </li>
