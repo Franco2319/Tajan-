@@ -22,10 +22,13 @@
     <img class="imgact1mobile" src="/images/imgact1mobile.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgact1.jpg" alt="">
     </div>
-
+     
+     <div class="divvideo">
       <div class="video-responsive">  
         <iframe src="https://www.youtube.com/embed/Iqx-3IqQ_48" frameborder="0"  allowfullscreen></iframe>
-      </div> 
+      </div>
+      </div>
+
       <p class="actvideop">Luego de ver el video, seguí las siguientes ins- <br /> trucciones para aprender más sobre el tema.</p>
     </div>
   </div>
