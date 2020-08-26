@@ -1499,9 +1499,22 @@ input::placeholder {
         font-weight: 800;
         border-bottom: 2px solid #eea765;
         border-width: 2%;
-        width: 18%;
+        width: 13.4%;
         font-size: 150%;
         color: #eea765;
+        margin-bottom: 4%;
+    }
+
+    .tituloactividades2{
+            font-family:'Montserrat', sans-serif; 
+            font-weight: 800;
+            border-bottom: 2px solid #eea765;
+            border-width: 2%;
+            width: 13.7%;
+            font-size: 150%;
+            color: #eea765;
+            margin-bottom: 4%;
+
     }
 
 
@@ -1511,6 +1524,7 @@ input::placeholder {
         color: white;
         width: 30%;
         font-size: 350%;
+        margin-bottom: 2%;
        
     }
 
@@ -1537,8 +1551,8 @@ input::placeholder {
         font-weight: 500;
         color: white;
         font-size: 350%;
-        width: 45%;
-       
+        width: 41%;
+        margin-bottom: 2%;
     }
 
     
@@ -1562,9 +1576,10 @@ input::placeholder {
         font-weight: 800;
         border-bottom: 2px solid #a25080;
         border-width: 2%;
-        width: 18%;
+        width: 13.9%;
         font-size: 150%;
         color: #a25080;
+        margin-bottom: 4%;
     }
 
 
@@ -1573,6 +1588,7 @@ input::placeholder {
         font-weight: 500;
         color: #fefefe;
         width: 43%;
+        font-size: 122%;
     }
 
 
@@ -1580,8 +1596,9 @@ input::placeholder {
         font-family:'Montserrat', sans-serif; 
         font-weight: 500;
         color: #a25080;
-        font-size: 250%;
-        width: 50%;
+        font-size: 260%;
+        width: 46%;
+        margin-bottom: 2%;
     }
 
     .p2act4 {
@@ -1589,6 +1606,7 @@ input::placeholder {
         font-family:'Montserrat', sans-serif; 
         font-weight: 600;
         width: 43%;
+        font-size: 122%;
     }
 
 
