@@ -7,11 +7,16 @@
 @section('content')
 
   <div class="row">
-    <div class="col-12 text-center">
+    <div class="col-12 ">
 
     <div class="divbanneract">
     <img class="imgact1mobile" src="/images/imgact4mobile.jpg" alt="">
-    <img class="imgact1" src="/images/vistaimgact4.jpg" alt="">
+    <img class="imgact1" src="/images/vistaimgacti4.jpg" alt="">
+    <div class="divmaquetado">
+          <h2 class="tituloactividades3"> ACTIVIDAD 4</h2>
+        <h1 class="tituloact4"> <strong>¿Cómo actuamos frente </strong>a la deslegitimación de Israel? </h1>
+        <p class="p2act4">En este video podremos observar disintos modelos de Hasbará existentes analizando diferencias y similitudes: Hasbará externa e interna,reactiva y proactiva,esencialista y crítica. Tambien veremos ejemplos de diplomacia pública y posicionamiento de marca.</p>
+        </div>
     </div>
 
     <div class="divvideo">

@@ -11,7 +11,7 @@
            <img class="loginfondo" src="images/fondologin1.jpg" alt="">
            <img class="loginfondomobile" src="images/fondologinmobile1.jpg" alt="">
            <form class="formlogin" method="POST" action="/formact1">
-           <p class="plogin">Ingresa los datos de usuario y contraseña para comenzar con la actividad</p>
+           <p class="plogin">Ingresa los datos de usuario y contraseña para comenzar con la actividad 1</p>
                  {{-- {{csrf_field()}} --}}
                  @csrf
               <input class="inputlogin" type="text" name="name" style="text-align:center;">

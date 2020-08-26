@@ -8,11 +8,17 @@
 @section('content')
 
   <div class="row">
-    <div class="col text-center">
+    <div class="col ">
 
     <div class="divbanneract bgcoloract2">
     <img class="imgact1mobile" src="/images/imgact2mobile.jpg" alt="">
-    <img class="imgact1" src="/images/vistaimgact2.jpg" alt="">
+    <img class="imgact1" src="/images/vistaimgacti2.jpg" alt="">
+    <div class="divmaquetado">
+          <h2 class="tituloactividades"> ACTIVIDAD 2</h2>
+        <h1 class="tituloact2"> <strong>El Conflicto </strong>Israelí-Palestino </h1>
+        <p class="pact2">¿Cuando comenzó?</p>
+        <p class="p2act2">En este video realizaremos un ánalisis histórico del conflico, desde los comienzos del siglo XX y su vinculación con hitos como la Primera Aliá, Segunda Aliá,Tercera Aliá, Primera Guerra Mundial, el Mandato Británico en Palestina, Segunda Guerra Mundial, entre otros.</p>
+        </div>
     </div>
      
     <div class="divvideo">

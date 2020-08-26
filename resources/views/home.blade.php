@@ -127,7 +127,7 @@
           </article>
          
           <article class="col-6 col-md-3 " >
-          <img src="/images/alexstaff.png" alt="">
+          <img src="/images/alexstaff1.png" alt="">
           <h4 class="staffh4" >Alex Schapiro</h4>
           <p class="staffp" >Sheliaj de La Agencia Judía para Israel y de Hashomer Hatzair en Argentina y Uruguay.</p>
           </article>
@@ -140,7 +140,7 @@
 
           <article class="col-6 col-md-3 " >
           <img src="/images/alejandrostaff.png" alt="">
-          <h4 class="staffh4" >Alejandro <br /> Arcuschin</h4>
+          <h4 class="staffh4" >Alejandro Arcuschin</h4>
           <p class="staffp" >Sheliaj de La Agencia Judía para Israel y de la Tnua Hanoar Hatzioni. Director del proyecto Manhigut.</p>
        </article>
 

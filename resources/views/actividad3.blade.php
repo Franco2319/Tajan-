@@ -7,11 +7,16 @@
 @section('content')
 
   <div class="row">
-    <div class="col text-center">
+    <div class="col ">
 
     <div class="divbanneract bgcoloract3">
     <img class="imgact1mobile" src="/images/imgact3mobile.jpg" alt="">
-    <img class="imgact1" src="/images/vistaimgact3.jpg" alt="">
+    <img class="imgact1" src="/images/vistaimgacti3.jpg" alt="">
+    <div class="divmaquetado">
+        <h2 class="tituloactividades3"> ACTIVIDAD 3</h2>
+        <h1 class="tituloact1"> <strong style="color: #a25080">¿</strong><strong>Qué es el </strong>antisemitismo moderno<strong style="color: #a25080">?</strong> </h1>
+        <p class="p2act3">En este video podrás encontrar la definición y ánalisis de antisemitismo,judeofobia,bases teológicas,mitos medievales,mitos actuales,características del antisemita e impulsores del antisemitismo.</p>
+        </div>
     </div>
 
     <div class="divvideo">
