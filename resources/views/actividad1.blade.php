@@ -9,17 +9,8 @@
 
   <div class="row">
     <div class="col ">
-      <!-- <div class="imgact1mobile"> 
-         <div class="act1indice">
-          <p class="in1">Actividad 1</p>
-          <p class="in2">Tajaná Escuelas</p>
-         </div>
-        <h1 class="tituloact1">¿Qué son los judíos?</h1>
-        <p class="pact1">¿Qué significa ser judío hoy? ¿Hay una forma única y exclusiva de ser judío? ¿Es lo mismo ser judío y ser sionista?¿Qué diferencias y similitudes encontramos en los judíos de origen europeo y de los países árabes?</p>
-        <p class="p2act1">En este video analizaremos todas estas cuestiones y la evolución del término "judío" a lo largo de la historia.</p>
-      </div> -->
       <div class="divbanneract bgcoloract1">
-    <img class="imgact1mobile" src="/images/imgact1mobile.jpg" alt="">
+    <img class="imgact1mobile" src="/images/imgact1mob.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgacti1.jpg" alt="">
         <div class="divmaquetado">
           <h2 class="tituloactividades"> ACTIVIDAD 1</h2>

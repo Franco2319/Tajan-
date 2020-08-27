@@ -11,7 +11,7 @@
     <div class="col ">
 
     <div class="divbanneract bgcoloract2">
-    <img class="imgact1mobile" src="/images/imgact2mobile.jpg" alt="">
+    <img class="imgact1mobile" src="/images/imgact2mob.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgacti2.jpg" alt="">
     <div class="divmaquetado">
           <h2 class="tituloactividades2"> ACTIVIDAD 2</h2>

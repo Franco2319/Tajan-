@@ -561,8 +561,7 @@ input::placeholder {
   }
 
   .imgact1 {
-      display: none;
-      
+      display: none;  
   }
 
 
@@ -1582,6 +1581,16 @@ input::placeholder {
         margin-bottom: 4%;
     }
 
+    .tituloact3 {
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 500;
+        color: white;
+        width: 30%;
+        font-size: 350%;
+        margin-bottom: 2%;
+       
+    }
+
 
     .p2act3 {
         font-family:'Montserrat', sans-serif; 
@@ -1908,6 +1917,150 @@ input::placeholder {
         font-family:'Montserrat', sans-serif; 
         font-weight:600;
         color: #a35181;
+    }
+
+    .divbanneract{
+        position: relative;
+      }
+      .divmaquetado{
+          position: absolute;
+          top: 1%;
+          text-align: center;
+      }
+    
+      .tituloactividades {
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 800;
+        border-bottom: 2px solid #eea765;
+        font-size: 100%;
+        color: #eea765;
+        margin: 0 auto;
+        margin-bottom: 2%;
+        margin-top: 1%;
+        width: 34.3%;
+    }
+    
+    .tituloact1 {
+        font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: white;
+    width: 75%;
+    font-size: 230%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    }
+
+    .pact1 {
+        font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 60%;
+    color: white;
+    width: 89%;
+    margin: 0 auto;
+    }
+    .p2act1 {
+        font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #e8d6df;
+    font-size: 54%;
+    width: 86%;
+    margin: 0 auto;
+    margin-top: 2%;
+
+    }
+
+
+    .tituloactividades2{
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 800;
+        border-bottom: 2px solid #eea765;
+        border-width: 2%;
+        width: 34.7%;
+        margin: 0 auto;
+        font-size: 100%;
+        color: #eea765;
+        margin-bottom: 4%;
+
+}
+
+
+    .tituloact2 {
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 500;
+        color: white;
+        font-size: 208%;
+        margin-bottom: 2%;
+        line-height: 1;
+    }
+
+    
+
+    .pact2 {
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 900;
+        font-size: 130%;
+        color: #eea765;
+        margin-bottom: 1%;
+    }
+    
+    .p2act2 {
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 500;
+        color: #fefefe;
+        font-size: 60%;
+    }
+
+    .tituloactividades3 {
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 800;
+        border-bottom: 2px solid #a25080;
+        border-width: 2%;
+        width: 35.7%;
+        margin: 0 auto;
+        font-size: 100%;
+        color: #a25080;
+        margin-bottom: 4%;
+    }
+
+    .tituloact3 {
+        font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: white;
+    width: 75%;
+    font-size: 165%;
+    margin: 0 auto;
+    margin-bottom: 1%;
+    }
+
+
+    .p2act3 {
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 500;
+        color: #fefefe;
+        font-size: 63%;
+    }
+
+
+    .tituloact4 {
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 500;
+        color: #a25080;
+        font-size: 150%;
+        margin-bottom: 1%;
+    }
+
+    .p2act4 {
+        color: #0080c1;
+        font-family:'Montserrat', sans-serif; 
+        font-weight: 600;
+        width: 95%;
+    font-size: 61%;
+    margin: 0 auto;
+    }
+
+    .divvideo {
+        width: 90%;
+    margin: 0 auto;
     }
 
 

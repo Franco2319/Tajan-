@@ -10,7 +10,7 @@
     <div class="col-12 ">
 
     <div class="divbanneract">
-    <img class="imgact1mobile" src="/images/imgact4mobile.jpg" alt="">
+    <img class="imgact1mobile" src="/images/imgact4mob.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgacti4.jpg" alt="">
     <div class="divmaquetado">
           <h2 class="tituloactividades3"> ACTIVIDAD 4</h2>
