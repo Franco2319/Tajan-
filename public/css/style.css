@@ -1496,24 +1496,36 @@ input::placeholder {
     .tituloactividades {
         font-family:'Montserrat', sans-serif; 
         font-weight: 800;
-        border-bottom: 2px solid #eea765;
-        border-width: 2%;
-        width: 13.4%;
+        /* text-decoration: underline;
+        text-decoration-color: #eea765; */
+        /* width: 13.4%; */
         font-size: 150%;
         color: #eea765;
         margin-bottom: 4%;
     }
 
+    .bordeact {
+        border-bottom: 2px solid #eea765;
+        /* border-width: 2%; */
+    }
+
+
     .tituloactividades2{
             font-family:'Montserrat', sans-serif; 
             font-weight: 800;
-            border-bottom: 2px solid #eea765;
-            border-width: 2%;
-            width: 13.7%;
+            /* text-decoration: underline;
+            text-decoration-color: #eea765; */
+            /* width: 13.7%; */
             font-size: 150%;
             color: #eea765;
             margin-bottom: 4%;
 
+    }
+
+
+    .bordeact2 {
+            border-bottom: 2px solid #eea765;
+          /*   border-width: 2%; */
     }
 
 
@@ -1573,13 +1585,21 @@ input::placeholder {
     .tituloactividades3 {
         font-family:'Montserrat', sans-serif; 
         font-weight: 800;
-        border-bottom: 2px solid #a25080;
-        border-width: 2%;
-        width: 13.9%;
+        /* text-decoration: underline;
+        text-decoration-color: #eea765; */
+        /* width: 13.9%; */
         font-size: 150%;
         color: #a25080;
         margin-bottom: 4%;
     }
+
+    
+    .bordeact3 {
+        border-bottom: 2px solid #a25080;
+       /*  border-width: 2%; */
+    }
+
+
 
     .tituloact3 {
         font-family:'Montserrat', sans-serif; 
@@ -1931,15 +1951,24 @@ input::placeholder {
       .tituloactividades {
         font-family:'Montserrat', sans-serif; 
         font-weight: 800;
-        border-bottom: 2px solid #eea765;
+        /* text-decoration: underline;
+        text-decoration-color: #eea765; */
         font-size: 100%;
         color: #eea765;
         margin: 0 auto;
         margin-bottom: 2%;
         margin-top: 1%;
-        width: 34.3%;
+        /* width: 34.3%; */
     }
     
+
+      .bordeact {
+        border-bottom: 2px solid #eea765;
+      }
+
+
+
+
     .tituloact1 {
         font-family: 'Montserrat', sans-serif;
     font-weight: 500;
@@ -1973,15 +2002,21 @@ input::placeholder {
     .tituloactividades2{
         font-family:'Montserrat', sans-serif; 
         font-weight: 800;
-        border-bottom: 2px solid #eea765;
-        border-width: 2%;
-        width: 34.7%;
+      /*   text-decoration: underline;
+        text-decoration-color: #eea765; */
+       /*  width: 34.7%; */
         margin: 0 auto;
         font-size: 100%;
         color: #eea765;
         margin-bottom: 4%;
 
 }
+     
+     .bordeact2 {
+        border-bottom: 2px solid #eea765;
+     }
+
+
 
 
     .tituloact2 {
@@ -2013,14 +2048,20 @@ input::placeholder {
     .tituloactividades3 {
         font-family:'Montserrat', sans-serif; 
         font-weight: 800;
-        border-bottom: 2px solid #a25080;
-        border-width: 2%;
-        width: 35.7%;
+       
+        /* width: 35.7%; */
         margin: 0 auto;
         font-size: 100%;
         color: #a25080;
         margin-bottom: 4%;
     }
+
+    
+    .bordeact3 {
+        border-bottom: 2px solid #a25080;
+    }
+
+
 
     .tituloact3 {
         font-family: 'Montserrat', sans-serif;

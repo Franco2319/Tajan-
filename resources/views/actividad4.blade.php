@@ -13,7 +13,7 @@
     <img class="imgact1mobile" src="/images/imgact4mob.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgacti4.jpg" alt="">
     <div class="divmaquetado">
-          <h2 class="tituloactividades3"> ACTIVIDAD 4</h2>
+          <h2 class="tituloactividades3"><span class="bordeact3">ACTIVIDAD 4</span></h2>
         <h1 class="tituloact4"> <strong>¿Cómo actuamos frente </strong>a la deslegitimación de Israel? </h1>
         <p class="p2act4">En este video podremos observar disintos modelos de Hasbará existentes analizando diferencias y similitudes: Hasbará externa e interna,reactiva y proactiva,esencialista y crítica. Tambien veremos ejemplos de diplomacia pública y posicionamiento de marca.</p>
         </div>
@@ -210,7 +210,7 @@
       </strong>
       </span>¿Qué cuestiones positivas de Israel destacarías con el fin de posicionar favorablemente al Estado Judío frente a la comunidad internacional? </h2>
       <ul class="reflexionul" >
-        <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoo<span style="color: rgba(139, 55, 107, 1)"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
+        <li>Podrás reflexionar más sobre estas preguntas y compartir tus respuestas en el encuentro por Zoom.<span style="color: rgba(139, 55, 107, 1)"> Ponete en contacto con tu coordinador/a para conocer fecha y hora de la clase. </span> </li> 
       </ul>
     </div>
   </div>

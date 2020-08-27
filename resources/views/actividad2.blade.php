@@ -14,7 +14,7 @@
     <img class="imgact1mobile" src="/images/imgact2mob.jpg" alt="">
     <img class="imgact1" src="/images/vistaimgacti2.jpg" alt="">
     <div class="divmaquetado">
-          <h2 class="tituloactividades2"> ACTIVIDAD 2</h2>
+          <h2 class="tituloactividades2"> <span class="bordeact2">ACTIVIDAD 2</span></h2>
         <h1 class="tituloact2"> <strong>El Conflicto </strong>Israelí-Palestino </h1>
         <p class="pact2">¿Cuando comenzó?</p>
         <p class="p2act2">En este video realizaremos un ánalisis histórico del conflico, desde los comienzos del siglo XX y su vinculación con hitos como la Primera Aliá, Segunda Aliá,Tercera Aliá, Primera Guerra Mundial, el Mandato Británico en Palestina, Segunda Guerra Mundial, entre otros.</p>
