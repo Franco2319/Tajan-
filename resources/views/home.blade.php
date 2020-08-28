@@ -6,6 +6,7 @@
 @endsection
 
 @section('content')
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 <div class="divmobile"></div>
 <div class="row">   
@@ -159,16 +160,34 @@
     <div class="col text-center divcontacto">
        <img class="imgcontactomobile" src="/images/fondocontactomobile.jpg" alt="">
        <img class="imgcontacto" src="/images/fondocontacto.jpg" alt="">
-      <form action="" class="formcontacto"> <h2 id="contacto" class="contactoh2">Contacto</h2> 
+      
+      <form action="/store" class="formcontacto" method="POST">
+      @csrf 
+      
+      <h2 id="contacto" class="contactoh2">Contacto</h2> 
          
-      <input class="inputcontacto" type="text" placeholder="Nombre" >
+      <input class="inputcontacto" name="name" type="text" placeholder="Nombre" required>
+      {!!$errors->first('name','<small>:message</small><br>')!!}
+
+
       <br>
-      <input class="inputcontacto" type="mail" placeholder="Mail">
+      <input class="inputcontacto" name="mail" type="email" placeholder="Mail" required>
+
       <br>
-      <textarea class="textcontacto" name="" id="" cols="30" rows="10" placeholder="Escribe algo..."></textarea>
+      <textarea class="textcontacto" name="content" id="" cols="30" rows="10" placeholder="Escribe algo..." required></textarea>
+
+
       <br>
-      <button type="button"  class="btn btn-primary buttoncontacto">ENVIAR</button>
+      <button type="submit"  class="btn btn-primary buttoncontacto">ENVIAR</button>
       </form>
+
+      <script>
+  var msg = '{{Session::get('alert')}}';
+  var exist = '{{Session::has('alert')}}';
+  if(exist){
+    swal(msg);
+  }
+</script>
      </div>
   </div>
 

@@ -30,6 +30,11 @@ Route::get('/actividad4',function (){
     return view('login4');
 });
 
+Route::post('/store','PreguntasController@store');
+Route::get('/store',function (){
+    return view('/home');
+});
+
 
 Route::post('/formact1','PreguntasController@login1');
 Route::post('/formact2','PreguntasController@login2');

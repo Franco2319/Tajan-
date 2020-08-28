@@ -2,11 +2,34 @@
 
 namespace App\Http\Controllers;
 
+Use App\Mail\MessageReceived;
+Use Illuminate\Support\Facades\Mail;
 use Illuminate\Http\Request;
 use App\School;
 
 class PreguntasController extends Controller
 {
+   public function store(Request $request){
+        
+        $nombre = $request->input('name');
+        $email = $request->input('mail');
+        $contenido = $request->input('content');
+
+        $msg = [
+            'name'=> $nombre,
+            'email'=>$email,
+            'content'=>$contenido,
+        ];
+   
+         Mail::to('fgt-1995@hotmail.com')->send(new MessageReceived($msg));
+
+         
+         return redirect()->back()->with('alert', 'Mensaje enviado!');
+   }
+
+
+
+
    public function login1(Request $request){
        $nombre = $request->input('name');
        $contra = $request->input('pass');
