@@ -16,12 +16,12 @@ class PreguntasController extends Controller
         $contenido = $request->input('content');
 
         $msg = [
-            'name'=> $nombre,
+            'Nombre'=> $nombre,
             'email'=>$email,
-            'content'=>$contenido,
+            'Mensaje'=>$contenido,
         ];
    
-         Mail::to('fgt-1995@hotmail.com')->send(new MessageReceived($msg));
+         Mail::to('info.saieret@gmail.com')->queue(new MessageReceived($msg));
 
          
          return redirect()->back()->with('alert', 'Mensaje enviado!');
