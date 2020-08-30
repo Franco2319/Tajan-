@@ -21,7 +21,8 @@ class PreguntasController extends Controller
             'Mensaje'=>$contenido,
         ];
    
-         Mail::to('info.saieret@gmail.com')->queue(new MessageReceived($msg));
+        //  Mail::to('info.saieret@gmail.com')->queue(new MessageReceived($msg));
+         Mail::to('fgt-1995@hotmail.com')->queue(new MessageReceived($msg));
 
          
          return redirect()->back()->with('alert', 'Mensaje enviado!');
