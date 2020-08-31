@@ -236,7 +236,7 @@
       <strong class="fa-stack-1x">
         1    
       </strong>
-      </span>Elegí tres personas de tu entorno más cercano (pueden ser familiares o amigos) para hacerle las siguientes preguntas: </h3>
+      </span>Elegí tres personas de tu entorno más cercano (pueden ser familiares o amigos) para hacerles las siguientes preguntas: </h3>
       <ul class="individualul">
         <li>¿Qué significa para vos ser judío/a?</li>
         <li>¿Esa definición siempre fue así o fue cambiando a lo largo de las experiencias vividas?</li>

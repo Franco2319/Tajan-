@@ -15,7 +15,7 @@
         <h2 class="titulo">Programa  <br /> <span style="color: #0084c2;">Tajaná </span> </h2>
         <p class='p1'>Reflexiones desde la Identidad para un Debate Constructivo.</p>
         <div class="clasep">     
-        <p class='p2'>Programa Intercultural de La Agencia Judía <br /> para Israel dirigido a escuelas de la red <br /> judía de Latinoamérica.</p>
+        <p class='p2'>Programa Intercultural de La Agencia Judía <br /> Para Israel dirigido a escuelas de la red <br /> judía de Latinoamérica.</p>
         </div>
   </div>
 </div>
@@ -29,7 +29,7 @@
             <div class="texto-banner">
                <h2 class="titulodesktop">Programa  <br /> <span style="color: #0084c2;">Tajaná </span> </h2>
                <h2 class="p1desktop">Reflexiones desde la Identidad para un Debate Constructivo.</h2>
-               <p class="p2desktop">Programa Intercultural de La Agencia Judía <br /> para Israel dirigido a escuelas de la red <br /> judía de Latinoamérica.</p>
+               <p class="p2desktop">Programa Intercultural de La Agencia Judía <br /> Para Israel dirigido a escuelas de la red <br /> judía de Latinoamérica.</p>
                <img class="logohome" src="/images/logohome.png" alt="">
             </div>
          </div>
@@ -97,10 +97,10 @@
 
  <div class="row"> 
     <div class="col-12 col-md-6 agencia"> 
-        <h1 class="agenciah1mobile">¿Qué es La Agencia Judía para Israel?</h1>
-        <h1 class="agenciah1">¿Qué es La Agencia <br /> Judía para Israel?</h1>
+        <h1 class="agenciah1mobile">¿Qué es La Agencia Judía Para Israel?</h1>
+        <h1 class="agenciah1">¿Qué es La Agencia <br /> Judía Para Israel?</h1>
         <div class="bordeagencia"> </div>
-        <p class= "agenciap">La Agencia Judía para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
+        <p class= "agenciap">La Agencia Judía Para Israel ha contribuido al establecimiento y la construcción del Estado de Israel y continúa sirviendo como el vínculo principal entre el Estado Judío y las comunidades Judías en el mundo entero. </p>
         <a href="/agencia"> <button type="button" class="btn btn-primary vermasagencia">VER MAS</button>  </a>
     </div>
     <img class="col-12 col-md-6 imgagenciamobile" src="/images/agenciamobile.jpg" alt="">
@@ -112,43 +112,43 @@
           <article class="col-6 col-md-4 staffdesktop staffleft" >
           <img src="/images/gabystaff.png" alt="">
           <h4 class="staffh4" >Gaby Glazman</h4>
-          <p class="staffp" >Directora del Programa Intercultural de La Agencia <br/> Judía para Israel en America Latina.</p>
+          <p class="staffp" >Directora del Programa Intercultural de La Agencia <br/> Judía Para Israel en America Latina.</p>
           </article>
           
           <article class="col-6 col-md-4 staffdesktop" >
           <img src="/images/metastaff.png" alt="">
           <h4 class="staffh4" >Tzipora Meta</h4>
-          <p class="staffp" >Coordinadora del Programa Intercultural de <br /> la Agencia Judía para Israel.</p>
+          <p class="staffp" >Coordinadora del Programa Intercultural de <br /> la Agencia Judía Para Israel.</p>
           </article>
 
           <article class="col-6 col-md-4 staffdesktop staffright">
           <img src="/images/meravstaff.png" alt="">
           <h4 class="staffh4" >Merav Szulanski</h4>
-          <p class="staffp" >Shlijá de La Agencia Judía <br> para Israel en Argentina.</p>
+          <p class="staffp" >Shlijá de La Agencia Judía <br> Para Israel en Argentina.</p>
           </article>
          
           <article class="col-6 col-md-3 " >
           <img src="/images/alexstaff1.png" alt="">
           <h4 class="staffh4" >Alex Schapiro</h4>
-          <p class="staffp" >Sheliaj de La Agencia Judía para Israel y de Hashomer Hatzair en Argentina y Uruguay.</p>
+          <p class="staffp" >Sheliaj de La Agencia Judía Para Israel y de Hashomer Hatzair en Argentina y Uruguay.</p>
           </article>
           
           <article class="col-6 col-md-3" >
           <img src="/images/micaelastaff.png" alt="">
           <h4 class="staffh4" >Micaela Sanchez Arcuschin</h4>
-          <p class="staffp" >Egresada y Shlijá de la Tnuá Habonim Dror Argentina y de La Agencia Judía para Israel.</p>
+          <p class="staffp" >Egresada y Shlijá de la Tnuá Habonim Dror Argentina y de La Agencia Judía Para Israel.</p>
           </article>
 
           <article class="col-6 col-md-3 " >
           <img src="/images/alejandrostaff.png" alt="">
           <h4 class="staffh4" >Alejandro Arcuschin</h4>
-          <p class="staffp" >Sheliaj de La Agencia Judía para Israel y de la Tnua Hanoar Hatzioni. Director del proyecto Manhigut.</p>
+          <p class="staffp" >Sheliaj de La Agencia Judía Para Israel y de la Tnua Hanoar Hatzioni. Director del proyecto Manhigut.</p>
        </article>
 
        <article class="col-12 col-md-3 artmeta" >
           <img class="divstaffartimg" src="/images/dashistaff.png" alt="">
           <h4 class="staffh4" >Dashi Valentina Jusid</h4>
-          <p class="staffp" >Shlijá del Movimiento Juvenil Hejalutz Lamerjav Argentina y de La Agencia Judía para Israel.</p>
+          <p class="staffp" >Shlijá del Movimiento Juvenil Hejalutz Lamerjav Argentina y de La Agencia Judía Para Israel.</p>
        </article>
        </div>
     
