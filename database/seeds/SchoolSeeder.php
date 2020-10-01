@@ -13,20 +13,20 @@ class SchoolSeeder extends Seeder
     public function run()
     {
         DB::table('schools')->insert([
-           'name' => 'Usuario1',
-           'password' => 'Password1'
+           'name' => 'Tajana1',
+           'password' => 'GoldaMeir1'
         ]);
         DB::table('schools')->insert([
-            'name' => 'Usuario2',
-            'password' => 'Password2'
+            'name' => 'Tajana2',
+            'password' => 'BenGurion2'
          ]);
          DB::table('schools')->insert([
-            'name' => 'Usuario3',
-            'password' => 'Password3'
+            'name' => 'Tajana3',
+            'password' => 'Hertzl3'
          ]);
          DB::table('schools')->insert([
-            'name' => 'Usuario4',
-            'password' => 'Password4'
+            'name' => 'Tajana4',
+            'password' => 'MosheDayan4'
          ]);
     }
 }
